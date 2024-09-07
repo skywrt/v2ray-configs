@@ -59,13 +59,21 @@ def decode_dir_links(dir_links):
 
 def main():
     links = [
+        'https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan',
+        'https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks',
+        'https://raw.githubusercontent.com/ts-sf/fly/main/v2',
         'https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub',
         'https://raw.githubusercontent.com/shabane/kamaji/master/hub/b64/merged.txt'
     ]
     dir_links = [
-        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt'
-        
-    
+        'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt',
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt',
+        'https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt',
+        'https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt'
        ]
 
     decoded_links = decode_links(links)
