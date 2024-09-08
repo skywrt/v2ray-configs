@@ -1,3 +1,11 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.0:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.49.253:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.49.253:80
+vless://6f9625a6-0a9e-4aad-995b-dbd846c2a59e@160.153.0.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.179:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.151:443
+vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@104.21.92.162:8880?security=none&type=ws&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.162:8880
+vless://4352f2a7-d620-474e-9249-e866774a2c81@45.82.100.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#🔒 VL-WS-TLS 🇦🇲 AM-45.82.100.62:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.152:443?security=tls&sni=MaHDisErvER-1.PaGEs.DEV&type=ws&host=MAhDiSERVER-1.pAGEs.DEV&path=%2F8qrikSmnEGN1hmOe%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.152:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.254:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.254:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.215:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.215:443
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.126.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2FTelegram@SinaBigo@SINABIGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.126.175:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.141:443?security=tls&sni=v2nGFAst.pagEs.DEv&type=ws&host=v2NGFAsT.PAGeS.dEv&path=%2FsYyRK42PGeE3H9DF%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.141:443
@@ -490,11 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.53:443?security=tls&sni=x
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@173.245.59.100:443?security=tls&sni=bia-2-vip-programs.hsjsak.ir&type=ws&host=bia-2-vip-programs.hsjsak.ir&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@138.2.95.33:17465?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-138.2.95.33:17465
 vless://93b99881-df03-4597-9146-0c11e46387f7@124.80.75.68:39658?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-124.80.75.68:39658
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.47.56:2053?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3FTM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.56:2053
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.130.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.130.59:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2096?security=tls&sni=713bA709.foRBlooD.PAGeS.dEv&type=ws&host=713bA709.foRbLoOd.PagEs.dEV&path=%2FBo9FLfQnLharzeeT%2Fc3BlZWR0ZXN0LWFtMy5nY29yZS5jb20%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:2096
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@69.84.182.197:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.197:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.16:443
-vless://222d4f01-cce8-45c8-bdbe-c6a81488ce12@104.21.69.44:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:80
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.172:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.172:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.234:443?security=tls&sni=kb.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.234:443
