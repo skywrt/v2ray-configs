@@ -1,17 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.81:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@15.204.87.225:5003#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:5003
-ss://MzJmMDliNzAtZDJmNy0xMWVlLWFiZGEtMDA1MDU2MDNlNzBkOg==@104.21.49.18:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.49.18:443
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6679#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6679
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8091
-ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.93.118:8882#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.118:8882
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.69:8119#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.69:8119
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8119#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8119
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8090
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8000#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8000
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.93.118:8080#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.118:8080
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5500
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:5601#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:5601
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:989
@@ -498,3 +484,17 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.4.47:443?security=tls&sni=pp
 vless://3bbba349-18ea-4498-9a01-e3d068620623@162.159.153.2:8880?security=none&type=splithttp&host=DailyConfigs-hhahVSHBbhh56ha.www.speedtest.net.blackoutconnection.ir.&path=%2FDaily_Configs%2CDaily_Configs%2CDaily_Configs#🔒 VL-SPLITHTTP-NONE 🏴‍☠️ NA-162.159.153.2:8880
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.16.110.49:443?security=tls&sni=Pages.dev&type=ws&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.49:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.0.185:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.0.185:80
+vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@172.66.213.38:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.213.38:8080
+vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@172.67.130.66:80?security=none&type=ws&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V06.SiMansaNaT.Ir#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.130.66:80
+vless://7ec91fc1-b01f-4360-adfb-e5a0e40b4ff8@151.101.130.219:443?security=tls&sni=cdn.speedtest.net&type=ws&host=cdn.coinc.com&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
+vless://97b11ee6-a62a-4e60-839c-de974a155089@188.164.159.41:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-188.164.159.41:443
+vless://962c4650-ca89-4af8-9e3b-c3f9510ba07a@104.17.147.22:8443?security=tls&sni=02.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:8443
+vless://0bc8bd56-8053-4876-9cc0-f8cc8750631c@104.18.4.2:2082?security=none&type=httpupgrade&host=Rubi-vvvvvvvvvvvvvvvvvvvvvvvvv-speedtest.net.fast.com.xyz-vvvvvvvvvvvvvvvvvvvvvv-fast.com.Telactive.Net.&path=%2F%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.18.4.2:2082
+vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?security=tls&sni=pardazeshvpn-tg97.pages.dev&type=ws&host=pardazeshvpn-tg97.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.211:443
+vless://6d93804a-2a3d-7af8-6f64-1c2c0bdb6328@37.152.179.108:8880?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.179.108:8880
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&sni=ov-germany1.09vpn.com&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.121.110:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.18:2053?security=tls&sni=JOINMahDIsERvEr-340.pageS.dev&type=ws&host=JoinmahDisErVer-340.PaGeS.DEv&path=%2F3VmWLTBaqH67eq8s%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.18:2053
+vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.246:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.246:443
+vless://4352f2a7-d620-474e-9249-e866774a2c81@45.82.100.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#🔒 VL-WS-TLS 🇦🇲 AM-45.82.100.62:443
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.26.15.16:443?security=tls&sni=pages.dev&type=ws&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&path=%2FXV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.16:443
+vless://4d58c795-28fa-44c3-b243-5440a3958dd5@104.26.15.16:2095?security=none&type=httpupgrade&host=allnet.congpsyrih.sepahanv2ray.57fhej.seoran.vtueuvs.comfrtgdary.viisbgsibkmjdiudrtywhan.csbs.negarserverkhani.ir&path=%2FTelegram-vezzeV2Ray%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.15.16:2095
