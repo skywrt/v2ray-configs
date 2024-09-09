@@ -1,3 +1,7 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.213:443
+vless://6840f1e2-8f4a-451b-9ba4-e1cf14f2142c@193.151.133.245:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.133.245:8080
+vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:8080?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.192:8080
+vless://5659699c-7e63-4a98-b288-5aefd95291ec@104.21.43.116:80?security=none&type=ws&host=2.v2.www.speedtest.net.moienvsobhanvip.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.116:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.81:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.81:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.246:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.246:443
 vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
@@ -494,7 +498,3 @@ trojan://auto@162.159.152.166:443?security=tls&type=ws&sni=fe9b5676-a2aa-4b6a-82
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8009#US67%202.0MB%2Fs
 trojan://telegram-id-privatevpns@3.255.35.152:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A590
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#US68%201.9MB%2Fs
-trojan://telegram-id-directvpn@54.217.161.50:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A591
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#US69%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8881#US70%202.0MB%2Fs
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%E6%9C%AA%E7%9F%A592%207.1MB%2Fs

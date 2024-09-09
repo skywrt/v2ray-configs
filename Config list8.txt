@@ -1,3 +1,7 @@
+vless://8d48553e-36d6-4d55-9b87-5ce6b31fd0ac@104.21.69.44:2087?security=tls&sni=Linemovsatr-totolAmin.parqi.ir&type=grpc&serviceName=@iMrV2ray@iMrV2ray@iMrV2ray@iMrV2ray@iMrV2ray@iMrV2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2087
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.96:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.96:443
+vless://8e608355-8fb5-430a-98cc-3fe0a661ab59@172.66.47.180:8880?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.180:8880
+vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.144:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.144:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.219:443?security=tls&sni=zx.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.219:443
 vless://429a2672-eda2-45ab-aa66-33ea0bca8118@104.18.101.8:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.101.8:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.148.244:2053?security=tls&sni=AZadnEt-fREEDoM-IraNiaN1.pAGES.Dev&type=ws&host=azaDnet-FReEDoM-IRANian1.pageS.deV&path=%2Ftelegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.148.244:2053
@@ -494,7 +498,3 @@ vless://8d636170-6540-4000-9629-d91f10c01635@209.38.162.15:14596?security=none&t
 vless://3323c3a9-06dc-4217-9e4f-93384f499dfd@62.60.219.145:443?security=none&type=tcp&path=%2F#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.219.145:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.92:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.92:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@108.162.193.243:443?security=tls&sni=dns68.putata.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.243:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.181:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.181:443
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.21.33.89:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.89:443
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@162.159.152.2:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
-vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.60:80

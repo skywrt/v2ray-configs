@@ -1,3 +1,7 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2fp#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.9:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.102.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.102.151:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.219:443?security=tls&sni=vb.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.219:443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048%3Bsecurity%3Dtls%3Bencryption%3Dnone%3Bhost%3Dedge.020770.xyz%3Btype%3Dws%3Bsni%3Dedge.020770.xyz#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.36.66:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@175.199.146.29:20202?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-175.199.146.29:20202
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.25:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.25:443
@@ -494,7 +498,3 @@ vless://93b99881-df03-4597-9146-0c11e46387f7@5.161.121.112:4343?security=tls&sni
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?security=tls&sni=www.Arizona.edu&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.133:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.168.205:443?security=tls&sni=pPal03.YasSine-MaLvIn.WorkERs.deV&type=ws&host=PpAL03.yaSsinE-MALvIN.WoRKerS.DeV&path=%2FczGPfFbbavjeES3J%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.205:443
 vless://8d48553e-36d6-4d55-9b87-5ce6b31fd0ac@172.67.204.84:2087?security=tls&sni=Linemovsatr-totolAmin.parqi.ir&type=grpc&serviceName=@iMrV2ray@iMrV2ray@iMrV2ray@iMrV2ray@iMrV2ray@iMrV2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.213:443
-vless://6840f1e2-8f4a-451b-9ba4-e1cf14f2142c@193.151.133.245:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.133.245:8080
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:8080?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.156.192:8080
-vless://5659699c-7e63-4a98-b288-5aefd95291ec@104.21.43.116:80?security=none&type=ws&host=2.v2.www.speedtest.net.moienvsobhanvip.ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.116:80
