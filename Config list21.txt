@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@35.159.183.52:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@3.72.150.129:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.50.93.107:22222?security=tls&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.138:443?security=tls&amp;type=ws&amp;sni=vip.putata.eu.org&amp;path=/?ed=2560&amp;host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@[2606:4700:310c::ac42:2ed7]:2083?path=%2FOVmkPBATL0FijQ3AWVBo&amp;security=tls&amp;alpn=h2&amp;host=freeinternetforeveryone.segaro.tech&amp;fp=chrome&amp;type=ws&amp;sni=freeinternetforeveryone.segaro.tech#free+internet+for+everyone+tls+WS+CDN+trojan
