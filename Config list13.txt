@@ -1,6 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0597
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTMxLjkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhdmVpcm9yLmNvbSIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xMzEuOS0yNzcwIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0592
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-0599
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0594
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.15.27.48-0605
@@ -498,3 +495,6 @@ trojan://telegram-id-privatevpns@3.74.105.227:22222?security=tls&alpn=http/1.1&h
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&fp=randomized&type=ws&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
 vless://V2RAXX@104.17.147.22:8080?path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
 vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@104.17.147.22:80?path=%2F&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
+vless://e696b824-df07-4048-accb-83a54695b5e2@104.17.148.22:8080?path=%2FV_2raYngVpn%3Fed%3D8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
+vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.18.18.37:2053?path=%2Ftelegram-proxy_mtm%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=FrEeDOM2.paGES.dEV&type=ws&sni=FrEeDOM2.paGES.dEV#[🇨🇦]t.me/ConfigsHub`
+vless://610397e0-7dfa-4aa7-b7c0-8754a33c257c@Www.speedtest.net:8880?path=/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config%3Fed%3D2048&security=none&encryption=none&host=https.zula.ir.www.cloudflare.com.www.speedtest.net.www.google.com.DnsGameSpeedtestdownloadfars.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub`
