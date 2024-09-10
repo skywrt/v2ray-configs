@@ -1,5 +1,3 @@
-vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjEzLjEyNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInRpbGViYW5pLmNvbSIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMTMuMTI0LTI3NzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0603
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0597
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTMxLjkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhdmVpcm9yLmNvbSIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xMzEuOS0yNzcwIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0592
@@ -498,3 +496,5 @@ trojan://telegram-id-privatevpns@3.74.105.227:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.138.43.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@3.74.105.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool🛜🇩🇪Germany`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&fp=randomized&type=ws&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
+vless://V2RAXX@104.17.147.22:8080?path=%2FV2raxx%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--79qr8bwg980ayroj80c.website.&type=ws#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
+vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@104.17.147.22:80?path=%2F&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇨🇦Canada`
