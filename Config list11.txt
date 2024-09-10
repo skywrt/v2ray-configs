@@ -1,6 +1,3 @@
-vless://facefd1f-903b-411d-b0a2-286c9a76e471@63.141.128.91:443?security=tls&sni=Us.xiaoER.US.kG&type=ws&path=%2FA4SYy2fLrYlSKQq0%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.91:443
-vless://2b0f62d4-a851-4243-881f-cdaccd378b8e@139.59.106.135:443?security=tls&sni=fonts.googleapis.com&type=tcp#🔒 VL-TCP-TLS 🇸🇬 SG-139.59.106.135:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.194:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.194:80
 vless://e4888f4d-d889-4f44-a9de-3c8309736e31@104.25.0.86:80?security=none&sni=www.iranserver.com.iransell.ir.разведки守望者.hаблюдатели.wonkacapitano.buzz.&type=ws&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.0.86:80
 vless://0348038c-de3b-5790-8756-402479efb5c7@104.21.31.170:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.170:2053
 vless://c985918e-8b54-4bd0-cded-69433935e0ac@172.67.193.36:2086?security=none&type=httpupgrade&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.193.36:2086
@@ -498,3 +495,6 @@ vless://a59739cb-8207-4878-b84d-458e1513bfac@104.21.59.27:443?security=tls&sni=p
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.196:443?security=tls&sni=xe.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.196:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@216.239.32.21:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-216.239.32.21:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.89:443?security=tls&sni=xa.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.89:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.243:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.243:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.214.30:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.214.30:443
