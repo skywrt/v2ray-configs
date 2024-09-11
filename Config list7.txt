@@ -1,3 +1,13 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSElySVZqVkxZTG03elhDS3E0WHRP@18.171.158.208:10974#🔒 SS-TCP-NA 🇬🇧 GB-18.171.158.208:10974
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989#🔒 SS-TCP-NA 🇫🇷 FR-51.15.27.48:989
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5004#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5004
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5004
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.222:8080#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bjRsekVhNmxGTlJxNTdrR1NmYWtB@77.246.98.67:443#🔒 SS-TCP-NA 🇳🇱 NL-77.246.98.67:443
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:4444
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8882
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.118:5003#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.118:5003
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4=@103.174.86.113:51348#🔒 SS-TCP-NA 🇮🇳 IN-103.174.86.113:51348
@@ -488,13 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.189.218:443?security=tls&sni
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.37.52:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.37.52:80
 vless://db0437ba-d0fd-488f-814d-051d1cb8b5da@172.66.47.163:443?security=tls&sni=pardazeshvpn-tg103.pages.dev&type=ws&host=pardazeshvpn-tg103.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.163:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.104:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.112:443?security=tls&sni=he.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.112:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.251.54.234:8443?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-47.251.54.234:8443
-vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@193.33.87.202:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-193.33.87.202:2082
-vless://25102a1a-e0ea-4a0d-a40d-c68f74d2fe9f@151.101.130.219:80?security=none&type=ws&serviceName=Telegram:@vpnwedbaz-@vpnwedbaz-Telegram:@vpnwedbaz&host=barkatc2.ir&path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.219:80
-vless://b4ae2dd3-4a3e-4f0b-f8d3-0338c8796759@104.17.148.22:2086?security=none&type=httpupgrade&host=download.ir.shad.ir.bmi.ir.www.speedtest.net.zula.com.aparat.com.spikevpn.cfd.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2086
-vless://475f0e22-770d-4605-b333-f4783a6a0a1d@162.159.135.234:2087?path=%2F%3Bsecurity%3Dtls%3Bencryption%3Dnone%3Bhost%3DconfigngnixV2rayng.shhproxy.cfd%3Btype%3Dws%3Bsni%3DconfigngnixV2rayng.shhproxy.cfd#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.135.234:2087
-vless://93b99881-df03-4597-9146-0c11e46387f7@115.90.136.116:13736?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-115.90.136.116:13736
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@193.122.102.79:18161?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇰🇷 KR-193.122.102.79:18161
-vless://5361a986-91b9-4756-a78c-103261128d83@154.197.80.175:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇸🇨 SC-154.197.80.175:2082
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2securityfp#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.244:443
