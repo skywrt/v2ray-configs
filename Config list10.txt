@@ -1,7 +1,3 @@
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.40.30:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.40.30:443
-vless://5ebbbaca-a9cb-4713-b0b8-00a74e59c491@77.37.33.86:2082?security=none&type=httpupgrade&host=SWISS.CgNM.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇩🇪 DE-77.37.33.86:2082
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.157:443?security=tls&sni=mahDiserveR-8ii.PAGES.dev&type=ws&host=mahdiSeRVer-8ii.PaGEs.Dev&path=%2F82eTgYhbJ4ONVFyr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.157:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@106.240.98.130:31285?security=tls&sni=ke.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-106.240.98.130:31285
 vless://785f85d9-faa2-4a5b-95ff-29f89021dd46@205.233.181.62:8443?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.62:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.0:443?security=tls&sni=xf.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.0:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@185.186.244.184:81?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇳🇱 NL-185.186.244.184:81
@@ -498,3 +494,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.234:2083?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.90:2087?security=tls&sni=JoiNV2ngfaST-aeb.PagEs.DEV&type=ws&host=jOiNv2nGFAst-AeB.pAGes.DEV&path=%2FccXpjwOtX57pqG6C%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.90:2087
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.169:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.169:443
 vless://591db3f2-f779-43f6-9fe5-084ea24454e4@172.67.204.84:443?security=tls&sni=pages.dev&type=ws&host=difikalavdivardivardigikaladivardivarbazardigikalabazar.pages.dev&path=/divardigikalabirdxray?ed%3D8080&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.119:443?security=tls&sni=he.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.119:443
+vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@45.80.110.183:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇪🇪 EE-45.80.110.183:2082
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.183:2095?security=none&type=httpupgrade&host=MiKrRxGa24.jImIjAcK.FuN#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.183:2095
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.81:443?security=tls&sni=vf.ylkszy.eu.org&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.81:443
