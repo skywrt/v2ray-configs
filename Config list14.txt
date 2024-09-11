@@ -1,3 +1,5 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.176.151.54:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧`
+trojan://telegram-id-privatevpns@35.179.65.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs`
 trojan://telegram-id-directvpn@51.20.49.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@35.179.65.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub`
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FKz7tn46K3QAyKCMy%3Fed&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#[🇨🇦]t.me/ConfigsHub`
@@ -496,5 +498,3 @@ ss://telegram-id-ArV2ray@speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2r
 ss://77d19746-328e-4938-92b5-faf379be7046@speedtest.net:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws&amp;sni=speedtest.net#WS-Config
 ss://648d41d2-ae83-4ee0-961a-a6c0acbece13@104.21.90.112:443?encryption=none&amp;security=tls&amp;sni=hashemjavid1367.hashemjavid1988.workers.dev&amp;type=ws&amp;host=hashemjavid1367.hashemjavid1988.workers.dev&amp;path=%2F#%E2%9A%A1@DeamNet_Proxy+%F0%9F%94%BB%F0%9F%87%A8%F0%9F%87%A6CA+%F0%9F%94%BA%F0%9F%87%A9%F0%9F%87%AADE+%E2%98%91ADSL%E2%98%91MTN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaUhvM2hCR0Y4aDFjTmc4eXF0Y080@45.153.231.33:46980#%40daredevill_404
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2Fkkhhl0gssoz7m6id%2Fzgu1lm1lcmxpbm56lmxpbms%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&amp;type=ws&amp;sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#HELIX+Free+Server+9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#@Hope_Net
