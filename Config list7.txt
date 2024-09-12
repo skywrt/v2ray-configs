@@ -1,8 +1,3 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTksxYW9RdUVaYUM5UVRpdzk0Z1Z6TlhyQWRkNm04UVhIM0RSTlhZdkhDNXB2a0V1VmJyR2M1UURhNkZXb1lremQ1Unhlc0h0c2lGZHF3VVVEWVVyQkQ2YTd2cGk1TVM=@107.182.129.101:52249#🔒 SS-TCP-NA 🇺🇸 US-107.182.129.101:52249
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.71:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:8090
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.132:5500#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.132:5500
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5600#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5600
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#🔒 SS-TCP-NA 🇺🇸 US-67.220.86.72:8882
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:2376
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8091
@@ -498,3 +493,8 @@ vless://93b99881-df03-4597-9146-0c11e46387f7@211.196.226.172:32202?security=tls&
 vless://349ece52-713d-4955-b8c7-5874b4906235@151.101.194.219:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.219:80
 vless://c46e9a8a-226e-4cc2-aeff-31c774e1e4f9@172.66.47.182:443?security=tls&sni=pardazeshvpn-tg93.pages.dev&type=ws&host=pardazeshvpn-tg93.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.182:443
 vless://e6fa4064-2834-471c-bdaf-93a59bc5390c@104.16.100.84:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.100.84:8080
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.96:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.96:443
+vless://de710a78-04ae-4ff8-a893-2223849e75ea@151.101.66.219:80?security=none&type=ws&host=Baazamkebidaram.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
+vless://97b11ee6-a62a-4e60-839c-de974a155089@104.129.164.228:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-104.129.164.228:443
+vless://a865214b-5fef-443f-b338-105e2442fae6@104.25.0.13:8080?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.0.13:8080
+vless://00d7256f-6ef2-42ee-8319-d4a49536b918@172.66.44.135:443?security=tls&sni=vpn-aryoo-bo4.pages.dev&type=ws&host=vpn-aryoo-bo4.pages.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.135:443
