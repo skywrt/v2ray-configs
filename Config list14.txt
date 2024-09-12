@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@13.41.13.173:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp#[🇬🇧]t.me/ConfigsHub`
 trojan://telegram-id-directvpn@3.140.82.73:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub`
 trojan://telegram-id-privatevpns@35.181.255.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs`
 trojan://telegram-id-privatevpns@35.181.255.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub`
@@ -497,4 +498,3 @@ ss://%37%39%62%34%32%65%37%35%2d%35%61%36%61%2d%34%31%33%66%2d%39%65%31%66%2d%31
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.191.210:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#configkade%F0%9F%91%89%40proxystore11
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FTelegram-V2ray_Alpha%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&amp;type=ws&amp;sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://2fa8bb5f-6380-4207-b392-789a3e1de31a@all.shhproxy.cfd:443?mode=gun;security=tls;encryption=none;type=grpc;serviceName=%40Shh_Proxy,%40Shh_Proxy;sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site#%40proxyymeliii
