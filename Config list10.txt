@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.130:443?security=tls&sni=73FF2B24.bpb-PaNEl-B1Q.PaGes.dEv&type=ws&host=73fF2B24.bPB-PAnEl-B1Q.paGEs.dEv&path=%2FiXyGTa2hkso0v8lU%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
 vless://4c805462-4ced-4f29-88f0-029a8071a728@5.160.46.104:35492?security=none&type=tcp&host=ubisoft.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.46.104:35492
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@172.67.39.222:443?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.39.222:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.172:443
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.216.85:443?security=tls&sni=
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.146.173.200:443?security=tls&sni=pages.dev&type=ws&host=fastxv.pages.dev&path=%2FXV2ray%3Fed%3D512#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.200:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.234:2083?security=tls&sni=41F8c935.kAkq-PAnEl3.PAGEs.dEV&type=ws&host=41F8C935.kAkQ-PaneL3.pAges.deV&path=%2FxndGBjosG1RBEuq6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.234:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.252.236:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.165.229:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.165.229:443
