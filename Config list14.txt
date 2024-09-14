@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-9198
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:800#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-0620
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-8314
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-6157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:804#%F0%9F%87%AF%F0%9F%87%B5JP-185.172.113.182-6158
@@ -498,3 +496,5 @@ trojan://telegram-id-privatevpns@99.80.164.190:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@99.80.164.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub`
 vless://9191c76c-b27c-401f-b220-66d8fcb425b4@speedtest.net:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=hdhshsjshdjsbdjhhfxghcxsjsjdbsj.com&fp=chrome&type=ws&sni=speedtest.net#[🇺🇸]t.me/ConfigsHub`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FLKt4I3BCY2QCbaHA%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2E9Bc800.NEW-bpB-WoRKeR-PANeL-DRK.pagES.deV&fp=randomized&type=ws&sni=2e9BC800.New-bPb-WorkEr-pAnEL-DrK.paGES.DeV#[🇨🇦]t.me/ConfigsHub`
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg20.pages.dev&type=ws&sni=pardazeshvpn-tg20.pages.dev#[🇨🇦]t.me/ConfigsHub`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.190:2083?path=%2F6LLG6F0JsTRqGWFV%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2e9bc800.NEw-BPb-WORkeR-panEL-dRk.pageS.deV&fp=randomized&type=ws&sni=2e9bC800.NEw-BPB-WorkEr-PAnEL-drK.pages.dev#[🇨🇦]t.me/ConfigsHub`
