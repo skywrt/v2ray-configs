@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.69:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.69:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@204.110.220.3:80?security=tls&sni=xa.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.3:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.210:443?security=tls&sni=v2NGFAsT-4hU.PageS.dEv&type=ws&host=v2NGFaST-4hU.pAgeS.dEv&path=%2FVvYUfwDk5KZjUmtn%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.210:443
 vless://3a65b327-2aa2-4538-bc1c-49bbd9fcebc3@103.35.189.42:443?security=tls&sni=www.speedtest.net.ftp.debian.org.自己不去看啥事情基本事事.hosting-96.ir.cloudflare.com.freeiranweb.pages.dev.www.you.com.www.visa.com.zula.ir.&type=tcp&host=us1.x2fast.net&path=%2Fhttp&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443
@@ -497,4 +498,3 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.245:443?security=tls&sn
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?security=tls&sni=continuity.sasuke.ir&type=ws&host=continuity.sasuke.ir&path=%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.201:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.91:443?security=tls&sni=xh.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.91:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.42.89.182:443?security=tls&sni=a.ssll.gay&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.182:443
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&host=ios-azadnet.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.214:2053
