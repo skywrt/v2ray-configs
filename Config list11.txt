@@ -1,4 +1,3 @@
-vless://97b11ee6-a62a-4e60-839c-de974a155089@154.206.12.131:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-154.206.12.131:443
 vless://3e33acba-13b9-4485-9c0c-ae5501e2b468@172.66.213.38:443?security=tls&sni=pardazeshvpn-tg31.pages.dev&type=ws&host=pardazeshvpn-tg31.pages.dev&path=%2F@VPNHTTPInjectorfree&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.38:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.45:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.45:443
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@31.43.179.87:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&path=%2Fproxy_mtm%3Fedfp#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.87:2083
@@ -498,3 +497,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.146.173.11:443?security=tls&sni
 vless://ec6e3722-1456-44eb-8349-d565aa774174@172.67.213.142:443?security=tls&sni=telegram-vpnhttpinjectorfree-31.hawage8393.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-31.hawage8393.workers.dev&path=%2FTelegram%3A@VPNHTTPInjectorfree-Telegram%3A@VPNHTTPInjectorfree-Telegram%3A@VPNHTTPInjectorfree%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.213.142:443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@158.224.83.160:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-158.224.83.160:443
 vless://97b11ee6-a62a-4e60-839c-de974a155089@92.53.188.199:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇮 SI-92.53.188.199:443
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.47.56:2053?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3FTM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.56:2053

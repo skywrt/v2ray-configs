@@ -1,4 +1,3 @@
-vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.47.56:2053?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3FTM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.56:2053
 vless://9c18b0f0-0a6d-59ed-9caa-05ed01db072e@185.146.173.49:443?security=tls&sni=no2.vless.site&type=ws&host=no2.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.49:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.216.85:443?security=tls&sni=pPAl03.daLE-tirSo.WoRKErS.dEV&type=ws&host=PPaL03.Dale-TIRsO.WOrKers.dev&path=%2FzNBRN1mKjVJtJTuY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.85:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.254:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.254:443
@@ -498,3 +497,4 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#%F0%9F%87%BA%F0%9F%8
 trojan://ComYEI7fQv@51.68.215.55:443?security=tls&type=ws&sni=uk-04.allhubb.info&path=/TBHDjkhbgbygcvbjhbfrASDFASdfapoihbgwbenguyncbkjnsrfgFgYWgbunhgfdklerjfgjhkjnwfhXQWDefpmvfrtzvedfhurtg#%E6%9C%AA%E7%9F%A566%20368.3KB%2Fs
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.181:443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A567
 trojan://telegram-id-privatevpns@63.32.34.106:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A568
+trojan://tg-dns68@162.159.153.15:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A569
