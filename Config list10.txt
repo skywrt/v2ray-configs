@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.74.214:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..@Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.214:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.161.13:443?security=tls&sni=PROdUcTiOn.pPaL03.aDhAM-EsSa.WoRKers.deV&type=ws&host=pROdUCtioN.PPaL03.aDhAM-ESSA.wOrKErs.dEv&path=%2FBVcSI6Btsnes5TFN%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.13:443
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.10:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.10:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.224.110:80?security=none&type=ws&host=a.ssll.gay&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.110:80
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.4:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.4:443
@@ -496,5 +498,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.221.227:443?security=tls&sni
 vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?security=tls&sni=continuity.sasuke.ir&type=ws&host=continuity.sasuke.ir&path=%2Fws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.201:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.73.86:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.73.86:80
 vless://aad2832a-0912-5629-a4dd-de930f06945c@104.17.148.22:2095?type=ws&host=www.digikala.com.joinTelegram.mosiv2.nl2.vless.Sitespeedtest.net.&path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.22:2095
-vless://3b657b37-0d65-42c9-a2fa-ed066ff5c6a3@45.81.18.23:47571?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-45.81.18.23:47571
-vless://dbd36ab1-5830-4a1f-883c-ec27df11d4ca@104.21.50.234:8443?security=tls&sni=worker-tight-tree-d647.kanal3200.workers.dev&type=ws&host=worker-tight-tree-d647.kanal3200.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.234:8443

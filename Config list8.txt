@@ -1,3 +1,5 @@
+trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@162.159.133.234:443?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.dE&path=/path/Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config---Alfred_Config#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083
 trojan://telegram-id-directvpn@15.236.96.80:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.96.80:22222
 trojan://tg-dns68@162.159.153.234:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.234:443
 trojan://Fvv4Bz926a@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 TR-WS-NONE 🏴‍☠️ NA-104.21.46.33:80
@@ -496,5 +498,3 @@ vless://f4859fc9-dc44-11ee-b9ba-00505603e70d@104.26.11.137:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.48:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2fp#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.48:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.59:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.225.59:80
 vless://97b11ee6-a62a-4e60-839c-de974a155089@188.164.159.179:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-188.164.159.179:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@63.141.128.103:443?security=tls&sni=xi.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.103:443
-vless://97b11ee6-a62a-4e60-839c-de974a155089@213.109.205.253:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇨🇾 CY-213.109.205.253:443
