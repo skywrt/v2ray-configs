@@ -1,3 +1,4 @@
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.14.19:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:443
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@162.159.240.141:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.240.141:8080
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@204.110.220.120:80?security=tls&sni=vi.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-204.110.220.120:80
 vless://3823b1d4-9d22-4147-a5ab-9da806a7e8f1@193.151.158.16:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws1%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-193.151.158.16:80
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.15.121:80?type=ws&host=us3.r
 vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@154.21.93.92:37956?security=tls&sni=pages.tcorg.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-154.21.93.92:37956
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.90:8443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.125:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3DTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.125:443
-vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.0.35:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.35:8880
