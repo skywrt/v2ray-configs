@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0679
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0677
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@80.92.204.106:9064#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0660
+vmess://ewogICAgImFkZCI6ICIxMDQuMTYuNjcuMzgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ1czNlLW1tbm5mcjlkb3AwLnYyZnJlZXZwbi5jb20iLAogICAgImlkIjogIjJhOGExMGZiLTljYTMtMzY3ZS1hMjM0LWNmMDlmODQxYmU0ZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92MTE4LWZjY3hteG0zNSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE2LjY3LjM4LTA0MjMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989#%F0%9F%87%B2%F0%9F%87%BDMX-190.103.179.23-0678
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-1340
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1483
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1481
@@ -493,8 +498,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?path=%2F%3Fed&s
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.216:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=hl.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.176:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇸🇨Seychelles`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
-vless://1b36afe3-79d3-42c5-8ac2-407ca73ce300@193.42.36.44:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=pages.tcorg.filegear-sg.me#👉🆔 @v2ray_configs_pool📡🇵🇱Poland`
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.192:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=hl.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.19:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
