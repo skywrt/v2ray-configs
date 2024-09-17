@@ -41,3 +41,16 @@ jobs:
         push: "https://github.com/skywrt/v2ray-configs.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  delete:
+    runs-on: ubuntu-latest
+    needs: [build]
+    
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 0
