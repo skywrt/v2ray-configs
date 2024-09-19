@@ -1,3 +1,4 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.204:443?security=tls&sni=xl.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.204:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.92.255:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-104.156.92.255:443
 vless://e10643eb-d506-4134-a839-79666fc650e3@104.17.245.156:443?security=tls&sni=47264192333081204176091557333481.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&type=ws&host=47264192333081204176091557333481.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.156:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.159:443?security=tls&sni=kl.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.159:443
@@ -497,4 +498,3 @@ vless://72b3b7fb-9f08-4447-a265-8fc0642a97dd@92.223.124.62:80?security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.166:2053?security=tls&sni=JOinmahDiServER-ei9.Pages.dEv&type=ws&host=jOinmaHDIseRvEr-ei9.paGES.Dev&path=%2F8yBQ1J5QRyH9geks%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.166:2053
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.128.68:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.128.68:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.133.35.104:8443?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.104:8443
-vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.58:443

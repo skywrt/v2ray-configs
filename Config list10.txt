@@ -1,3 +1,4 @@
+vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@162.159.192.187:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.187:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.138:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.138:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-151.101.131.1:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-91.193.58.119:2053
@@ -497,4 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.249.197.84:443?security=tls&sni
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:443?security=tls&sni=071ll2532.16965a6a7d.workers.dev&type=ws&host=071ll2532.16965a6a7d.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.217:443
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.47.59:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.59:443
 vless://7c0cc1e3-5b38-4d08-b39c-de69199bd4fc@172.67.69.236:8880?security=none&type=httpupgrade&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.69.236:8880
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.204:443?security=tls&sni=xl.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.204:443
