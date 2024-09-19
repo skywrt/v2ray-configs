@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8881
+ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:9090#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:9090
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7306#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7306
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.217:5499#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:5499
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.105:8080#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.105:8080
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8091
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.5:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:8090
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.85:7307#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.85:7307
 ss://c3M6Ly9ZV1Z6TFRFeU9DMW5ZMjA2WlRneU5XVTFNak10WVRabE5TMDBZVEZoTFdKa05EWXRORGhqTnprM1lUWXlaVFE1@111.38.53.158:11022#🔒 SS-TCP-NA 🇨🇳 CN-111.38.53.158:11022
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:8080
@@ -489,12 +498,3 @@ vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?security=tls&sn
 vless://d7e47374-af6f-4daa-8bba-7322a157107d@185.146.173.58:80?type=ws&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.58:80
 vless://5fe28267-b186-4d11-bad0-86cca7be5d62@104.19.78.210:2096?security=tls&sni=Bpb-WORkEr-pANEL-eu9.pAgES.DeV&type=ws&host=bPB-WoRkEr-PaNel-eU9.PAgEs.DeV&path=%2FFArKYqI8OadOS9ji%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.78.210:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.64:443
-vless://de543079-9ff5-4dce-8b68-97f61685efd7@104.20.23.46:443?security=tls&sni=hdfy1c1.cpiforpersia.uk&type=ws&host=hdfy1c1.cpiforpersia.uk&path=%2FLNGeLLJXXIlSdZMqnuxG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.23.46:443
-vless://40765c5b-5713-4d4c-9a68-0e1eca7bfa96@104.16.4.103:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.103:443
-vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.115:2083
-vless://7de38e1d-0442-463c-9527-026e9237dbde@185.146.173.67:8880?type=ws&path=%2FFree#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.67:8880
-vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.24.34:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2FTELEGRAM...PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:2052
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.209.231:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.231:8080
-vless://cca9a8e7-b6c6-42da-b230-601879655cea@104.21.54.233:2083?security=tls&sni=selinc-----8------selinc----8---selinc.payfhu.workers.dev&type=ws&host=selinc-----8------selinc----8---selinc.payfhu.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.54.233:2083
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@172.64.34.216:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.216:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.200.160.104:443?security=tls&sni=vj.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.104:443
