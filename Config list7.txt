@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.119:5601#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.119:5601
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24216#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24216
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.95:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:6679
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29222#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29222
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29220#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29220
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@169.197.141.84:443#🔒 SS-TCP-NA 🇺🇸 US-169.197.141.84:443
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25202#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25202
@@ -494,7 +498,3 @@ vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@194.76.18.143:2082?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.184:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.184:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.162.213:443?security=tls&sni=ppal03.HokobID488.workErs.dEv&type=ws&host=ppAl03.HOkobID488.wOrkERs.dev&path=%2FCO6dtpl3UfnhjooC%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.213:443
 vless://93b99881-df03-4597-9146-0c11e46387f7@139.180.136.178:29661?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-139.180.136.178:29661
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.178:443?security=tls&sni=BPFAv2.PAgES.DEV&type=ws&host=bPfaV2.PAgeS.DEv&path=%2FPHgb0hvZsjBDxZTq%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.178:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?security=tls&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev&type=ws&host=b458ab02.CAa-cHANel-woRkEr-PaGE-FRee-jHUIhNUJhPhjkl-NiHGkjn.paGEs.dev&path=%2FTELEGRAM.@vlees_v2rayng%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.251:443
-vless://5f9840b3-dfe8-4b40-8bb0-6f9b30f7a53c@104.18.33.45:80?security=none&type=ws&host=www.speedtest.net.zula.ir.soft98.ir.nobitex.com.vigilantecollection.com.&path=Daily_Configs%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.33.45:80
-vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.96.118:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.118:443
