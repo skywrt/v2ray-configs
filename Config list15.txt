@@ -1,3 +1,17 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-6343
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0650
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-6352
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.66:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-0454
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-0665
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0664
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3072
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-1525
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-0672
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0653
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-6347
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0660
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9101#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.95-1678
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0671
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-3044
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0675
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-5359
@@ -484,17 +498,3 @@ vless://e3efda59-1353-4b65-827d-6e1d32b28f71@162.55.221.233:46048?mode=gun&secur
 trojan://telegram-id-privatevpns@13.53.112.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs`
 trojan://telegram-id-privatevpns@13.53.112.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden`
 trojan://telegram-id-directvpn@15.157.205.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
-trojan://telegram-id-privatevpns@13.53.112.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub`
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjI1MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJvbmVhLmZsaGEucnUiLCAiaWQiOiAiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDk1IiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
-trojan://telegram-id-directvpn@15.157.205.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@50.16.135.254:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸`
-trojan://telegram-id-directvpn@15.157.205.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇨🇦]t.me/ConfigsHub`
-vless://telli--ZEDMODEON@speedtest.net:443?security=tls&encryption=none&type=ws&host=okala.com&path=/@ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-@ZEDMODEON?ed%3D2048&sni=speedtest.net&fp=chrome#[🇺🇸]t.me/ConfigsHub`
-vless://04e91f90-4802-4dbb-ac88-17d3d611fc68@ns8.esfahansiman.com:1210?mode=gun&security=reality&encryption=none&authority=&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#👉🆔 @v2ray_configs_pool📡🇪🇸Spain`
-vless://04e91f90-4802-4dbb-ac88-17d3d611fc68@ns8.esfahansiman.com:1210?mode=gun&security=reality&encryption=none&authority=&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#[🏁]t.me/ConfigsHub`
-vless://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@speedtest.net:443?serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&path=%2F%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y,%74%65l%65g%72a%6d-%41r%562r%61y%3Fed%3D2048&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&security=tls&encryption=none&alpn=h2,http/1.1&host=cqou9.ir&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://4f13392c-d746-47a5-89e3-3d196deba8ca@sport.k6n.ir:443?path=Join%3A%40oPeTa_v2ray-telegram%3A%40oPeTa_v2ray-join-chanel%3A%40oPeTa_v2ray-join%3A%40opeta_v2ray-telegram%3A%40opeta_v2ray%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=kingstore.ir&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.180.249:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦`
-trojan://telegram-id-privatevpns@18.196.105.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs`
-trojan://telegram-id-privatevpns@18.196.105.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://5ffe1dd4-4833-48ab-b5fa-00bab23e74bf@www.speedtest.net:8880?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D8880&security=none&encryption=none&host=www.speedtest.net.B.lightning-6.LiVE.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
