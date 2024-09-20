@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.120:2376#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:2376
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#🔒 SS-TCP-NA 🇺🇸 US-154.3.8.151:30067
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2N1gxQ2dEbWJHaklaeTRYa0tUaGxh@89.23.110.74:61194#🔒 SS-TCP-NA 🇳🇱 NL-89.23.110.74:61194
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:9102
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:7001
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29227#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29227
@@ -494,7 +498,3 @@ vless://369bde84-3e22-43dd-a41d-58c835ef5776@188.114.96.131:80?security=none&typ
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.77:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.77:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@213.170.157.1:443?security=tls&sni=vi.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇿 NZ-213.170.157.1:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?security=tls&sni=hn.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.251:443
-vless://93b99881-df03-4597-9146-0c11e46387f7@43.130.134.123:65001?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-43.130.134.123:65001
-vless://cc3433c8-9ffb-4181-af72-02c5e39eaded@172.64.145.223:2053?security=tls&sni=J01n-Telegram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.145.223:2053
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.241:2087
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.165:2096?security=tls&sni=Eb043cc5.MKhAlilI.pagES.Dev&type=ws&host=EB043CC5.mkHaLili.PaGES.Dev&path=%2F16z6aISdl7Yttzr8&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.165:2096

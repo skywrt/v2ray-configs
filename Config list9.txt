@@ -1,3 +1,7 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.249.197.84:443?security=tls&sni=xn.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-173.249.197.84:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.121.216:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.121.216:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.68.136:2053?security=tls&sni=frEeaLl-FOrEx-123.wpEZCSXV.WOrKErS.DeV&type=ws&host=FrEeAll-FOrEx-123.wPEZCsXV.WORKErs.DEV&path=%2FjQK47OzeeQlouLoH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.136:2053
+vless://7212e15a-74d8-4e0c-abcd-ca78ce70aa37@104.21.69.44:2086?security=none&type=httpupgrade&host=001.V2.H.www.speeDtest.borO2sound.IR.&path=%2Fmrka%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:2086
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.58.171:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.58.171:80
 vless://5bcb458d-6f49-4e9b-9116-22cc638877d9@104.21.70.184:443?security=tls&sni=ARIaMEhR.pAGeS.Dev&type=ws&host=ArIaMEHR.PaGeS.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.70.184:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.145:443?security=tls&sni=xn.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.145:443
@@ -494,7 +498,3 @@ vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.91:443?security=tls&sni
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.94:443?security=tls&sni=xn.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.94:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.96.118:2083?security=tls&sni=vfarid.xcdi.woRkErs.dEv&type=ws&host=vfarid.xcdi.woRkErs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.118:2083
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@23.166.168.219:33158?security=tls&sni=global2.ccdd.site&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-23.166.168.219:33158
-vless://40765c5b-5713-4d4c-9a68-0e1eca7bfa96@104.16.4.103:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.103:443
-vless://81bd5911-581a-4aaa-9f98-aa23d4e93b4b@178.128.23.188:24273?security=none&type=ws&host=zoom.us&path=%2FFREE+By+Tharuwa+%28%40z_z_z_zz_z%29#🔒 VL-WS-NONE 🇸🇬 SG-178.128.23.188:24273
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.174:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.174:443
-vless://f020a6cf-0ce7-47f3-88b3-d840dd8a557b@104.21.94.125:80?security=none&type=ws&host=worker-empty-rain-c00d.raminramin006.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.125:80
