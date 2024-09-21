@@ -1,3 +1,5 @@
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&sni=pardazeshvpn-tg48.pages.dev&type=ws&host=pardazeshvpn-tg48.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:8443
+vless://69c548e8-67cd-4a9f-9fd0-cee6863012ad@172.64.97.237:8080?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.97.237:8080
 vless://27dc8f05-e018-44d3-bdf8-c60cb8f55523@104.18.27.94:443?security=tls&sni=esetsecuritylicense.jphpxm.workers.dev&type=ws&host=esetsecuritylicense.jphpxm.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.22.228:443?security=tls&sni=PPal03.yUriEl-sIddHanTH.WOrKeRs.DEv&type=ws&host=PpAl03.yurIEl-siddhaNtH.worKErs.DeV&path=%2F4Viq5XHkDINND2Wg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.228:443
 vless://b063d7b6-1ad5-4fd0-8557-57f5adbe1ea3@188.244.122.189:80?security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80#🔒 VL-WS-NONE 🇩🇪 DE-188.244.122.189:80
@@ -496,5 +498,3 @@ trojan://auto@162.159.135.232:8443?security=tls&type=ws&sni=e9464f45.trauma-2r4.
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%E6%9C%AA%E7%9F%A510%2011.0MB%2Fs
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:443#US6%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#US7%202.0MB%2Fs
-trojan://tg-dns68@162.159.152.84:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A511
-trojan://tg-dns68@162.159.153.222:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A512
