@@ -495,6 +495,6 @@ trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@[2606:4700:310c::ac42:2ed7]:2083?p
 trojan://telegram-id-directvpn@3.218.57.3:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@35.158.154.31:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 
-ss://bm9uZTphYWJjYWNiLWFjYWItYWFiYy1kYWNiLWJjY2FiYWFjYmFiYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SAT-31-SHAHRIVAR-1403 🕑 12:18
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:443
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.119:7307#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.119:7307
+ss://bm9uZTpjYWJhY2JhLWFiYWMtYWJhYy1jZGFiLWNiYWFjY2JiY2FhYg==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 SAT-31-SHAHRIVAR-1403 🕑 13:17
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🔒 SS-TCP-NA 🇺🇸 US-37.19.198.160:443
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9101#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:9101
