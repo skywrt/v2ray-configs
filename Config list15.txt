@@ -1,3 +1,5 @@
+vmess://ewogICAgImFkZCI6ICIxNDkuNy4xNi4yNDgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxNDkuNy4xNi4yNDgiLAogICAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogImxpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xNDkuNy4xNi4yNDgtMjk1MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0119
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-0041
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0531
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-6276
@@ -496,5 +498,3 @@ vless://2b673c6a-723d-494e-bf5b-e0d25e927d8b@www.speedtest.net:8880?path=%2F-LiV
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@183.178.22.246:11417?encryption=none&security=tls&sni=dns68.putata.eu.org&fp=randomized&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong`
 trojan://telegram-id-directvpn@3.11.116.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub`
 trojan://telegram-id-directvpn@3.11.116.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
-vless://6f33e72c-0ad3-4dcc-998b-7981badec330@vnet.digiboy.xyz:80?type=tcp&security=none#[🇮🇷]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@3.76.59.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub`
