@@ -1,3 +1,18 @@
+trojan://auto@172.67.2.238:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083
+trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443?#🔒 TR-TCP-NA 🇫🇮 FI-65.108.205.61:443
+trojan://tg-dns68@162.159.152.94:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.94:443
+trojan://tg-dns68@162.159.152.194:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.194:443
+trojan://464d3eff-ddd0-4622-991b-9cf42ba6c9c9@18.180.115.182:35602?security=tls&sni=2usmax01.170203.xyz&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-18.180.115.182:35602
+trojan://f2191442-1436-3d79-801e-80d8de896c73@104.21.66.223:443?sni=jp2-july.88888802.xyz#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.66.223:443
+trojan://tg-dns68@162.159.153.15:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.15:443
+trojan://A98XMiF6NA@172.64.154.218:8443?sni=dy.fxu.asia&type=ws&host=dy.fxu.asia#🔒 TR-WS-NA 🏴‍☠️ NA-172.64.154.218:8443
+trojan://tg-dns68@162.159.152.172:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.172:443
+trojan://b10f2914-0401-4eff-ac4f-e430aeda0c45@104.19.142.99:443?security=tls&sni=cfus2.trojanwss.xyz&type=ws&host=cfus2.trojanwss.xyz&path=/CFJICHANG#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.142.99:443
+trojan://your_password@172.67.165.204:443?security=tls&sni=aws-ch-zurich-1.f1cflinea.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.165.204:443
+trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.143:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.143:80
+trojan://8bcddf84-79dd-45a0-b699-82089521faf6@104.22.13.192:443?security=tls&sni=users.darkvipshop.ir&type=grpc&serviceName=Nc7Q3KECggFLJS5e2Gnq3Uxd5#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.22.13.192:443
+trojan://tg-dns68@162.159.153.224:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.224:443
+trojan://95b@45.59.185.71:13649?sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&type=ws&host=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com#🔒 TR-WS-NA 🇺🇸 US-45.59.185.71:13649
 trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.14.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http&fp=chrome&alpn=h3#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.26.14.85:443
 trojan://auto@162.159.153.32:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.32:443
 trojan://tg-dns68@162.159.153.230:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.230:443
@@ -483,18 +498,3 @@ vless://93b99881-df03-4597-9146-0c11e46387f7@47.242.147.15:56277?security=tls&sn
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.1:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.1:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.42.4:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.42.4:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.36.44:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.36.44:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.140.54:443?security=tls&sni=azADNet-FReeDoM-irANIAn.pages.DEV&type=ws&host=azAdneT-FREeDom-IraniaN.PAGES.dEv&path=%2Ftelegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.140.54:443
-vless://5361a986-91b9-4756-a78c-103261128d83@216.205.52.251:2082?security=none&type=httpupgrade&host=latino2.EduCatION.artgallerynew.pics&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-216.205.52.251:2082
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@198.62.62.139:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.139:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.228.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.228.60:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.84.2.206:443?security=tls&sni=kl.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇫🇮 FI-193.84.2.206:443
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.55.42:80?security=none&sni=us3.rtacg.com&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.55.42:80
-vless://de44b044-8f90-4e18-b742-16591667ff96@58.176.229.127:35002?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-58.176.229.127:35002
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@115.143.93.241:12000?security=tls&sni=xp.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-115.143.93.241:12000
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.45.25:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.25:443
-vless://78331287-6609-436e-9902-b77ac42347f0@104.27.197.230:443?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.197.230:443
-vless://fede9d06-7ba2-45ee-8ca1-b2f45be05dca@198.62.62.50:2052?security=none&type=httpupgrade&host=7.V.V2.www.speedtest.net.fh.cloudflare.com.Sepahan-Esfahan.dE&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-198.62.62.50:2052
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.20.148:443?security=tls&sni=FReeALl-FoREx-123.wpEzCsXV.WOrKErs.dev&type=ws&host=FREEALL-FOReX-123.WPEZCSXV.WoRkeRs.dev&path=%2Fd52eVBbpF6yuV1g8%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:443
-vless://d9dab185-980f-4f2b-bca6-a716bffcd07f@104.21.93.33:443?security=tls&sni=cpy-teel-mmd.mmdking02.workers.dev&type=ws&host=cpy-teel-mmd.mmdking02.workers.dev&path=%2F@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C@VPNHUB69%2C#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.93.33:443
-vless://6adacaf4-9ee4-4c20-b2f8-822a9d55f881@104.26.15.16:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.tescoco.cfd.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.16:8080
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
