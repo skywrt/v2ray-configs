@@ -1,4 +1,3 @@
-trojan://telegram-id-directvpn@13.49.239.133:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@13.37.18.39:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S115)
 trojan://telegram-id-privatevpns@16.16.23.169:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://auto@172.66.44.131:443?security=tls&amp;sni=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;host=e9464f45.trauma-2r4.pages.dev&amp;path=%2F#%40vmessprotocol%20%D8%B1%D9%81%D8%B9%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1

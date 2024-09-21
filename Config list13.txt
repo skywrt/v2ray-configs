@@ -1,4 +1,3 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.36:443
 vless://f6d5f1f4-4f1e-48b4-8ac8-159856aa7fc2@79.175.145.116:45861?security=none&type=tcp&host=zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.145.116:45861
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.180.218:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%C3%A5%C2%81%C2%B7%C3%A8%C5%A0%E2%80%9A%C3%A7%E2%80%9A%C2%B9%C3%A6%C2%AD%C2%BB%C3%A5%C2%90%E2%80%94&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.180.218:443
 vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@104.21.2.232:443?security=tls&sni=pay.technator.net&type=ws&host=pay.technator.net&path=%2Fimage%2F20992&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.232:443
@@ -498,3 +497,4 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#US17%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.215:8119#US18%201.9MB%2Fs
 trojan://tg-dns68@162.159.152.177:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A518
 trojan://telegram-id-privatevpns@3.122.189.144:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A519
+trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A520

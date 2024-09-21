@@ -1,4 +1,3 @@
-ss://1b5648b6-da73-4ffb-b964-46c6d3d52136@159.69.23.6:22531/?type=grpc&amp;encryption=none&amp;sni=zula.ir&amp;fp=chrome&amp;security=reality&amp;pbk=jb36M2GejuMVpv36Tx0zEAq5qPgF7Ux1pHoWre7moHE&amp;sid=4638b111#@Capital_NET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.3.209:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 ss://8baccd09-9b09-4fe4-b0e7-c1c4a5688e03@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimit.net#telegram
@@ -498,3 +497,4 @@ vless://4f13392c-d746-47a5-89e3-3d196deba8ca@sport.k6n.ir:443?path=Join%3A%40oPe
 vless://TELEGRAM-ServerNett@[2a01:4f8:c013:3a2b::1]:14733?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+1
 vless://783164cb-6410-4a96-e432-832489e4848c@ec76.kiava.fun:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;security=reality&amp;pbk=wQGZ3Ppa4ajV1HrQUYdpZF9D6yejNt84iWv2fV3kVHc&amp;sid=5e#@Capital_NET
 vless://05670e2b-7578-4bb8-8775-b79d5331846c@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v07.newbackup.com#telegram
+vless://2415aa3c-f129-4c10-a007-3054bd21bcef@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.newbackup.com#telegram
