@@ -1,3 +1,4 @@
+vless://7ef2412a-db13-4382-b012-a19942aeb3a4@185.146.173.185:2052?type=tcp#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.185:2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.180:443?security=tls&sni=pPal03.lAKEn-aBHiraAM.WoRKERs.DeV&type=ws&host=PPal03.LAkEN-AbhIraAm.WOrkErS.deV&path=%2FZ2xcIKzLEcHApagm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.180:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.248.126:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.248.126:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.97.47:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.47:443
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.107:443?security=tls&sni=
 vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-45.194.53.207:443
 vless://06e811a4-8f6f-41fe-a44a-9052209c104c@135.84.73.161:8880?security=none&type=httpupgrade&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.f0.xn--qoqp1di0o5k1b.com.&path=%2F%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-135.84.73.161:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.191:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.191:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.35:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.35:443
