@@ -1,4 +1,3 @@
-ss://12210f4e-9487-41f0-9cc5-74867be58033@www.speedtest.net:80?encryption=none&amp;security=none&amp;type=ws&amp;host=daily-configs-daily-configs.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&amp;path=%40daily_configs--%40daily_configs--%40daily_configs--%40daily_configs%40daily_configs#@MrV2Ray
 ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=v2ra1.ecrgpk.workers.dev&amp;type=ws#ID%28%40Outline_Vpn%29+1103
 ss://78326cbc-e27d-4b44-8781-bc49473ecff4@79.127.70.84:8880?security=none&amp;encryption=none&amp;host=www.speedtest.net&amp;headerType=http&amp;type=tcp#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 ss://150e51a8-d20f-42f6-becd-412001e8aad0@zula.ir:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=VPNHOMES&amp;sni=fragment2.karop.homes#%D8%AD%D8%AA%D9%85%D8%A7+%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA+%D8%B1%D8%A7+%D8%B1%D9%88%D8%B4%D9%86+%DA%A9%D9%86%DB%8C%D8%AF14
@@ -498,3 +497,4 @@ ss://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.91:443?path=%2Fvless&amp;s
 ss://a63caad0-3d94-4fa7-956d-439524c6cdf5@cloud.configforvpn.fun:2096?path=%2Fmm&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#United+Kingdom+OVH
 ss://144bc4ad-3b59-4b9f-b8f6-00a810a4046a@webshecan.webredirect.org:2087?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&amp;sni=www.speedtest.net&amp;flow=xtls-rprx-vision&amp;sid=53242a95&amp;spx=%2F#%40WebShecan-27Mordad-1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ3p0czZ1Q0hNQWNTeHZPY2xuU1FR@103.35.190.211:55672#%40daredevill_404
