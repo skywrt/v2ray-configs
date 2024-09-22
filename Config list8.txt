@@ -1,4 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.209:443?security=tls&sni=yp.ylka.us.kg&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.209:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.104:443
 vless://9aaedc51-2367-4239-a88b-0756dfc9689e@104.18.44.158:8880?security=none&type=ws&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.44.158:8880
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@104.21.69.44:2096?security=tls&sni=alecruiz.pages.dev&type=ws&host=alecruiz.pages.dev&path=%2FmrcU9YCPq4GNDHi4%3Fed%3D512&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
@@ -498,3 +497,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?security=tls&sni
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.218:443?security=tls&sni=xp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.218:443
 vless://3e141299-63bc-49a5-a030-518e75fc2cf4@151.101.0.223:443?security=tls&sni=python.org&type=ws&host=join-dailyconfigs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&fp=firefox&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.223:443
 vless://b12f4be0-e874-568e-954f-942dcc3a67e9@104.21.13.125:8443?security=tls&sni=trojan.trojan0.WOrKers.dev&type=ws&host=trojan.trojan0.WOrKers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.125:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.242:443?security=tls&sni=hm.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.242:443

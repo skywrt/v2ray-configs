@@ -1,4 +1,3 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.165:443?security=tls&sni=xn.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.165:443
 vless://999a5804-e88a-4d68-8c28-c60261e2b8af@185.148.105.52:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.224:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.64.144.86:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.86:80
@@ -498,3 +497,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.212:443?security=tls&sni=
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@70.34.199.167:2096?security=tls&sni=global2.ccdd.site&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇪 SE-70.34.199.167:2096
 vless://06e811a4-8f6f-41fe-a44a-9052209c104c@135.84.73.113:8880?security=none&type=httpupgrade&host=DrVesta.cleanmobile.wWw.speedtest.Net.Greate.mObile.1.2.3.4.dashboard.g-G.G-g.a-a.a-a.xn--qoqp1di0o5k1b.cOm.&path=%2Fwww.speedtest.net%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-135.84.73.113:8880
 vless://7b8400c7-a98b-470f-940d-a363f6c7cb0a@104.16.232.2:80?security=none&type=ws&host=www.speedtest.net.zula.ir.zara.com.nobitex.com.vigilantecollection.com.&path=%2FDaily_Configs-netmaster%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.2:80
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?security=tls&sni=azadNet-SeMej.PAGES.DEV&type=ws&host=AZaDnet-SEmEj.pAgEs.DeV&path=%2FoyF1T0jNP2ARuOYS%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.20:443

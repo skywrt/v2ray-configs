@@ -1,4 +1,3 @@
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:2083?security=tls&sni=folani.iiipok.worKERs.dev&type=ws&host=folani.iiipok.worKERs.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.64:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.80.208:443?security=tls&sni=hp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-43.153.80.208:443
 vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560%2B@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443?security=tls&sni=xn.ylks.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.189:443
@@ -498,3 +497,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTAwNjdiOS02M2EzLTRmOGQtOWMxNi1lZTI3MzdhODd
 trojan://telegram-id-privatevpns@3.127.59.36:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A554
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.203:8091#US35%202.0MB%2Fs
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#US36%202.0MB%2Fs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#US37%201.7MB%2Fs
