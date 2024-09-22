@@ -1,4 +1,3 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.71:443?security=tls&sni=hp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.71:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.217:443?security=tls&sni=xp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.217:443
 vless://e59be95e-7539-4a31-9b2d-a03a8f072ff3@198.41.193.222:80?security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=127.0.0.1.www.iransell.ir.%E5%A4%AA%E7%A9%BA.spacecadet.%D0%B8%D0%B9%D0%BA%D0%B0%D0%B4%D0%B5%D1%82.%E5%AE%89%E9%9D%9C%E5%9C%B0%E6%96%B9.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro&allowInsecure=1#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.222:80
@@ -498,3 +497,4 @@ vless://5357a880-962d-4d37-8466-0bd382bc0ea0@104.21.47.221:443?security=tls&sni=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.0:443?security=tls&sni=xo.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.0:443
 vless://2d6c7be7-a5c6-5da6-afa2-d3f5e59281dd@190.93.247.115:80?security=none&type=httpupgrade&host=Fi1.vless.site.&path=%2Fhttpupgrade#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-190.93.247.115:80
 vless://67ecd200-817c-4b78-9a78-9c6edc5f8901@104.21.43.44:80?security=none&type=ws&host=iran.ir-iran.eu.org&path=bShq2qgG8GnX8zqm%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.44:80
+vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@172.67.2.238:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2FTELEGRAM...PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:2052

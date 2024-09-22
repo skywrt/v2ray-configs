@@ -1,4 +1,3 @@
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.105:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.105:443
 vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@162.159.134.61:80?security=none&type=ws&host=dynkl1.xcdn.store&path=%2Fvless-ntls#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.61:80
 vless://3be9e3cf-83cd-4618-b782-1b2a9a72bbec@172.67.203.57:443?security=tls&sni=TEl-pPAL03.chayA-duRGaN.workeRs.DeV&type=ws&host=TEl-ppAL03.CHayA-DuRGAN.WoRkers.dEv&path=%2Fz0HrW-43pVRvOrQE%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.57:443
 vless://b9005145-03d3-47bd-b975-b70f55882e77@172.67.215.158:443?security=tls&sni=ShAh-aGz.pAGes.DEV&type=ws&host=ShAH-AGZ.PAGES.dEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.215.158:443
@@ -498,3 +497,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.198:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.22:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.22:443
 vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.91:443?security=tls&sni=fi2.vless.site&type=ws&host=fi2.vless.site&path=%2Fvless#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.91:443
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.44.53:2087?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3FTM@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.53:2087
+vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.97.159:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.159:443
