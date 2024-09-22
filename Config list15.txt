@@ -1,14 +1,3 @@
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-0610
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0588
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0612
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.66:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-0452
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0613
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0623
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6716
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.103-0429
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.95-0592
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:445#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-0427
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0594
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7746
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-0445
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0609
@@ -498,3 +487,14 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@175.206.2.186:10255?path=%2Fblue&se
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.193:443?path=%2Ffreecodes&security=tls&encryption=none&type=ws&sni=hp.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.109:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xp.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.175:443?path=%2Ftg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇰🇿Kazakhstan`
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.230.160:2087?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇱🇺Luxembourg`
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=hp.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.241:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=yq.ylks.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.0:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xp.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.127:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=jp.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.0:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@14.39.254.65:50000?path=%2Fblue&security=tls&encryption=none&type=ws&sni=hq.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea`
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security&security=tls&encryption=none&type=ws&sni=a.ssll.gay#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
