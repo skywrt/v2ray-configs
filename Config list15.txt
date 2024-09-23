@@ -1,18 +1,3 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1314
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0598
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1318
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.97-0638
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0617
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-1360
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-1357
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0609
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0601
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-1372
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1316
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0623
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-0608
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0669
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0625
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0632
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0593
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-0655
@@ -498,3 +483,18 @@ trojan://user@s1.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s1.my
 trojan://user@s2.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s2.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
 trojan://user@s3.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s3.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
 trojan://user@s4.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s4.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+trojan://user@s5.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s5.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+trojan://user@s6.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s6.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+trojan://user@s7.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s7.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+trojan://user@s8.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s8.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+trojan://user@s9.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s9.mynameismahsa.info#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@104.21.25.117:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9&sni=noodturk.parsianboton.ir#[🇨🇦]t.me/ConfigsHub`
+vless://a5557b0d-f98f-4312-9d13-c04c78aed593@www.speedtest.net:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=https.ne.Google.Com.www.speedtest.net.www.speedtest.neet.speedtest.w1.speedtest2024.ir.&type=httpupgrade#[🇨🇦]t.me/ConfigsHub`
+vless://6f7e8287-6f1a-4514-8a59-304e3c5277c1@ipv6.anacloud.org:443?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub`
+vless://6f7e8287-6f1a-4514-8a59-304e3c5277c1@ipv6.anacloud.org:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️`
+vless://de4357b3-56e8-47e2-baf3-7b1dd62c103c@aa.aabolfazl.info:52322?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
+vless://5a082254-3945-4c79-f5d4-d86edbf45a83@46.101.98.185:80?mode=gun&security=reality&encryption=none&authority=&pbk=stG0hPLMqJC7CeKVzPeYLIBz0IEUOo9oBFJ07qCqLAQ&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=zula.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
+vless://de4357b3-56e8-47e2-baf3-7b1dd62c103c@aa.aabolfazl.info:52322?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub`
+trojan://telegram-id-privatevpns@13.37.123.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs`
+trojan://telegram-id-privatevpns@13.37.123.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France`
+vless://ff0c677c-dcc5-4010-a7fb-4b5627b207f4@104.17.147.22:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=TgChannelVpnOwL.PAGEs.dEV.&type=ws&sni=paGES.DEV.#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
