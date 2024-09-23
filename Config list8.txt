@@ -1,9 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.73:443?security=tls&sni=kp.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.73:443
-vless://420e4da5-af5c-40b4-bd73-fb608fe45ecb@5.202.9.117:3434?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-5.202.9.117:3434
-vless://c3c20db7-d32b-454a-9843-ec22d064a842@172.67.216.204:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.204:443
-vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@162.159.192.106:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.106:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:443?security=tls&sni=iRANSOFTWare85985611.PaGes.dEV&type=ws&host=iRaNSofTwAre85985611.PaGes.Dev&path=%2F3ixeZxIuzmrYVV6J%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
-vless://b9c67ca0-22bd-48f3-81b3-c5a4d31e60d5@101.36.97.26:18443?type=ws&path=%2Fb9c67ca0-22bd-48f#🔒 VL-WS-NA 🇬🇧 GB-101.36.97.26:18443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.67.128.68:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.128.68:80
 vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&host=pardazeshvpn-tg18.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.150:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.26.225:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇮🇪 IE-199.232.26.225:443
@@ -498,3 +492,9 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.112:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.48:443?security=tls&sni=jo.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.48:443
 vless://a8374247-0715-4509-a3c5-3f01842503e2@108.162.194.209:443?security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv&path=%2F%3Fed%3D1024&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.209:443
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@188.114.98.162:443?security=tls&sni=vfarid.xcdi.WoRkErS.DEV&type=ws&host=vfarid.xcdi.WoRkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.162:443
+vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2083
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.97.161:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.97.161:80
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.1:80
+vless://ae327aae-37ea-4d92-bbeb-bb5199a31839@188.164.159.171:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-188.164.159.171:2053
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.60:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.60:443
+vless://6aaca668-7400-47bb-a377-ca93d5eab8c9@104.17.148.22:2083?security=tls&sni=www.speedtest.net&path=%2FTel%3Adonald&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🏴‍☠️ NA-104.17.148.22:2083
