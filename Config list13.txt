@@ -1,5 +1,3 @@
-vless://6f9625a6-0a9e-4aad-995b-dbd846c2a59e@160.153.0.179:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.179:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.78:443?security=tls&sni=v2Ngfast-DU2.pAges.DEv&type=ws&host=v2NGfast-du2.pAgES.dev&path=%2F3F27ml5UYjg7dcTl%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.78:443
 vless://cca9a8e7-b6c6-42da-b230-601879655cea@172.67.143.34:8443?security=tls&sni=selinc-8selinc8-selinc.payfhu.workers.dev&type=ws&host=selinc-8selinc8-selinc.payfhu.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.34:8443
 vless://7713bae4-daad-481e-95e4-d95ef078d755@104.21.19.124:8080?security=none&type=ws&host=zxzx5.5.4.5.ir.com.space.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8Fy.mahxraytm.COM.&path=%2FMahxray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.233:443?security=tls&sni=V2ngFaST-468.PAgES.DEV&type=ws&host=V2nGFaST-468.Pages.dev&path=%2FJuNOWNhc7c9MEADI%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
@@ -498,3 +496,5 @@ trojan://95b@150.230.254.21:1443?type=ws&sni=478a9f2a-0d66-4035-a797-06e9c83c673
 trojan://tg-dns68@162.159.153.122:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A545
 trojan://telegram-id-privatevpns@52.31.1.55:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A546
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#US35%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US36%2024.5MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#%E6%9C%AA%E7%9F%A547%2094.7KB%2Fs
