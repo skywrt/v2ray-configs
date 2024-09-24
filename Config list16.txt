@@ -1,5 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.244.122.57:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ks.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:2083?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.186:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#👉🆔 @v2ray_configs_pool📡🇪🇪Estonia`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.234:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xs.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
@@ -498,3 +496,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkppTTJGaw==@95.164.35.90:8388#configkade%F
 ss://477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=footlo.argha-v2pedia.monster#%E2%9A%A1%40V2PEDIA%E2%9A%A1%28Insta%3A+v2pediaa%29+86
 ss://2d6c7be7-a5c6-5da6-afa2-d3f5e59281dd@185.146.173.26:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Fi1.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%94%A5
 ss://3c1073b1-8f8b-5710-a053-b96660ce4d80@185.146.173.114:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=fr1.vless.site&amp;type=ws&amp;sni=fr1.vless.site#%40hopev2ray%F0%9F%92%95
+ss://236a00f5-bc85-4ea2-a7a0-16190358893d@[2a01:4f8:1c17:dc26::1]:18921?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT+MCI+2
+ss://WomanLifeFreedomVPN@speedtest.wlftest.xyz:443?type=tcp&amp;security=reality&amp;pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&amp;fp=ios&amp;sni=www.speedtest.net&amp;sid=ce&amp;spx=%2F&amp;flow=xtls-rprx-vision#%40WomanLifeFreedomVPN
