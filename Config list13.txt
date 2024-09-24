@@ -1,3 +1,12 @@
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.49.15:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.49.15:443
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.19.47.9:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.9:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.207:2053?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.207:2053
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.236.21:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.236.21:80
+vless://29419d2e-5475-42a9-a615-996608ce0a46@172.67.145.239:443?security=tls&sni=parsairon.ironnettt.workers.dev&type=ws&host=parsairon.ironnettt.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.145.239:443
+vless://a17ff0c6-3aee-48c9-92e7-9f5019c595d6@188.114.99.1:443?security=tls&sni=esetsecuritylicense1.zzzgldy.workers.dev&type=ws&host=esetsecuritylicense1.zzzgldy.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.1:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.83.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%40v2rayngzendegimamad%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.83.58:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2fp#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.23:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@135.84.76.110:443?security=tls&sni=vj.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-135.84.76.110:443
 vless://cc6567db-1163-4e6f-a01f-b40a84fb3519@188.114.96.1:8880?security=none&type=ws&host=worker-dark-surf-af73.8b4fbd65a482a3.workers.dev&path=%2FTelegram+channel+%3A+%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:8880
 vless://97b11ee6-a62a-4e60-839c-de974a155089@45.149.12.218:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.149.12.218:443
 vless://5361a986-91b9-4756-a78c-103261128d83@167.68.4.23:2082?security=none&type=httpupgrade&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.usa1.highlimittraffic.TOP.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-167.68.4.23:2082
@@ -489,12 +498,3 @@ trojan://tg-dns68@162.159.152.191:443?security=tls&type=ws&sni=vip.putata.eu.org
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%E6%9C%AA%E7%9F%A523%201.8MB%2Fs
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.66.177:443?security=tls&type=ws&sni=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL&host=hdfy4c6.freelines.net#%E6%9C%AA%E7%9F%A524
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@142.202.49.68:8881#US23%201.9MB%2Fs
-trojan://tg-dns68@162.159.153.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A525
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#US24%201.9MB%2Fs
-trojan://accbaba-caab-abca-bdca-bcbbcacaacba@127.0.0.1:1080?security=tls&type=tcp#%E6%9C%AA%E7%9F%A526
-trojan://tg-dns68@162.159.152.9:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A527
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.180:5000#US25%202.0MB%2Fs
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.66:7001#US26%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#US27%201.9MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjggMTAuOE1CL3MiLCJhZGQiOiIxMDQuMjEuODMuMTA4IiwicG9ydCI6IjQ0MyIsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaG1zMDIuZnhpYW9taS5zYnMiLCJwYXRoIjoiL2xpbmsiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJobXMwMi5meGlhb21pLnNicyIsInRlc3RfbmFtZSI6IjI4In0=
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24722#HK3
