@@ -1,3 +1,5 @@
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?security=tls&sni=shg2.azurewebsites.net&type=ws&host=shg2.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-13.67.9.5:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.88.131:443?security=tls&sni=ppaL03.mr-lOlA-rAyNoR.WORKErs.dEV&type=ws&host=ppAl03.mr-lOlA-raYnor.WORkeRs.Dev&path=%2FqeIk5TeCFGaSnfP9%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.131:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.234:2053?security=tls&sni=41F8C935.kAKQ-PANEL3.PaGES.dEv&type=ws&host=41f8C935.Kakq-Panel3.PageS.Dev&path=%2FZ9BLT8Cpt5pVut37%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.234:2053
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@160.153.0.183:8880?security=none&type=httpupgrade&host=RnatqYAv.ascrEEn.fUN&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-160.153.0.183:8880
 vless://04911484-1823-4fae-b329-57581e1ea22e@185.146.173.39:80?security=none&type=httpupgrade&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🇸🇪 SE-185.146.173.39:80
@@ -496,5 +498,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.53:5500#%F0%9F%87%BA%F0%9
 trojan://f2191442-1436-3d79-801e-80d8de896c73@172.67.164.181:443?sni=jp2-july.88888802.xyz#%E6%9C%AA%E7%9F%A569
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.5:8091#US65%201.9MB%2Fs
 trojan://telegram-id-directvpn@16.171.97.208:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A570
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.152.56:6697#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%201.7MB%2Fs
-ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24214#HK14
