@@ -493,8 +493,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-2mm.pages.dev:2096?pat
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2Fxqc11iXB2DOVwbv9&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2Fxqc11iXB2DOVwbv9&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#[🇨🇦]t.me/ConfigsHub`
 vless://8b65b09c-083f-49e5-8eb0-fbd5bc89547a@3.88.37.170:37675?security=none&encryption=none&headerType=none&type=tcp#[🇺🇸]t.me/ConfigsHub`
-
-vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAiYWlkIjogMCwgImhvc3QiOiAiZXJmYW5uZXdmcmVlbm9kZXMudmRtbXN3eXptemlnb252bmprNDQzLndvcmtlcnMuZGV2IiwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG1zMDIuZnhpYW9taS5zYnMvbGluayIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443/?type=ws&encryption=none&host=ARCane-ROYAL.Pages.DEV&path=%2F&security=tls&sni=ARCane-ROYAL.Pages.DEV&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443/?type=ws&encryption=none&host=pardazeshvpn-tg18.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=pardazeshvpn-tg18.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://0debc6c2-fb5f-4ab9-9add-9b0a0e89994a@194.5.178.153:443?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub`
+vless://8b65b09c-083f-49e5-8eb0-fbd5bc89547a@3.88.37.170:37675?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://0debc6c2-fb5f-4ab9-9add-9b0a0e89994a@194.5.178.153:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
+vless://afe819aa-6f55-4dee-d2ae-1bc4a635b017@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden`
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.15.85:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=chrome&type=ws&sni=hagh.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
