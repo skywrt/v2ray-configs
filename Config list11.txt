@@ -1,3 +1,6 @@
+vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.26.94:80?type=ws&host=esetsecuritylicense.kaxlmn.workers.dev&path=%2F%3Fed%3D2560%40ELiV2Ray%40ELiV2ray%40ELiV2ray#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.26.94:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.213:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.32.213:443
+vless://4352f2a7-d620-474e-9249-e866774a2c80@92.38.145.145:443?security=tls&sni=gcore.com&type=ws&host=kiri.ir&path=%2Fhgffg#🔒 VL-WS-TLS 🇺🇸 US-92.38.145.145:443
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.182:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.182:2083
 vless://01fa7ee4-ef31-4e5f-9e4c-c998b912e1a1@108.162.193.52:8880?security=none&type=ws&host=stockcitywild.northernlight.monster&path=%2Fglobalizzer#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.193.52:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.24.45:2053
@@ -495,6 +498,3 @@ vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.21.91.52:2053?security=tls&sni=
 vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.4.12:8443?security=tls&sni=pardazeshvpn-tg23.pages.dev&type=ws&host=pardazeshvpn-tg23.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.4.12:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.91:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.91:443
 vless://c23e8441-1f66-4e7a-ab9e-31aac7c3c80e@173.245.49.127:80?security=none&type=ws&host=hello-world-royal-unit-def7.hamidimorteza680.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.127:80
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.67.128:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.67.128:8080
-vless://7212e15a-74d8-4e0c-abcd-ca78ce70aa37@172.67.66.177:2086?security=none&type=httpupgrade&host=001.V2.H.www.speeDtest.borO2sound.IR.&path=%2Fmrka%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.66.177:2086
-vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@162.159.133.61:80?security=none&type=ws&host=dynkl1.xcdn.store&path=%2Fvless-ntls#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.61:80
