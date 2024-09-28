@@ -1,3 +1,4 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.52:443
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443
 vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.151.51:8443?security=tls&sni=pardazeshvpn-tg23.pages.dev&type=ws&host=pardazeshvpn-tg23.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.51:8443
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.253:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.253:443
@@ -497,4 +498,3 @@ vless://222d4f01-cce8-45c8-bdbe-c6a81488ce12@188.114.97.141:80?security=none&typ
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.198:443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?security=tls&sni=test45-45f.pages.dev&type=ws&host=test45-45f.pages.dev&path=%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.110:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.33:443?security=tls&sni=ks.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.33:443
-vless://3142ceda-6964-4377-94e5-190f17c8ad32@190.93.247.56:2052?security=none&type=ws&host=webmail.palmex.iR.&path=%2Fspeedtest%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.56:2052

@@ -1,3 +1,4 @@
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.196:2083
 vless://4cb8d3bf-2afa-4126-a0ed-f16ce4642889@172.67.147.79:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.79:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.4:443?security=tls&sni=Ppal03.Kianah-mckYNlEigH.WoRKERS.Dev&type=ws&host=ppAl03.kIAnAh-MCkYNlEIgh.WOrkERs.DEv&path=%2FcY5wYih4Kj8uzWNV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.4:443
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:80?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.177:80
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.26.0.185:80?type=ws&host=us3.rt
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.247:443?security=tls&sni=PPal03.BaiLEY-ziemANN.WorkErS.DEv&type=ws&host=PPaL03.BAIlEY-zIemAnn.workerS.DeV&path=%2F73XQ3RStgevLJunT%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.247:443
 vless://d667d674-d836-4066-9980-b61fddc0d4e2@172.67.139.212:2087?security=tls&sni=eeeeee.caunem.workers.dev&type=ws&host=eeeeee.caunem.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.212:2087
 vless://9bc01e22-2d73-44ea-8393-28a591f12002@108.162.196.1:8443?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.196.1:8443
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@172.67.153.74:2095?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.74:2095
