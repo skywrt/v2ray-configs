@@ -1,3 +1,4 @@
+vless://761ace39-b027-40cb-b6d0-d1d53e685c41@172.67.204.84:2096?security=tls&sni=Abc.unique69.com&type=grpc&serviceName=%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel%2C%40SevenVpnChannel&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2096
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?security=tls&sni=test45-45f.pages.dev&type=ws&host=test45-45f.pages.dev&path=%2FTwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.110:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:2087?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048%2F-JoinBede--@ELiV2ry--@ELiV2ry--@ELiV2ry--@ELiV2ry&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.206.92:2083?security=tls&sni=azADnet-frEEDOm-IRANIAN.pAGeS.DeV&type=ws&host=aZAdNEt-freedoM-irAniAn.pagES.DEV&path=%2F6foXmYgeOn94TSua%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:2083
@@ -497,4 +498,3 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjQ2LjU2IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQg
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:3389#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.46:6679#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://2b106b5a-723a-472d-b97c-697086c06051@103.231.248.2:443?#%E6%96%B0%E5%8A%A0%E5%9D%A1+V2CROSS.COM
