@@ -1,7 +1,3 @@
-vless://c2c6ca99-acd0-4997-837d-ce0cbd3710be@104.21.18.101:443?security=tls&sni=sahanwickramasinghe&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.101:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.27:443?security=tls&sni=hq.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.27:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.185:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.185:443
-vless://ca252049-54b6-456d-878f-2e835300ec9f@192.0.54.211:2052?type=httpupgrade&host=7.V.V2.www.speedtest.net.fh.cloudflare.com.VArZesH360.DE.&path=%2F%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NA 🇺🇸 US-192.0.54.211:2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.166:2053?security=tls&sni=JOinmahDiServER-ei9.Pages.dEv&type=ws&host=jOinmaHDIseRvEr-ei9.paGES.Dev&path=%2F8yBQ1J5QRyH9geks%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.166:2053
 vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.18.42.238:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.42.238:2053
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@193.33.87.202:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇨🇾 CY-193.33.87.202:2082
@@ -498,3 +494,7 @@ vless://8704dd20-f9e5-48c5-920d-540e5242ef02@104.21.30.53:443?security=tls&sni=p
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.97:443?security=tls&sni=hr.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.97:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.231:443?security=tls&sni=xq.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.231:443
 vless://a865214b-5fef-443f-b338-105e2442fae6@104.24.1.190:8080?security=none&type=ws&host=wWw.speEdtest.net.www.zula.ir.cloudflare.com.Tescoco.cFd.&path=%2Fjoin---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------join---to---vistav2ray-------%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.1.190:8080
+vless://abaf193b-eeb9-4a8a-afa7-6b6385156e94@104.18.121.232:443?security=tls&sni=hdfy3rsnfdcp.cpiforpersia.uk&type=grpc&serviceName=2sg8k6ktNBzuCJ7tOInMZQZNim&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.121.232:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.69.120:2053?security=tls&sni=cXrOLvPn.PAgEs.dev&type=ws&host=cXrolvpn.pagEs.DEv&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.69.120:2053
+vless://29419d2e-5475-42a9-a615-996608ce0a46@104.21.87.200:443?security=tls&sni=parsairon.ironnettt.workers.dev&type=ws&host=parsairon.ironnettt.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.87.200:443
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@172.67.214.246:2096?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:2096
