@@ -1,3 +1,7 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.47.130:443
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9037
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.5:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:6679
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHTTN0YWtPcW1VM3Z4eTBOZHN2Q2hE@147.45.136.147:41095#🔒 SS-TCP-NA 🇳🇱 NL-147.45.136.147:41095
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29304#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29304
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.21:8090#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8090
@@ -494,7 +498,3 @@ vless://cc96b393-6f02-4783-a858-e08afbe83d03@188.42.93.134:443?security=reality&
 vless://4b563759-595d-4e4b-9030-afbc36257edb@212.47.252.6:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=-TnGOvA7XaQ7F7P57NPTt3Q8XbsyS75FAv5ckur7qkQ&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-212.47.252.6:443
 vless://6b4f1f09-17d9-4573-90f8-b4760b0ff2ac@5.75.201.126:2053?security=reality&sni=refersion.com&type=grpc&serviceName=v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee-v2safee&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.201.126:2053
 vless://1246281e-a930-4e56-b7f1-9a54a7209d0f@57.128.165.80:443?security=reality&sni=stackoverflow.com&type=tcp&fp=random&pbk=HQS2x7P7wRYFyPXkT4-B2lFmPZuoGL4h0C5n5UMu4Rw#🔒 VL-TCP-RLT 🇬🇧 GB-57.128.165.80:443
-vless://3fd4948c-a73b-454d-846a-115a0c34a499@195.15.241.216:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#🔒 VL-GRPC-RLT 🇨🇭 CH-195.15.241.216:1210
-vless://587d0c88-36e0-4420-997a-edfc757eeb61@45.14.224.160:2053?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇱 NL-45.14.224.160:2053
-vless://cda6846f-3382-466d-9b9a-7b37bd9a72b0@93.185.163.183:12001?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=_GciAWBQ1nkeYBmzJvtOBT7VmZ5Z8yyxBrr4pinM6Bk#🔒 VL-TCP-RLT 🇳🇱 NL-93.185.163.183:12001
-vless://040c7fc7-65aa-440e-864e-8c89b91bf63c@91.107.141.204:5030?security=reality&sni=MAp.GooGlE.COM&type=grpc&serviceName=SARDAR&fp=firefox&pbk=u-PCnNfSY3DvfouSNpGvowXrB3bkaC8gZkQsryP-3Vs&sid=0db32cc0cc8078a9#🔒 VL-GRPC-RLT 🇩🇪 DE-91.107.141.204:5030
