@@ -1,3 +1,13 @@
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.53:443#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.53:443
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.46:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.46:5004
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.53:8119#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.53:8119
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8881#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8881
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQN0xrSjlGZ0Q0c1c=@142.202.190.110:4923#🔒 SS-TCP-NA 🇺🇸 US-142.202.190.110:4923
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9101
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6679#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:6679
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5003
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7306#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7306
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:8080#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.46:8080
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🔒 SS-TCP-NA 🇯🇵 JP-149.22.87.241:443
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.103:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:8119
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:2376
@@ -488,13 +498,3 @@ ss://d7591ebf-5dce-4c6d-8560-e9040d6b08b1@104.17.234.114:8443?path=%2FTelegram%2
 ss://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v23.drlimit.net#telegram
 ss://e476b25d-c5e7-44e7-b7a7-63cd77c8ea5d@SpeedTest.net:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=speedtest.net#telegram+%E2%98%82%EF%B8%8F+%40proxy_kafee
 ss://23845d7f-95a8-463d-b0b3-0726b73eaa60@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v22.drlimit.net#telegram
-ss://7d4e9491-4eb4-42da-926c-2c7c201e99e2@UK.IPCLOUD.SHOP:443?path=%2Fnet%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=uk-cdn.pop-up-pool.xyz&amp;type=ws&amp;sni=uk-cdn.pop-up-pool.xyz#FreeForAll
-ss://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048;security=tls;encryption=none;host=edge.020770.xyz;type=ws;sni=edge.020770.xyz#%40%40proxyymeliii
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-ss://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=poORiaReD--PErsePOlIs.PagES.DEv&amp;fp=randomized&amp;type=ws&amp;sni=POOrIaREd--persEPolIS.pAGEs.Dev#%F0%9F%87%B8%F0%9F%87%AC%F0%9F%8C%8F+%40customv2ray+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%87%D8%A7%DB%8C+%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
-ss://50d1c295-fc17-4545-e1c1-c816b5bb0f26@185.146.173.49:2095?path=%2F&amp;security=none&amp;encryption=none&amp;host=2.V2.e.www.Speedtest.net.Hopeserver.Xyz.&amp;type=ws#%40hopev2ray
-ss://36c31398-c6df-4731-aa84-f4c23249dcd9@104.31.16.136:443?security=tls&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&amp;type=ws&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&amp;path=%2F%3Fed%3D2048&amp;fp=chrome&amp;alpn=h3%2Ch2#@Hope_Net-join-us-on-Telegram
-ss://telegram-id-P%63V2ray@www.speedtest.net:8080?path=%2Ftelegram-P%63V2ry%2Ctelegram-P%63V2ry%2Ctelegram-P%63V2ry%2Ctelegram-P%63V2ry%2Ctelegram-P%63V2ry%2Ctelegram-P%63V2ry%2Ctelegram-P%63V2ry%2Ctelegram-P%63V2ry%3Fed%3D8080&amp;security=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;encryption=none&amp;host=www.speedtest.net.G.1.mehpow.ir&amp;type=ws#%40mehrosaboran
-ss://9ba3ab5d-745f-4e44-96df-a7f8e4de3e16@104.19.239.120:8443?path=%2FTelegram%2CVPN%43%55%53%54OMIZE%3Fed%3D8080&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPN%43%55%53%54OMIZE.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#%40mehrosaboran
-ss://telegram-v2rayng_vpnn@cipcip.bozgosfanfasb.cfd:8585?type=tcp&amp;path=%2F&amp;host=iran.ir&amp;headerType=http&amp;security=none#%40v2rayng_vpnn
-ss://48198295-b7ba-4b5c-8d85-085d55a6c869@43.153.103.203:38454?security=tls&amp;sni=xz.ylks.xyz&amp;type=ws&amp;path=%2F%3Fproxyip#@Hope_Net-join-us-on-Telegram
