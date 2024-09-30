@@ -1,3 +1,10 @@
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
+trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
+trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.%68%71%762%72%61%79%6e%67.xyz&path=%2F%68%71%762%72%61%79%6e%67.host%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.219:443
+trojan://95b@154.21.87.106:22989?sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com#🔒 TR-WS-NA 🇺🇸 US-154.21.87.106:22989
+trojan://telegram-id-privatevpns@18.175.105.52:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.175.105.52:22222
+trojan://tg-dns68@162.159.152.150:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.150:443
+trojan://kxuBkBG8GK@95.216.8.162:110?security=tls&sni=flt2.ftpcomand.com&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-95.216.8.162:110
 trojan://Trevely@173.245.59.110:443?security=tls&sni=trojan.trevely.us.kg&type=ws&host=trojan.trevely.us.kg&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.110:443
 trojan://tg-dns68@162.159.152.60:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.60:443
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
@@ -491,10 +498,3 @@ vless://ff665f2a-bfd8-4baa-87de-5b10c200086b@195.254.165.42:8080?security=none&t
 vless://648d41d2-ae83-4ee0-961a-a6c0acbece13@104.21.90.112:443?security=tls&sni=hashemjavid1367.hashemjavid1988.workers.dev&type=ws&host=hashemjavid1367.hashemjavid1988.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.112:443
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@185.16.110.49:443?security=tls&sni=Pages.dev&type=ws&host=Telegram1-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray-xv2ray.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.49:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.38:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.38:2096
-vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.21.0.212:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.0.212:2053
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.169:443?security=tls&sni=pages.teasalo.cloudns.org&type=ws&host=pages.teasalo.cloudns.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.169:443
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.39:443
-vless://67e631ef-5b10-407f-b064-515240184b95@103.172.110.120:443?security=tls&sni=cmli.ali.f5.si&type=ws&host=cmli.ali.f5.si&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-103.172.110.120:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.186:443?security=tls&sni=jr.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.186:443
-vless://93b99881-df03-4597-9146-0c11e46387f7@112.119.49.206:23555?security=tls&sni=cfv.cscfwoker.fun&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-112.119.49.206:23555
-vless://9aaedc51-2367-4239-a88b-0756dfc9689e@104.17.37.131:8880?security=none&type=ws&host=dFB.De.sOccERsTAr.cOM--Mx-1hs-38xk.miTsOnIc.cOm&path=%2FgPPi3HNBe90lwSgS%3Fed%3D2540#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.37.131:8880
