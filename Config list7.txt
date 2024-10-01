@@ -1,3 +1,21 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:7307
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:5000#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:5000
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29104#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29104
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3389#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:3389
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQmR4YlZra0kzTmZrWDU0bEMzelFL@147.45.114.160:20810#🔒 SS-TCP-NA 🇳🇱 NL-147.45.114.160:20810
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25204#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25204
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25201#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25201
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24211#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24211
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.46:9090#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.46:9090
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#🔒 SS-TCP-NA 🇷🇴 RO-194.14.217.115:989
+ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#🔒 SS-TCP-NA 🇨🇦 CA-51.222.157.179:49602
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:445#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:445
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29205#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29205
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.5:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.5:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6697
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6379
+ss://NWRmNzk2MmUtZjlmZS00MWU2LWFiNDktZWQ5NmNjYjg1NmE3Og==@172.67.209.163:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.209.163:80
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6379
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:9101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNanUzWlNhYTRRVms0NW1j@74.50.98.185:8080#🔒 SS-TCP-NA 🇺🇸 US-74.50.98.185:8080
@@ -480,21 +498,3 @@ trojan://tg-dns68@162.159.152.207:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://auto@104.21.90.210:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
 trojan://5301502@69.84.182.85:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.orgh3&path=/trojan-9tc.pages.dev/#🔒 TR-WS-TLS 🇺🇸 US-69.84.182.85:443
 trojan://tg-dns68@162.159.152.204:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.204:443
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.18:443
-trojan://tg-dns68@162.159.152.200:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.200:443
-trojan://tg-dns68@162.159.152.52:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.52:443
-trojan://tg-dns68@162.159.152.8:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.8:443
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
-trojan://moist@152.70.239.134:34237?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-NA 🇰🇷 KR-152.70.239.134:34237
-trojan://tg-dns68@162.159.152.138:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.138:443
-trojan://tg-dns68@162.159.152.53:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.53:443
-trojan://tg-dns68@162.159.152.172:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.172:443
-trojan://auto@162.159.153.32:443?security=tls&sni=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org&type=ws&host=fe9b5676-a2aa-4b6a-8257-cd2dd0910205.8c98ef2b-bee2-470b-b759-9f5efbc10812.freeddns.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.32:443
-trojan://tg-dns68@162.159.152.95:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.95:443
-trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443?#🔒 TR-TCP-NA 🇫🇮 FI-65.108.205.61:443
-trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.16.201.94:2096?security=tls&sni=mailbox.CpiForPersia.Uk&type=ws&host=mailbox.CpiForPersia.Uk&path=trojan-ws/?ed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.201.94:2096
-trojan://tg-dns68@162.159.152.246:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.246:443
-trojan://tg-dns68@162.159.152.42:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.42:443
-trojan://telegram-id-directvpn@3.69.4.118:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.69.4.118:22222
-trojan://telegram-id-privatevpns@3.11.156.134:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.156.134:22222
-trojan://tg-dns68@162.159.153.177:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.177:443
