@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.46:9090#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.46-1400
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0649
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0645
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0644
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-0614
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.66:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-0438
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.66:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.66-0443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5499#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.203-1059
@@ -493,8 +498,3 @@ trojan://telegram-id-directvpn@3.141.83.167:22222?sni=trojan.burgerip.co.uk&allo
 vmess://eyJhZGQiOiAibnBtanMuY29tIiwgImFpZCI6ICIwIiwgImVuY3J5cHRpb24iOiAiYXV0byIsICJob3N0IjogImhkZnkxYzIuZnJlZWFpcmxhaW5lcy5jb20iLCAiaWQiOiAiNmI4ODBiMDctZTk1Mi00YzBiLWI0YTMtNmM5YWM0Y2Y5ZDNmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9RdnR2UGREWFhJbFNkWk1xbnV4RyIsICJwb3J0IjogIjQ0MyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidXJsX2dyb3VwIjogInYycmF5IiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9`
 vless://%4d%4d%44@104.21.69.44:8080?Telegram=@V2RayTz,@V2RayTz&path=/V2%72axx%3fed&security=none&encryption=none&host=WwW%2evaR%7aesh%33.Co%6d.Ft%70.de%62ian%2eOrg%2ewww%2espe%65dte%73t.n%65t.t%61bna%6b.or%67.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 trojan://telegram-id-privatevpns@18.199.40.42:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@51.21.88.148:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@18.135.167.231:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@13.50.59.230:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@52.50.58.241:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub`
-trojan://telegram-id-directvpn@3.134.138.222:22222?sni=trojan.burgerip.co.uk&allowInsecure=1&type=tcp&path=&host=trojan.burgerip.co.uk#[🇺🇸]t.me/ConfigsHub`
