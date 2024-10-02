@@ -1,3 +1,6 @@
+trojan://tg-dns68@162.159.153.87:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.87:443
+trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.%68%71%762%72%61%79%6e%67.xyz&path=%2F%68%71%762%72%61%79%6e%67.host%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.2.219:443
+trojan://tg-dns68@162.159.153.240:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.240:443
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
 trojan://tg-dns68@162.159.153.224:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.224:443
@@ -495,6 +498,3 @@ vless://ff65deba-5477-45ab-9c38-7c9bcd664c7f@162.159.152.2:8880?security=none&ty
 vless://ae3f4746-96f6-4996-9b4c-806b34fbaafe@104.21.66.44:8443?security=tls&sni=iD-Tel-vpNKeNZO.telLER-JoHNAntHOnY.wORkERs.dEV&type=ws&host=id-tel-VpNkEnZO.tElLer-JOHnAnThoNy.WoRKerS.dEV&path=%2FvpjqjylDFJ1WiSdU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.44:8443
 vless://5614c012-5736-445f-b3f4-800f5303027c@104.26.12.255:8080?security=none&type=ws&host=A.1.www.speedtest.net.zula.ir.parsdood.IR.&path=%2F%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.255:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.201:443?security=tls&sni=hp.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.201:443
-vless://49c9b685-3fd3-4629-94c0-a758969653ba@172.67.214.21:2082?security=none&type=httpupgrade&host=nodes.pooya-server.ir&path=%2FPooyaserver%2F%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.214.21:2082
-vless://7212e15a-74d8-4e0c-abcd-ca78ce70aa37@104.21.69.44:2086?security=none&type=httpupgrade&host=001.V2.H.www.speeDtest.borO2sound.IR.&path=%2Fmrka%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:2086
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.13:8443
