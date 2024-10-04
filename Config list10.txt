@@ -1,7 +1,3 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.217.21:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.217:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇸🇨Seychelles`
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.27:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ab.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2083?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@115.179.24.106:18097?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ab.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.101:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ab.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
@@ -498,3 +494,7 @@ trojan://Watashi_VPN@104.18.26.94:8443?path=%2F&security=tls&host=t-watashi-r-ja
 vless://4c40aed6-5fd0-4afa-95c7-20e7acfbd9fb@speedtest.net:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=alp15.ir&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://e7f6e06e-9426-478c-9d1e-3619f0d1f241@104.17.234.114:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://e7f6e06e-9426-478c-9d1e-3619f0d1f241@104.17.234.114:8443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://e7f6e06e-9426-478c-9d1e-3619f0d1f241@speedtest.net:443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D443&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+trojan://telegram-id-directvpn@18.200.98.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
+trojan://telegram-id-privatevpns@13.36.43.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs`
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.178.41:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧`
