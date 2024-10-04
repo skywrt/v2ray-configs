@@ -1,3 +1,21 @@
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.180:5498
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.79:3306#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.79:3306
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5003
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.92.111:5499#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.111:5499
+ss://YWY5ZDkxYjctNzMyNS00NDgxLTk3ZWYtOGUwMzMyOGI3ZTNiOg==@104.18.26.94:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.26.94:80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#🔒 SS-TCP-NA 🇵🇾 PY-38.165.233.18:990
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7002#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7002
+ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@172.67.204.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.41:2375#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.41:2375
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🔒 SS-TCP-NA 🇨🇦 CA-142.4.216.225:80
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@142.202.49.79:8881#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.79:8881
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6679#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6679
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.51:8080#🔒 SS-TCP-NA 🇺🇸 US-107.155.57.51:8080
+ss://MGZiNTNhNjAtMjM3Mi00MTJhLWE2OTMtNTE1N2I1OGVjYzk0Og==@172.67.2.238:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:80
+ss://YWVzLTI1Ni1nY206YzZkMzUwOTQtZGQ4NS00MjAyLTgxZWYtNWUzODdjNTYwNDgx@140.245.57.33:21850#🔒 SS-TCP-NA 🇸🇬 SG-140.245.57.33:21850
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:6379
+ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#🔒 SS-TCP-NA 🇫🇷 FR-162.19.25.207:34232
+ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:29106#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29106
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:8882
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmakF1cHZkNkQyenRyejE2ZnVPbzdv@62.133.60.60:21712#🔒 SS-TCP-NA 🇩🇪 DE-62.133.60.60:21712
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:24725#🔒 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24725
@@ -480,21 +498,3 @@ ss://5f59ccc3-6402-5232-a1b0-51c76b9c5dbf@185.146.173.26:80?path=%2Fvless&amp;se
 ss://37d20522-5b35-45e8-8742-ace55751c318@144.126.230.48:18080?type=tcp&amp;security=reality&amp;pbk=EZv-eocX6ChBfnvvCAEeiYiP5nBuqKfyQKGinfPEv2Q&amp;fp=firefox&amp;sni=*.sourceforge.net&amp;sid=5f429700&amp;spx=%2F#@Capital_NET
 ss://telegram-id-ArV2ray@speedtest.net:443?encryption=none&amp;security=tls&amp;sni=speedtest.net&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=alf11.ir&amp;path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#TLS3-ALL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHQzh2ZHVsc2NfWnM0ZWVwREh2Wnpn@185.233.13.10:56759#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
-ss://e9a511ff-8ee7-405f-9884-293c4cde9a19@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v21.drlimitemergency.net#telegram
-ss://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@188.114.97.3:8443?path=%2FTELEGRAM-NUFiLTER%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=pardazeshvpn-tg48.pages.dev&amp;fp=random&amp;type=ws&amp;sni=pardazeshvpn-tg48.pages.dev#%40proxy_kafee
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.98.163:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AD
-ss://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@151.101.130.219:80?security=none&amp;type=ws&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net#@Hope_Net-join-us-on-Telegram
-ss://ef2a1494-4907-4ceb-9515-5cadf6903787@zula.ir:8880?path=/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.Speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.Ir.&amp;type=httpupgrade#@LOCKEY_VPN
-ss://9b5dd301-e7f0-45d9-b098-5d8da184664f@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=fe.XsV2ray.cfd#%40
-ss://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40MTConfig
-ss://ea636233-af7b-49b7-b3d7-cc325aaf2133@speedtest.net:443?type=ws&amp;host=que4.ir&amp;path=/v2pedia?ed%3D2048&amp;security=tls&amp;fp=chrome&amp;sni=speedtest.net#Vip
-ss://477d2cef-56a3-44ec-a6a1-85050dda1cf6@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=footlo.argha-v2pedia.monster#%E2%9A%A1%40V2PEDIA%E2%9A%A1%28Insta%3A+v2pediaa%29+86
-ss://bd32d10d-b6e4-4e2c-ae5c-160daf3bc4dd@www.speedtest.net:80?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=all1.svgspeedtest.net&amp;type=ws#%40Vpnmasi-lcg9kw4h
-ss://aa1df27b-d639-560e-88ba-2ed382cf03b8@185.146.173.42:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Pt1.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%92%9A
-ss://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Fi2.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%92%99
-ss://529efef8-e541-4094-b3ab-f118c5866006@104.21.20.148:80?security=none&amp;sni=join-to.unlimiteddev.community&amp;type=ws&amp;host=join-to.unlimiteddev.Community.&amp;path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&amp;fp=chrome#@Hope_Net-join-us-on-Telegram
-ss://69f44e6b-9323-4ee1-8e6d-a0299639e2d3@188.114.97.3:443?path=_+_%40mehrosaboran%2C_+_%40mehrosaboran%3Fed%3D2560&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;alpn=h2,http/1.1&amp;host=Telegram-id-Tehran%41rgo.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=TeLEgRAM-id-TEhRan%41RgO.PAGes.Dev#%40mehrosaboran
-ss://d764cba1-9a14-4b3a-81f2-d5d4b61f334a@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2056&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.A.lightning-6.LiVE.&amp;type=ws#tm%E2%9A%A1%7C%40lightning6
-ss://3f6a2822-5cf7-4ec7-85b3-b1a635a61ffd@www.parspack.com:8880?path=%2FTelegram+-+@XvProxy+-+Telegram+-+@XvProxy&amp;security=none&amp;encryption=none&amp;host=all1.svgspeedtest.net&amp;type=httpupgrade#Http+%40Vpnmasi-h5qjwuye
-ss://801033cb-b1c6-441b-aa4c-955e3f9bf2a0@zula.ir:8880?path=/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Www.Speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.Ir.&amp;type=httpupgrade#@LOCKEY_VPN
-ss://4e12b9bd-5815-4f0d-aeb5-12a3e24171e1@speedtest.net:80/?type=ws&amp;path=%2Fvmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-vmessprotocol-%3Fed%3D2048&amp;host=join-vmessprotocol.ir&amp;security=none#%F0%9F%8C%B8%20%40vmessprotcol%2052%D8%AC%D9%87%D8%AA%20%D8%AD%D9%85%D8%A7%DB%8C%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
