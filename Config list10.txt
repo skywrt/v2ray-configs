@@ -1,3 +1,4 @@
+vmess://eyJhZGQiOiAiMTcyLjY0LjE2Ny4xMCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICJhNjNlOWM4Yy0yYzA0LTRiOGUtYWY2YS00YTAyNDk0YTFmMGIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXAyLjgwODQ3MjYueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.92.111:5499#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:8888#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
@@ -497,4 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.1:443?path=%2Fblue&securi
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.52:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lb.kpcloud.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.94:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ab.ylks.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.10:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=lb.ylks01.eu.org#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.60:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
