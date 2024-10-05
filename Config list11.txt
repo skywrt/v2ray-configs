@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7382
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.24:9090#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.24-0537
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2376#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-1214
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.152.16:8091#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.16-1199
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0927
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-8038
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8881#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-1967
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.89:7001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-1251
@@ -493,8 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@speedtest.org:8443?path=%2FTelegram
 vless://Telegram:v2rayvpn_official@bo3.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub`
 vless://021a2e9a-b280-477f-b72f-96d8a01ebd02@free.kalindu.xyz:443?security=tls&sni=aka.ms&allowInsecure=1&type=ws&path=/&encryption=none#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
 trojan://telegram-id-privatevpns@18.168.22.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs`
-trojan://telegram-id-privatevpns@18.168.22.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub`
-trojan://telegram-id-privatevpns@18.168.22.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
-vless://92ef5409-0ec3-47b7-8dd9-a0d1f490ac7d@wkrq.com:2052?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D2052&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.iran.ir.cdn.ir.Elmahstyle.ir.&type=httpupgrade#[🇺🇸]t.me/ConfigsHub`
-vless://6b8c8456-615c-4944-a8c9-6eebcfeac4ff@94.182.222.7:8179?security=none&encryption=none&host=pxt90u5l.tic.ir&headers=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
-vless://92ef5409-0ec3-47b7-8dd9-a0d1f490ac7d@wkrq.com:8880?path=%2FG%2Fb4t6hy5n%2F%3Fed%3D8880&security=none&encryption=none&host=dash.cloudflare.com.www.speedtest.net.dama.ir.pada.ir.Elmahstyle.ir.&type=httpupgrade#[🇺🇸]t.me/ConfigsHub`vless://c3552891-01b2-4ce0-b5ce-6eb8efc87619@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v25.drlimitemergency.net&sni=hajlab.ucdavis.edu&fp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
