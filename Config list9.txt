@@ -1,7 +1,3 @@
-vless://25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.13.229:8880?security=none&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.13.229:8880
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.59:443?security=tls&sni=lb.ylks.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.59:443
-vless://07102a42-7514-4ecc-b1a1-90912f184c92@104.21.94.168:8080?security=none&type=ws&host=www.speedtest.net.www.zula.ir.cloudflare.com.www.parsvds.ir.svgspeedtest.net&path=%2F%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy----%40XvProxy#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.168:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.251:443?security=tls&sni=db.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.251:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.195:443?security=tls&sni=PPAL03.YaGiG77558.WOrKerS.DEv&type=ws&host=PpaL03.yaGIg77558.WorkErs.DEv&path=%2FwCAiflU8Yf0HfruX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.195:443
 vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.241:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.14:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.14:443
@@ -498,3 +494,7 @@ trojan://DailyConfigs@104.18.14.8:443?security=tls&type=ws&sni=kanale-daily-conf
 trojan://3672449442956713984@caring-iguana.sunbeam921.monster:443?#%F0%9F%87%B5%F0%9F%87%B1PL%E6%B3%A2%E5%85%B0%20564.2KB%2Fs
 trojan://auto@172.67.2.238:2083?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A542
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDMiLCJhZGQiOiJtbWhrMDEubWljbG91ZC5idXp6IiwicG9ydCI6IjQ2MDAxIiwiaWQiOiJjOWJkYTBlNy00ZmZhLTQ2NGYtODRhMC00MTI1MzE4MGQwNGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii96aC1jbiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQiLCJhZGQiOiJhbWJ4eGljMDFoay5kb3JhYmJiLnRvcCIsInBvcnQiOiI0NDgwNiIsImlkIjoiYWU2NjMzMWUtYjZiNC00YzZmLTk1OWYtNmVkNjRjZjk3NjI4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ0In0=
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6697#US41%201.8MB%2Fs
+trojan://CMLiu@43.153.80.208:443?sni=aliorg.filegear-sg.me#US42
+ss://YWVzLTI1Ni1nY206MDZnWktrZUMySg==@23.94.76.55:51981#US43%2060.7MB%2Fs

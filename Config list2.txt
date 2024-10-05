@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8118
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:6697
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.158:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.158:443
-ss://YWVzLTI1Ni1nY206Mk1WVFFtMlFkSWVYNEZ4UDZjd1U1Zg==@146.19.170.82:47777#🔒 SS-TCP-NA 🇵🇱 PL-146.19.170.82:47777
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5004#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.24:5004
 ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇬🇧 GB-51.195.149.115:45816
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.203:8119#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.203:8119
@@ -498,3 +494,7 @@ ss://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?path=%2F%3Fed%3D
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.55.174:2053?path=%2FwL08on9nnAdWzBlu%3Fed%3D2560&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;alpn=h2,http/1.1&amp;host=MaHdISerVeR-afq.pAGeS.DEv&amp;fp=randomized&amp;type=ws&amp;sni=MaHDiserVER-afq.PagES.deV#%40mehrosaboran
 ss://TELEGRAM-NUFiLTER@Speedtest.net:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nufiltergogoli.com&amp;type=ws#%40v2rayngvp
 ss://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v05.drlimit.net#telegram
+ss://4b1e7834-4565-4c91-99fe-c55139e74882@www.alltravel.ir:8443?path=/www.speedtest.net/VPNCSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#@v2ray_swhil
+ss://1757f863-8209-4201-811d-69adfda9a9ed@SpeedTest.net:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v17.drlimit.net#telegram
+ss://aaa888e5-d4f1-47b5-b9b1-f51daac8698a@SpeedTest.net:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=speedtest.net&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v10.drlimit.net#telegram
+ss://89eeb27d-1a8c-4d84-9ca4-75d614d19900@webshecan.webredirect.org:2083?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&amp;sni=www.theverge.com&amp;flow=xtls-rprx-vision&amp;sid=7f321171&amp;spx=%2F#%40Webshecan-mci2
