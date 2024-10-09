@@ -1,19 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.61.14:5004#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#%E6%9C%AA%E7%9F%A510%202.0MB%2Fs
-trojan://telegram-id-directvpn@3.98.254.108:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A511%2045.6MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHcnUuYS1YZ0t6WSs9Tmxf@167.88.62.50:1723#US11%2014.7MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:3389#US12%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.9:5003#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%20138.0KB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiVVMxMyAxLjFNQi9zIiwiYWRkIjoiMTA4LjE4MS4yMDAuMjIwIiwicG9ydCI6IjUwNjEzIiwiaWQiOiIwOWU4MWVhYS1kMjk4LTQzMmMtZTdiNi0xN2FkZDMyZDE0ZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IlVTMTMifQ==
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#US14%20587.4KB%2Fs
-trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&type=ws&sni=aksnmaioas.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&host=aksnmaioas.pages.dev#%E6%9C%AA%E7%9F%A512
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5003#US15%201.7MB%2Fs
-trojan://bpb-trojan@45.131.208.81:443?security=tls&type=ws&sni=403B3611-99BC-43b7-88D7-26eD5d0825A9-3.PaGES.dEv&path=/trt3XSTgGNyK4r9U0o?ed=2560&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#%E6%9C%AA%E7%9F%A513
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8881#US16%201.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuQU9zV1RYd3dsQkZkMkV6MmRHSzJz@13.79.174.197:63314#%E6%9C%AA%E7%9F%A514
-trojan://tg-dns68@162.159.152.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A515
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFb1RqalRaWXI3RFZuaEp2bHJTd2g3@91.103.253.151:19057#%E6%9C%AA%E7%9F%A516
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.54:2053?security=tls&type=ws&sni=vfarid.xcdi.woRkeRS.deV&path=trojan-ws/?ed=2048&host=vfarid.xcdi.woRkeRS.deV#%E6%9C%AA%E7%9F%A517
 ss://YWVzLTEyOC1nY206NjkwMzczMDItMDA1MC00M2FlLWFiZjMtZjhlNjI3NDBhZmYx@91.199.84.195:25203#HK
 trojan://tg-dns68@162.159.153.15:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A518
 trojan://bpb-trojan@104.21.7.50:443?security=tls&type=ws&sni=403b3611-99bc-43B7-88d7-26ED5d0825A9-3.PagEs.deV&path=/treXr2VnQe0fT2hPwW?ed=2560&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#%E6%9C%AA%E7%9F%A519
@@ -498,3 +482,19 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8090#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0947
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.101-1922
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.203:8119#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.203-0650
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.101:5601#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.101-1967
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.155:8091#%F0%9F%87%BA%F0%9F%87%B8US-139.64.165.155-0624
+vless://c8e8e02a-462a-4eaf-9cfa-d3d97fdcc891@www.speedtest.net:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=ssdsdsdsdf.pages.dev&fp=randomized&type=ws&sni=ssdsdsdsdf.pages.dev#[🇺🇸]t.me/ConfigsHub`
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#[🇺🇸]t.me/ConfigsHub`
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=azADNet-seMEJ.pageS.DeV&fp=randomized&type=ws&sni=AzAdnET-SemeJ.pAGES.dev#[🇺🇸]t.me/ConfigsHub`
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#[🇨🇦]t.me/ConfigsHub`
+vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
+vless://838c061c-7c2c-4610-beab-d71a0bdcb448@193.107.48.5:40107?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-join-primiumv2ray-#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2087/?type=ws&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=tnetplus-1wc.pages.dev&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@www.speedtest.net:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@speedtest.net:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D443&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=VPNCUSTOMIZE.azmoon.net&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States`vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+vless://ee842477-4abc-4cef-bd99-e905c89b1d8a@104.18.218.118:8443?path=/%54%65%6C%65%67%72%61%6D%2C%56%50%4E%43%55%53%54%4F%4D%49%5A%45%3Fed%3D8443&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#[🇺🇸]t.me/ConfigsHub`
+vless://a673c0a9-413e-45ef-9722-4e39589ab15f@172.67.73.163:443?path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&encryption=none&alpn=http/1.1&host=47264192333081204176091557333481.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&fp=randomized&type=ws&sni=47264192333081204176091557333481.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.152.183:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦`
+vless://39bd0281-a0c6-4630-a859-ba77fe0cf426@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed%3D8880&host=MdVpnSecJoin.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
