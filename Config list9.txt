@@ -1,3 +1,10 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.100:443?security=tls&sni=cg.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.100:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.36:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.177:443?security=tls&sni=lg.ylka.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.177:443
+vless://d0f9437f-3c49-45c6-976b-ebea24158b39@104.21.69.44:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.69.44:2082
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.44:443?security=tls&sni=ah.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.44:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.47:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.47:443
+vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?type=ws&path=%2F#🔒 VL-WS-NA 🇮🇷 IR-81.12.27.93:52722
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.44:2083
 vless://a23ecd25-be4e-4603-a861-4b7fd2077ab8@172.67.220.177:8880?type=ws&host=uncdnt.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.220.177:8880
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@205.233.181.205:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.205:2096
@@ -491,10 +498,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.134:443?security=tls&sn
 vless://bb8b62e2-23bd-4b27-d72b-024769b24be3@193.9.49.150:443?security=tls&sni=onlineshop.tesco-pardis.com&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-193.9.49.150:443
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@99.83.138.213:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-99.83.138.213:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.32:443?security=tls&sni=lh.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.32:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.100:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.0.100:443
-vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@205.233.181.184:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.184:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@59.3.3.161:443?security=tls&sni=af.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-59.3.3.161:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.4:443?security=tls&sni=jz.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.4:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.185:443?security=tls&sni=vz.ylks.xyz&type=ws&path=%2F3b2dg5zv2kftsfko%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.185:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@61.81.181.169:14985?security=tls&sni=ag.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-61.81.181.169:14985
-vless://81dabced-dd35-445b-83fa-9ee3d786d97c@104.21.69.44:2083?security=tls&sni=Xs.bo3kot.com&type=grpc&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2083

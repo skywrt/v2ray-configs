@@ -1,3 +1,10 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.63:5500#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.63:5500
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7306#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7306
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#🔒 SS-TCP-NA 🇺🇸 US-92.118.112.111:18622
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.113:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:6379
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.74:6697#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.74:6697
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.53:9101
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#🔒 SS-TCP-NA 🇨🇿 CZ-195.181.160.6:990
 ss://auto@172.66.44.131:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.131:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:5600#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:5600
@@ -491,10 +498,3 @@ trojan://bpb-trojan@195.85.59.68:443?security=tls&sni=403b3611-99Bc-43B7-88D7-26
 trojan://f06ac303-e626-451d-bcfc-ee825ee69398@104.21.25.228:443?security=tls&sni=AzADnet-semEj.PAGes.dEv&type=ws&host=azaDNEt-sEMEJ.PageS.Dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.25.228:443
 trojan://3672449442956713984@195.133.93.155:443?sni=present-blowfish.sunbeam921.monster&allowInsecure=0#🔒 TR-TCP-NA 🇨🇿 CZ-195.133.93.155:443
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.14.19:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&host=poORiaReD--PErsePOlIs.PagES.DEv&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.14.19:443
-trojan://tg-dns68@162.159.153.67:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.67:443
-trojan://tg-dns68@162.159.152.85:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.85:443
-trojan://tg-dns68@162.159.152.243:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.243:443
-trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.36.165:443
-trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.14.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.26.14.85:443
-trojan://DailyConfigs@104.18.13.229:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2087
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.12.31:2053?security=tls&sni=vfarid.xcdi.wOrkERS.DeV&type=ws&host=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.31:2053
