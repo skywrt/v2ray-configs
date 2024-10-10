@@ -1,3 +1,7 @@
+trojan://tg-dns68@162.159.153.2:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
+trojan://tg-dns68@162.159.152.85:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.85:443
+trojan://XslctYye3P@95.217.112.137:110?security=tls&sni=flt1.ftpcomand.com&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-95.217.112.137:110
+trojan://tg-dns68@162.159.152.96:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.96:443
 trojan://bpb-trojan@185.176.24.2:443?security=tls&sni=403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr9vfP2lflALkJrNsQ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇷🇺 RU-185.176.24.2:443
 trojan://bpb-trojan@172.67.173.143:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr1NNELZR5ONppJJ1m%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.173.143:443
 trojan://azadnet-trojan@172.67.196.253:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.196.253:443
@@ -494,7 +498,3 @@ vless://f467b6a4-70e0-4f3d-b6ad-093c3b600576@104.17.148.22:8880?security=none&ty
 vless://9a4bc15d-a7d4-4181-9485-405629c36894@104.19.206.73:443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=Telegram%40Azarakhsh_Proxy%2F%3D%3Fed%3D2560&fp=android&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.206.73:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.241:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.241:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.82:443?security=tls&sni=V2ngFAST-47w.Pages.DEv&type=ws&host=v2nGFasT-47W.PAgES.DEV&path=%2FYIp3uyMuesIIIa83%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.82:443
-vless://d3484b27-0cdf-469b-953e-1066d4e488f8@104.21.89.84:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.84:443
-vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@103.231.73.172:2053?security=tls&sni=Telegram-iD-TehranARGo.pages.dev&type=ws&path=%2FTEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO+TEL%2C+%40TEHRANARGO+TEL%2C%40TEHRANARGO%3Fed#🔒 VL-WS-TLS 🇲🇩 MD-103.231.73.172:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.108:443
-vless://19452ca4-37f3-5a24-ac25-54db963b97b9@104.17.148.22:2095?security=none&type=ws&host=pl2.vless.Sitespeedtest.net.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
