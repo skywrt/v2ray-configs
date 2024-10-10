@@ -1,15 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.115:8888#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.115:8888
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.27.56:990#🔒 SS-TCP-NA 🇧🇬 BG-38.54.27.56:990
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU0b1NSVTkwZXkyZTBDUTI=@89.44.193.112:51348#🔒 SS-TCP-NA 🇰🇿 KZ-89.44.193.112:51348
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.119:9101#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.119:9101
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#🔒 SS-TCP-NA 🇵🇷 PR-185.47.255.22:990
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:2375
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.49.119:6379#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.119:6379
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:7307
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.153:2375#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.153:2375
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.49.79:5498#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.79:5498
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:8000
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.179:5498#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:5498
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@142.202.49.68:8882#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:8882
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.41:5000#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.41:5000
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8881
@@ -498,3 +486,15 @@ trojan://telegram-id-privatevpns@35.159.103.19:22222?security=tls&sni=trojan.bur
 trojan://tg-dns68@162.159.152.158:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.158:443
 trojan://bpb-trojan@104.21.79.143:443?security=tls&sni=403b3611-99bC-43B7-88D7-26eD5D0825A9-3.pAgeS.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrUCa3SPfNEeCjidWR%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.79.143:443
 trojan://tg-dns68@162.159.152.8:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.8:443
+trojan://tg-dns68@162.159.152.107:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.107:443
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
+trojan://tg-dns68@162.159.152.217:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.217:443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.16.159.3:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.3:443
+trojan://tg-dns68@162.159.153.233:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.233:443
+trojan://r8CTEc4F7K@172.67.196.170:2083?security=tls&sni=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&type=ws&host=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.196.170:2083
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.26.13.31:2053?security=tls&sni=vfarid.xcdi.wOrkERS.DeV&type=ws&host=vfarid.xcdi.wOrkERS.DeV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:2053
+trojan://tg-dns68@162.159.152.205:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.205:443
+trojan://r8CTEc4F7K@172.67.171.200:2083?security=tls&sni=speedtestneexpresernanewsstvsoft98iranewsggffnetemailcloudflare.ernanews.ggff.net&type=ws&host=speedtestneexpresernanewsstvsoft98iranewsggffnetemailcloudflare.ernanews.ggff.net&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.171.200:2083
+trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.36.165:443
+trojan://tg-dns68@162.159.152.52:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.52:443
+trojan://tg-dns68@43.156.56.22:7676?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🇸🇬 SG-43.156.56.22:7676
