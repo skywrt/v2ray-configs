@@ -1,3 +1,6 @@
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#All--%40V2ray_Alpha-09
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.111:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=094cb6e9.mhassani.pages.dev&fp=randomized&type=ws&sni=094cB6e9.mhassANi.pagES.DEV#All--%40V2ray_Alpha-10
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#All--%40V2ray_Alpha-11
 vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=meti-u9d.pages.dev&fp=chrome&type=ws&sni=meti-u9d.pages.dev#All--%40V2ray_Alpha-12
 vless://2efc923f-93b9-4a09-b2c9-04ca720277bb@172.66.47.62:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=DaILy-cONFiGs-chaNnEl.pagES.dEV&fp=randomized&type=ws&sni=DAILy-ConfigS-ChanNEl.pAGes.Dev#All--%40V2ray_Alpha-13
 vless://edcc9673-8c09-4d4f-b1ea-c533e83f793c@[2a06:98c1:3120::3]:8443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=C70f27ea.dAIlY-ConfiGS-chanNEl.PagEs.Dev&fp=randomized&type=ws&sni=c70F27Ea.dAilY-cONfigs-chAnNEL.PAgeS.DEv#All--%40V2ray_Alpha-14
@@ -495,6 +498,3 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#%F0%9F%87%BA%F0%9F%87%
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7823
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.89:443#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.89-0436
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.97-1037
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1700
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.103:8882#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.103-0348
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-1071
