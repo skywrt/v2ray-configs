@@ -1,3 +1,5 @@
+vless://77be959a-3a9f-53a1-ab5c-71e461a79f4d@185.146.173.46:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Fi2.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%92%99
+vless://c0259a71-9059-4ba3-9004-17e0b831f023@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v14.TzZLiMitT.CoM#telegram
 vless://771854f6-156d-5162-9187-91620e7a5d59@185.146.173.24:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Nl2.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%94%A5
 vless://3f84451e-ab44-5993-98ce-0fa58450656d@185.146.173.46:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Uk2.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%92%9B
 vless://23e0549a-9bf5-4a4d-b79a-355696fd35a3@151.101.66.133:443?security=tls&amp;sni=ergwork.web.unc.edu&amp;type=ws&amp;host=sobivip.com&amp;path=%2Ftelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%2Ctelegram-%40Sobi_Vpn%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
@@ -496,5 +498,3 @@ trojan://telegram-id-privatevpns@13.39.248.46:22222?security=tls&amp;alpn=http/1
 trojan://Nn7D3pZ0RDISZlC6ayayFCl3A9ReSOS25wCB84AxOX8a3gEzTuFY3YDKexqcpj@154.17.20.96:443?security=tls&amp;sni=playful.missionsec.io&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@3.120.203.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
 trojan://telegram-id-privatevpns@35.181.239.164:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@54.220.120.126:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S120)
-trojan://telegram-id-privatevpns@54.217.137.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S109)
