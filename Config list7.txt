@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.74:8090#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.74:8090
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8090#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8090
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.79:6697#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.79:6697
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.92.111:5499#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.111:5499
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:2376
@@ -496,5 +498,3 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2053?security=tls&sni
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.169:443?security=tls&sni=xz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.169:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.190:443?security=tls&sni=v2nGFAsT-D4w.paGEs.DEV&type=ws&host=v2ngFASt-d4w.paGEs.Dev&path=%2Fv4ZY0o8E2hXK9NpH%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.190:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.176:443?security=tls&sni=ao.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyip.us.fxxo.dedyo.io#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.176:443
-vless://8ecca039-6f84-414d-9a8e-590bb11e70c8@104.17.148.22:2096?security=tls&sni=g.yUSEFkharE.SBS&type=ws&host=g.yUSEFkharE.SBS&path=/Tel:@DOnald_vpn&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2096
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sni=bPB-V.pageS.dEV&type=ws&host=Bpb-v.PAges.deV&path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.208:2053

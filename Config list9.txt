@@ -1,3 +1,5 @@
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.18.185.80:443?security=tls&sni=contactusfromwebvahid.SAssANiDEmPiRe.Com&type=ws&host=contactusfromwebvahid.SAssANiDEmPiRe.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.185.80:443
+vless://6e643b53-f30a-443d-a069-c5826f365403@188.114.97.122:2087?security=tls&sni=sni2.tohid3aeed.com&type=ws&host=sni2.tohid3aeed.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.122:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.218:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.218:443
 vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@104.16.4.103:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.103:8080
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@129.159.37.229:443?security=tls&sni=BPB005.pAgEs.DeV&type=ws&path=%2F5sthz7rskwbjq043%2Fmtuyljy3ljiznc40oq#🔒 VL-WS-TLS 🇺🇸 US-129.159.37.229:443
@@ -496,5 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.1:2096?security=tls&sni=
 vless://2add1972-dcb0-4df6-a45c-e3b78c3a0ca8@5.160.132.124:4060?security=none&type=tcp&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.132.124:4060
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.5:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.5:2082
 vless://ca6dd846-3795-463d-be57-fea85e17009d@217.18.90.57:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-217.18.90.57:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.35.191.226:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-103.35.191.226:8443
-vless://11a88336-011d-4344-ed16-7b8264ad686c@172.67.132.209:8880?security=none&type=ws&host=www.speedtest.net.Cafinet-lighter.ir.&path=%2F%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android------%40Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.209:8880
