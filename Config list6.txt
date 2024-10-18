@@ -1,6 +1,3 @@
-vless://d2b95aa8-638f-4b0e-b94e-17178cdd4d21@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitT.CoM#telegram
-vless://77a55f57-b0bb-403f-a3f3-e233b9ea0a5f@hajlab.ucdavis.edu:80?security=none&amp;type=ws&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v16.TzZLiMitT.CoM#telegram
-vless://Parsashonam-76@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=Parsashonam0.com&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.Ucdavis.Edu.#@Parsashonam
 vless://dc6059e1-b1d3-433a-9046-ea09e48d1857@www.speedtest.net:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&amp;security=tls&amp;encryption=none&amp;alpn=h3,h2,http/1.1&amp;host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com#%F0%9F%87%A9%F0%9F%87%AA+%40frev2ray
 vless://62735789-8f2d-570a-b21d-6c314a1d2356@6e205.biu996.xyz:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=6e205.biu996.xyz&amp;type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://accabba-aacb-acba-dacb-abcaacbcabcb@127.0.0.1:1080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
@@ -498,3 +495,6 @@ trojan://telegram-id-directvpn@3.15.66.19:22222?security=tls&amp;alpn=http/1.1&a
 trojan://telegram-id-directvpn@15.222.204.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://3672449442956713984@champion-dog.lab300.lat:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=champion-dog.lab300.lat#%F0%9F%87%B9%F0%9F%87%B7https%3A%2F%2Ft.me%2Fvpn_ioss%D8%B9%D8%B6%D9%88+%D8%B4%D9%88
 trojan://telegram-id-directvpn@15.157.239.99:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?security=tls&amp;sni=twnode11.oportal.cc&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
+trojan://bpb-trojan@172.66.44.156:2053?security=tls&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV&amp;type=ws&amp;path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;fp=randomized&amp;alpn=http%2F1.1#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-directvpn@44.205.239.103:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
