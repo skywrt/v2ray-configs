@@ -1,3 +1,8 @@
+trojan://bpb-trojan@159.112.235.18:443?security=tls&sni=403B3611-99Bc-43b7-88D7-26ED5d0825A9-3.pAges.DEV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrxmIMD7V6laxACV9c%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-159.112.235.18:443
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443
+trojan://bpb-trojan@172.66.44.141:2083?security=tls&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV&type=ws&host=fb0887ca.bpb-worker-panel-e3c.pages.dev&path=%2FtrMK2zs2naPJSgJ7Pr%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.141:2083
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
 trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
 trojan://tg-dns68@162.159.152.149:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.149:443
 trojan://tg-dns68@162.159.152.59:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.59:443
@@ -493,8 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.78:443?security=tls&sni=c
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.225:2053?security=tls&sni=bPB-V.pageS.dEv&type=ws&host=bpb-v.pagEs.dEv&path=%2FzeX0vPc2Jcr0o9BQ%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.225:2053
 vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@5.160.132.10:3333?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-5.160.132.10:3333
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.219.192:2053?security=tls&sni=bPB-v.pageS.DEV&type=ws&host=bPB-v.paGeS.deV&path=%2FS3QgG3ageIHh94xO%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.219.192:2053
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.10:80?security=none&type=ws&host=uni.fi&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.10:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.183:443?security=tls&sni=lg.ylks.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.183:443
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.155:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.80:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.80:443
