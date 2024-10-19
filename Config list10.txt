@@ -1,4 +1,3 @@
-vless://571f64c7-bff0-4d33-8765-56ad2334cb55@172.67.169.244:80?security=none&type=ws&host=ca.ailicf.us.kg&path=%2Fascb#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.169.244:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sni=bPB-V.pageS.dEV&type=ws&host=Bpb-v.PAges.deV&path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.208:2053
 vless://9a890af5-de6b-48a9-cb1a-dd9352224ec4@104.21.46.253:8880?security=none&type=httpupgrade&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.h80.cloudfront.net.kiava.fun#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.46.253:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.1:443?security=tls&sni=cg.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.1:443
@@ -498,3 +497,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.33.174:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.21:443?security=tls&sni=dr.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.21:443
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
 vless://86c64f1a-b002-4136-977b-ee9e6a611a1c@162.159.137.232:8880?security=none&type=ws&host=bia-be-falcunargo.912e867951.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:8880
+vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?security=tls&sni=vfarid.xcdi.WOrkers.Dev&type=ws&host=vfarid.xcdi.WOrkers.Dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.157:8443
