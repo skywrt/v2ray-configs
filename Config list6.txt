@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:6697
+ss://auto@172.66.44.131:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.131:443
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.222.240:443#🔒 SS-TCP-NA 🇰🇷 KR-3.35.222.240:443
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.74:8090#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.74:8090
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5499
 ss://YWVzLTEyOC1nY206M2E2OTA3MDktNTAxMS00YTZjLWFiNjItZGEyZmI1MjkxMjMz@38.150.12.187:50203#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:50203
@@ -495,6 +498,3 @@ trojan://tg-dns68@162.159.153.214:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://tg-dns68@162.159.152.145:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.145:443
 trojan://tg-dns68@162.159.153.194:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.194:443
 trojan://bpb-trojan@199.181.197.143:443?security=tls&sni=403B3611-99bc-43b7-88D7-26eD5d0825A9-3.PaGeS.deV&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrAun92tJzhYilmLtq%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-199.181.197.143:443
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.1.191:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.1.191:2083
-trojan://cassiusvpn@104.17.148.22:443?security=tls&sni=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&type=ws&host=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
-trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443

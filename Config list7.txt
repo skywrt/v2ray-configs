@@ -1,3 +1,6 @@
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.1.191:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.1.191:2083
+trojan://cassiusvpn@104.17.148.22:443?security=tls&sni=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&type=ws&host=telegram----cassiusvpn----2215456487655561231564648465465223132.singerc31.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:443
+trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443
 trojan://NISHIKUITAN222@140.238.88.47:443?#🔒 TR-TCP-NA 🇬🇧 GB-140.238.88.47:443
 trojan://3690911436885991424@91.199.84.246:443?sni=giving-marmoset.opossum872.cfd&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.246:443
 trojan://tg-dns68@162.159.153.2:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
@@ -495,6 +498,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.244:443?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.21:443?security=tls&sni=bpb-V.PAGEs.DEv&type=ws&host=bPb-V.pagES.deV&path=%2FP3CkdedH5De954Jp%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:443
 vless://f1f166b8-bd43-49da-b8f7-eac656e37934@62.60.222.104:28162?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.222.104:28162
 vless://b715727e-0bbc-46cd-a7f0-6638eacb1a5f@172.66.47.177:2053?path=/Join,@TEHRANARGO#🔒 VL-TCP-NA 🏴‍☠️ NA-172.66.47.177:2053
-vless://6babb657-1524-43bb-b421-11bda27bc9de@160.153.0.183:443?security=tls&sni=smart.latisko.fun&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-160.153.0.183:443
-vless://17714732-15b6-5b7a-9703-8c874ef8bef4@185.174.138.194:80?security=none&sni=55965.olielielie.store.&type=ws&path=/vless#🔒 VL-WS-NONE 🇷🇺 RU-185.174.138.194:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.247:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2security#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.247:443
