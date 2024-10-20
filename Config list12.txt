@@ -1,6 +1,3 @@
-vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@172.67.2.238:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:2052
-vless://16b3cbba-e6ac-495a-9481-976a0415eab9@172.67.217.183:443?security=tls&sni=ESEtSECURItYlIcENse.shPnmm.WoRkeRS.Dev&type=ws&host=eSEtSeCURITYlICEnsE.sHpnmM.WOrKeRS.DEv&path=%2FrAQuyPffj94byXJx%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.183:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.145:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.145:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.184:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.184:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.35.119.193:443?security=tls&sni=lo.ylks.us.kg&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-194.35.119.193:443
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:2096
@@ -498,3 +495,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.253:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.91.136.173:443?security=tls&sni=do.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇳🇱 NL-34.91.136.173:443
 vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.44.156:443?security=tls&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.156:443
 vless://26db7bb1-5531-45ce-9aae-12a60730585c@104.26.14.16:2083?security=tls&sni=APkdOwNLoad.MiRAclehEArTbit.iCu&type=httpupgrade&host=APkdOwNLoad.MiRAclehEArTbit.iCu&path=%2F%40V2RayyNGvpn%3Fed%3D128&fp=chrome&alpn=h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.26.14.16:2083
+vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.56:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2FStDNeNqkbQxrj6Xy%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.56:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.0:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@170.39.66.155:443?security=tls&sni=dg.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-170.39.66.155:443
