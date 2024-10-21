@@ -1,7 +1,3 @@
-vless://9a4bc15d-a7d4-4181-9485-405629c36894@104.19.206.73:443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=Telegram%40Azarakhsh_Proxy%2F%3D%3Fed%3D2560&fp=android&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.206.73:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.52:443?security=tls&sni=ls.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.52:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.182:443?security=tls&sni=ar.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.182:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.18.33:443?security=tls&sni=ppal03.lia-HARTMAnn.woRkErs.dEV&type=ws&host=ppAL03.lIA-HArtManN.workers.DeV&path=%2FLK8QINcpxrBc7yhF%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.33:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.39:443?security=tls&sni=lr.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.39:443
 vless://3a0a4644-5dc3-40c9-90b7-c0dc0f883bdb@104.21.6.233:443?security=tls&sni=tEL-pPAL03.MaRLEne-tOWnE.wORKers.DEV&type=ws&host=Tel-PPaL03.MarLeNE-ToWNe.WoRKErS.Dev&path=%2FCwpia4xOkyZLh0-4%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.6.233:443
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?security=tls&sni=unmanliest.appreviewcenter.com&type=ws&host=unmanliest.appreviewcenter.com&path=%2Fnimws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443
@@ -498,3 +494,7 @@ trojan://tg-dns68@162.159.153.159:443?security=tls&type=ws&sni=vip.putata.eu.org
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.5:7307#US17%201.8MB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%E6%9C%AA%E7%9F%A541%2012.7MB%2Fs
 trojan://telegram-id-privatevpns@34.252.217.31:22222?sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AAIE%E7%88%B1%E5%B0%94%E5%85%B0
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.66.177:2096?security=tls&type=ws&sni=vfarid.xcdi.wORKeRS.dev&path=trojan-ws/?ed=2048&host=vfarid.xcdi.wORKeRS.dev#%E6%9C%AA%E7%9F%A542
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#US18%201.9MB%2Fs
+trojan://Tel-DailyConfigs@104.18.6.21:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#%E6%9C%AA%E7%9F%A543
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.103:8009#US19%201.8MB%2Fs
