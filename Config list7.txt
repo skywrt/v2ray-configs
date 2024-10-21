@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:9102
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.63:7001#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.63:7001
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@139.64.165.115:9101#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.115:9101
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:8882
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:8888#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:8888
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3YnFVNlRTT3h5eWV1eTJ6aHhwSTE5@77.246.98.67:443#🔒 SS-TCP-NA 🇳🇱 NL-77.246.98.67:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#🔒 SS-TCP-NA 🇰🇿 KZ-213.156.137.67:989
@@ -494,7 +498,3 @@ trojan://tg-dns68@162.159.152.45:443?security=tls&sni=vip.putata.eu.org&type=ws&
 trojan://blue2024@108.162.195.217:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.217:443
 trojan://r8CTEc4F7K@172.67.196.170:2083?security=tls&sni=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&type=ws&host=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.196.170:2083
 trojan://tg-dns68@162.159.153.149:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.149:443
-trojan://tg-dns68@162.159.152.209:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.209:443
-trojan://blue2024@198.41.198.132:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.198.132:443
-trojan://e305e0b8-55ae-4873-bf52-18ac5863e85e@104.26.14.85:443?security=tls&sni=meta.maliva.space&type=splithttp&host=meta.maliva.space&path=/mma8pvU8i7t6qjYdga&headerType=http#🔒 TR-SPLITHTTP-TLS 🏴‍☠️ NA-104.26.14.85:443
-trojan://f0556de9-037d-5369-9352-4b8d2a893263@172.67.214.246:2087?security=tls&sni=florida.xcdl.WOrKerS.dEV&type=ws&host=florida.xcdl.WOrKerS.dEV&path=trojan-ws%2F%3Fed.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.214.246:2087
