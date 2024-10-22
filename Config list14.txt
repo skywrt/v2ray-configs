@@ -1,3 +1,4 @@
+vless://186c6afe-7234-4911-839f-77086e9b7278@104.16.133.222:2086?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.133.222:2086
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.205:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.205:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.101:443?security=tls&sni=0F4c3270.vpNHAVEn.PAgEs.dEV&type=ws&host=0F4c3270.vPNHAVEN.PagES.DEV&path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.101:443
 vless://b22192ac-0f3a-5108-b0de-7b4e78766f3c@104.21.72.234:2083?security=tls&sni=hhduwheh2g2i1.publlgis8hsksve-52f.wOrKers.deV&type=ws&host=hhduwheh2g2i1.publlgis8hsksve-52f.wOrKers.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.234:2083
@@ -497,4 +498,3 @@ vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?path=%2FTelegram
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2FTelegram%40Linkvws%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#WiFi-%40V2ray_Alpha-13♾
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.95.123:80?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sara193.ir&type=ws#MCI-%40V2ray_Alpha-05
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.21.3.233:8880?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#MCI-%40V2ray_Alpha-06
-vless://cf43996d-cc45-458e-87ac-c9c933c9ed3e@104.17.147.22:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.fi2.v2vless.sitespeedtest.net&type=ws#MCI-%40V2ray_Alpha-07

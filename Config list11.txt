@@ -1,3 +1,4 @@
+vless://18f09f4b-9941-4708-a9b1-b685da34bf60@198.41.209.2:8443?security=tls&sni=meta1.modinso.ir&type=grpc&serviceName=okala.com&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.209.2:8443
 vless://6be7a597-9892-585b-a59d-5dd3cd5e7a4f@45.32.177.66:80?security=none&type=ws&host=rtxWs.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#🔒 VL-WS-NONE 🇬🇧 GB-45.32.177.66:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.137:2053?security=tls&sni=BpB-v.PAgEs.Dev&type=ws&host=bpb-v.PaGEs.DeV&path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.137:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.66:443?security=tls&sni=v2nGFAsT-D4w.paGEs.DEV&type=ws&host=v2ngFASt-d4w.paGEs.Dev&path=%2Fv4ZY0o8E2hXK9NpH%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.66:443
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.35:443?security=tls&sni=jz.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.35:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.58:2096?security=tls&sni=joinV2NGFasT-7Nr.pAgeS.DeV&type=ws&host=jOINV2ngfast-7nr.PAges.Dev&path=%2FmOD571okkDg4TqCz%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.58:2096
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.1:443?security=tls&sni=xz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.1:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.218:443?security=tls&sni=lt.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.218:443
