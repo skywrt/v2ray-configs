@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.99:8882#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.99:8882
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.230:2376#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.230:2376
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.178.117.135:443#🔒 SS-TCP-NA 🇯🇵 JP-54.178.117.135:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRVMzNGl4eFZLTE9ndVpXQ3c2Q3dM@51.158.252.130:443#🔒 SS-TCP-NA 🇫🇷 FR-51.158.252.130:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6697
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:7307
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:443
@@ -494,7 +498,3 @@ trojan://tg-dns68@162.159.153.90:443?security=tls&sni=vip.putata.eu.org&type=ws&
 trojan://VPNCSTOMIZE@104.18.218.118:8443?security=tls&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8443&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.218.118:8443
 trojan://bpb-trojan@172.66.47.117:8443?sni=AZaDneT-Hwt.pAGES.dev&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.47.117:8443
 trojan://tg-dns68@104.19.34.62:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.34.62:443
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@172.67.149.124:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.149.124:443
-trojan://tg-dns68@104.19.39.97:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.39.97:443
-trojan://tg-dns68@104.19.49.192:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.49.192:443
-trojan://Watashi_VPN@104.18.38.122:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.38.122:8443
