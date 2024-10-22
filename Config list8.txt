@@ -1,7 +1,3 @@
-trojan://bpb-trojan@172.66.47.53:443?security=tls&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&type=ws&path=/trSo3btsDgOHHUM6Nb&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.53:443
-trojan://7a566d21dfcd0f12490275fd3dd3cfc4@139.162.83.219:443?#🔒 TR-TCP-NA 🇯🇵 JP-139.162.83.219:443
-trojan://NISHIKUITAN222@150.230.196.248:443?#🔒 TR-TCP-NA 🇯🇵 JP-150.230.196.248:443
-trojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.66.228:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&type=ws&host=example.ir#🔒 TR-WS-TLS 🇺🇸 US-151.101.66.228:443
 trojan://tg-dns68@162.159.153.178:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.178:443
 trojan://blue2024@172.64.35.217:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.217:443
 trojan://blue2024@172.64.35.173:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.173:443
@@ -498,3 +494,7 @@ vless://682844c1-ee62-4517-b5c9-8f75b3f47af4@151.101.64.155:80?security=none&typ
 vless://b0341ae8-665b-437a-983f-cf7245a51799@151.101.206.174:443?security=tls&sni=313yar.com&type=ws&host=313yar.com&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-151.101.206.174:443
 vless://f1a234f6-c946-4024-ba79-882f58c22727@104.21.22.141:443?security=tls&sni=new-worker.iipcfteam.workers.dev&type=ws&host=new-worker.iipcfteam.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.141:443
 vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@5.160.132.11:3535?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-5.160.132.11:3535
+vless://6504f00e-a86e-47fa-897a-e8b7ba9fc32c@85.9.127.145:2012?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.127.145:2012
+vless://45d6db68-8895-468a-80f7-de24553e5b2f@195.85.59.155:443?security=tls&sni=adsl.felafel.org&type=grpc&serviceName=@ConfigTell#🔒 VL-GRPC-TLS 🇨🇾 CY-195.85.59.155:443
+vless://b5f01f75-81ac-4809-b7f2-2c1b512712ed@104.18.68.168:2053?security=tls&sni=Telegram-iD-TehranArgo.pages.dev&type=ws&host=Telegram-iD-TEHRANARGO.pages.dev&path=/TEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGOTEL,@TEHRANARGO%3Fed%3D2560&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.68.168:2053
+vless://922e96cd-7ed5-4836-a2f3-11c441716e53@104.21.46.253:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws80.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.253:8880
