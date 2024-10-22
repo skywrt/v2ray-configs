@@ -1,3 +1,7 @@
+trojan://aa6eb272-1d8d-4461-9687-85ddbab1adb0@172.234.222.143:80?security=tls&sni=us2.trojanvh.xyz&type=tcp&host=us2.trojanvh.xyz#🔒 TR-TCP-TLS 🇺🇸 US-172.234.222.143:80
+trojan://bpb-trojan@159.112.235.48:2083?security=tls&sni=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrZTKk76m0W1AxpNcC%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-159.112.235.48:2083
+trojan://blue2024@172.67.126.127:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.126.127:443
+trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
 trojan://tg-dns68@162.159.152.113:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.113:443
 trojan://tg-dns68@43.156.56.22:7676?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🇸🇬 SG-43.156.56.22:7676
 trojan://tg-dns68@162.159.153.135:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.135:443
@@ -494,7 +498,3 @@ vless://34b4478d-6ea9-4973-9317-7dfc5dc33117@104.22.2.43:2053?security=tls&sni=c
 vless://0348038c-de3b-5790-8756-402479efb5c7@172.67.178.176:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.176:2053
 vless://25bce699-a0c0-44f5-c86a-5f3c9f458a41@172.64.40.45:443?security=tls&sni=jujp.zdzdzd.xyz&type=ws&host=jujp.zdzdzd.xyz&path=%2Fjuzi&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.40.45:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@142.171.103.247:30002?security=tls&sni=lt.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-142.171.103.247:30002
-vless://bf7e1009-1574-44f7-86df-6cbecd338477@104.27.62.243:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&host=pardazeshvpn-tg18.pages.dev&path=%2F%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.62.243:443
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.46:8443?security=tls&sni=bPb005.paGes.DEV&type=ws&path=%2FFxHHv799mIhZ1xXP%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.46:8443
-vless://eee42454-c782-440e-9feb-4822bb2dfc9c@172.67.163.103:8880?security=none&type=httpupgrade&host=6.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTELEGRAM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM-PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.163.103:8880
-vless://570e8149-5271-41cb-8422-36039926a23e@104.18.26.94:443?security=tls&sni=esetsecuritylicense.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense.cxlrazo.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:443
