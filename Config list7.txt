@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9042
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSGhyN2p0S3NVcXpoNjhnWjV3R2Q2@174.138.17.254:52252#🔒 SS-TCP-NA 🇸🇬 SG-174.138.17.254:52252
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8080
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.68:5001#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:5001
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.95:5000
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.215:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.215:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.9:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.9:8080
@@ -494,7 +498,3 @@ trojan://blue2024@162.159.44.188:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-
 trojan://blue2024@172.67.110.232:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.110.232:443
 trojan://tg-dns68@162.159.152.72:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.72:443
 trojan://blue2024@172.64.35.205:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.205:443
-trojan://telegram-id-privatevpns@16.170.5.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.5.34:22222
-trojan://tg-dns68@162.159.152.45:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.45:443
-trojan://auto@172.66.44.106:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=/&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.106:2053
-trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.5:443
