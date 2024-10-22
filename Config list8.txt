@@ -1,3 +1,7 @@
+trojan://tg-dns68@162.159.153.232:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.232:443
+trojan://telegram-id-privatevpns@18.198.161.189:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.198.161.189:22222
+trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443?#🔒 TR-TCP-NA 🇫🇮 FI-65.108.205.61:443
+trojan://telegram-id-privatevpns@54.171.148.96:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.171.148.96:22222
 trojan://tg-dns68@172.66.47.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
 trojan://blue2024@162.159.44.217:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.217:443
 trojan://tg-dns68@162.159.152.198:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.198:443
@@ -494,7 +498,3 @@ vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@108.162.192.184:2083?security=tls&s
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@162.159.153.2:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2FTelegram@SINABIGO%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@168.100.6.68:2083?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.68:2083
 vless://f267c4f5-3629-480c-b835-00d835666bff@172.67.167.69:443?security=tls&sni=ppAL03.jUliuS-TrOMP.worKErS.dEV&type=ws&host=pPal03.julIUS-tROMp.wOrkerS.DeV&path=%2F3q7lIqbx9HtL8-oy%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.69:443
-vless://8da036f9-2873-4a9d-e880-5e4f9835f365@172.67.73.163:2082?security=none&type=httpupgrade&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.67.73.163:2082
-vless://edade224-ab25-46e0-a41b-b415b182a59d@173.245.49.27:443?security=tls&sni=qwerdgy47892drvseddsesswdownload.namava.network&type=ws&host=qwErdGy47892DRvSEddSEsSWDownload.namava.network&path=%2F54051%2Fdownload&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.27:443
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@158.180.79.198:443?security=tls&sni=bpB005.pAgEs.DEv&type=ws&path=%2Fl7p3vofu860yuels%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-158.180.79.198:443
-vless://34f9bcba-c27b-4009-b6ea-e648e620292c@199.34.228.66:443?security=tls&sni=CHANNel-Id-FREeV2rNg.PAgeS.DEv&type=ws&path=%2F-----FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG----------FREEV2RNG-----%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.66:443

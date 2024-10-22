@@ -1,3 +1,7 @@
+trojan://telegram-id-privatevpns@51.44.40.40:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://telegram-id-directvpn@35.181.29.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
+trojan://auto@162.159.136.232:8443?path=%2F&amp;security=tls&amp;host=e9464f45.trauma-2r4.pages.dev&amp;type=ws&amp;sni=e9464f45.trauma-2r4.pages.dev#%40V2ray1_Ng+ALL
+trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&amp;security=tls&amp;alpn=http/1.1&amp;host=bpb-worker-panel1-e4p.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=bpB-worKER-paneL1-e4p.pAGes.dEV#%F0%9F%9F%A3%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C+%D8%A8%D8%A7+%D8%B3%D8%B1%D8%B9%D8%AA+%D8%A8%D8%A7%D9%84%D8%A7+%D8%AA%D8%B6%D9%85%DB%8C%D9%86%DB%8C+%40Outlinev_2rayNG
 trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&amp;headerType=http&amp;type=tcp#%F0%9F%A7%9F+%7C+8185
 trojan://3690911436885991424@giving-marmoset.opossum872.cfd:443?security=tls&amp;type=tcp&amp;headerType=none#%E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%8A%BD%E5%A5%96https%3A%2F%2Ft.me%2Fmftizi
 trojan://telegram-id-privatevpns@18.170.12.92:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
@@ -494,7 +498,3 @@ trojan://SQXdz0p1cP@95.216.78.124:110?security=tls&sni=fr1.ftpcomand.com#🔒 TR
 trojan://bpb-trojan@104.20.18.168:443?security=tls&sni=403B3611-99Bc-43b7-88D7-26Ed5D0825a9-3.PAGeS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrYEKooUVTeXcm8lnU%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:443
 trojan://XslctYye3P@95.217.112.137:110?security=tls&sni=flt1.ftpcomand.com&type=tcp#🔒 TR-TCP-TLS 🇫🇮 FI-95.217.112.137:110
 trojan://NISHIKUITAN222@168.138.215.251:443?#🔒 TR-TCP-NA 🇯🇵 JP-168.138.215.251:443
-trojan://tg-dns68@162.159.153.232:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.232:443
-trojan://telegram-id-privatevpns@18.198.161.189:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.198.161.189:22222
-trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@65.108.205.61:443?#🔒 TR-TCP-NA 🇫🇮 FI-65.108.205.61:443
-trojan://telegram-id-privatevpns@54.171.148.96:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.171.148.96:22222
