@@ -1,3 +1,8 @@
+vless://79978027-ef16-4137-b18e-905f8c18f845@172.67.254.45:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.254.45:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@202.182.125.193:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇯🇵 JP-202.182.125.193:8443
+vless://8704dd20-f9e5-48c5-920d-540e5242ef02@104.21.30.53:443?security=tls&sni=pPAl03.tReY-FuNk.worKers.DEV&type=ws&host=PPAL03.TrEY-Funk.WOrkeRS.Dev&path=%2F1ju7HpGQinZaY1HZ%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.30.53:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.174.138.141:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.141:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.12:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodessecurity#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.12:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=ls.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.144:443
 vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@162.159.137.232:8443?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.210:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.210:443
@@ -493,8 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.138:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.78:443
 vless://2dafa27b-898b-4eb2-bbc4-6a1bbc27639b@104.19.219.113:443?security=tls&sni=bb.limoo.online&type=ws&host=bb.limoo.online&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.113:443
 vless://2add1972-dcb0-4df6-a45c-e3b78c3a0ca8@5.160.132.116:4060?security=none&type=tcp&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.132.116:4060
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.220:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.220:443
-vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@162.159.138.207:443?security=tls&sni=noodturk.parsianboton.ir&type=grpc&serviceName=BuT9Wfa6u5bLQUgA9#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.138.207:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.95:443
-vless://5b449647-be65-4b3f-ae28-8bcefe37c4c6@5.202.7.85:3131?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-5.202.7.85:3131
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.164:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.164:2083
