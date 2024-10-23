@@ -1,3 +1,4 @@
+vless://5b9abc0d-435b-4df1-8f75-328b966a8d10@185.231.181.92:3030?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.231.181.92:3030
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@199.34.228.178:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:2096
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.85:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.85:443
@@ -497,4 +498,3 @@ vless://92ef5409-0ec3-47b7-8dd9-a0d1f490ac7d@141.193.213.11:2052?security=none&t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.33:443?security=tls&sni=De610Bc4.BPb-WOrKEr-panel-cgp.PAgeS.DEV&type=ws&host=de610bc4.bpb-worker-panel-cgp.pages.dev&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.33:443
 vless://2efc923f-93b9-4a09-b2c9-04ca720277bb@104.21.220.63:443?security=tls&sni=DAily-COnfigs-cHaNnEL.pages.DeV&type=ws&host=dAILy-cONFigS-cHAnnel.pAgES.DEV&path=%2Fjoin-%40daily_configs%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.220.63:443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.20.151:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.151:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.97:443?security=tls&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-104.156.81.97:443

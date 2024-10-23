@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.60.8:2096?security=tls&sni=403B3611-99Bc-43b7-88D7-26Ed5d0825a9-3.paGES.dEV&type=ws&path=%2Fssrzfo2ob3ml1i4q%3Fed#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.8:2096
 vless://2add1972-dcb0-4df6-a45c-e3b78c3a0ca8@5.160.132.116:4060?security=none&type=tcp&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.132.116:4060
 vless://ca8692b7-8f6f-4346-a916-c1e9798ab91b@113.207.105.153:444?security=tls&sni=freenodes.repe.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇨🇳 CN-113.207.105.153:444
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.0.54.6:2087
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.2.39:443?security=tls&sni=Pp
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.98:443?security=tls&sni=cr.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.98:443
 vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.147:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.41:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.41:2087
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.64.153.245:2053?security=tls&sni=bpb-v.pAGES.DEV&type=ws&host=BPb-v.pagEs.deV&path=%2F4gcCxxO0wHe2ZIzd%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.153.245:2053

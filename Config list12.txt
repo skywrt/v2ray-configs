@@ -1,3 +1,4 @@
+vless://f0556de9-037d-5369-9352-4b8d2a893263@188.114.99.208:2083?security=tls&sni=florida.xcdl.WOrkers.DEV&type=ws&host=florida.xcdl.WOrkers.DEV&path=vless-ws%2F%3Fed%3D2048+.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29.%40AB_841%28%40BugFreeNet+%29&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.208:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.162.67:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.67:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.181.18:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.50.181.18:22222
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.251:443?security=tls&sni=do.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.251:443
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.49.20:443?security=tls&sni=P
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.248:2053?security=tls&sni=bpb-v.pAGeS.dEV&type=ws&host=bPb-V.PAGEs.dEv&path=%2FPLLCFBJuH4lemJVG%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.248:2053
 vless://dd5a38d3-71a0-4f22-8693-bad730adbd0b@162.159.7.247:443?security=tls&sni=sky.ararat3d.com&type=ws&host=sKy.ARaraT3d.cOm.&path=%2F&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@5.104.75.12:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-5.104.75.12:2053
-vless://5b9abc0d-435b-4df1-8f75-328b966a8d10@185.231.181.92:3030?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.231.181.92:3030
