@@ -1,3 +1,7 @@
+trojan://r8CTEc4F7K@104.21.55.174:2083?security=tls&sni=speedtestneexpresernanewsstvsoft98iranewsggffnetemailcloudflare.ernanews.ggff.net&type=ws&host=speedtestneexpresernanewsstvsoft98iranewsggffnetemailcloudflare.ernanews.ggff.net&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.55.174:2083
+trojan://blue2024@104.26.7.112:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.7.112:443
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
 trojan://tg-dns68@104.19.55.127:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.55.127:443
 trojan://blue2024@162.159.44.173:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.173:443
 trojan://tg-dns68@162.159.153.201:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.201:443
@@ -494,7 +498,3 @@ vless://b7452373-bbe9-4a36-baf1-d3f969387444@104.18.203.232:80?security=none&typ
 vless://42b60044-5438-4d9b-92de-c3592881223a@104.18.24.92:2096?security=tls&sni=bia---to---selinc---selinc---selinc---selinc---selinc.hzapmzor.workers.dev&type=ws&host=bia---to---selinc---selinc---selinc---selinc---selinc.hzapmzor.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.24.92:2096
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.153:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.153:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.169:8443?security=tls&sni=bPb005.paGes.DEV&type=ws&path=%2FFxHHv799mIhZ1xXP%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.169:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.129.49.103:443?security=tls&sni=ls.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-31.129.49.103:443
-vless://47f5f95b-0f8e-46e1-8098-1a486f717434@143.198.197.198:40655?security=none&type=ws&host=zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-143.198.197.198:40655
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.78:443?security=tls&sni=v2nGFast-924.pAges.dev&type=ws&host=v2ngFasT-924.PagES.dev&path=%2FRfigJlQ1hvdLGAyi%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.78:443
-vless://d0f9437f-3c49-45c6-976b-ebea24158b39@5.10.245.15:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.15:2082
