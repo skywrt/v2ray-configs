@@ -496,5 +496,5 @@ trojan://telegram-id-privatevpns@63.32.152.87:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-directvpn@34.226.4.207:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-34.226.4.207:22222
 trojan://acbacab-bcaa-baca-cadb-bcabcababacc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://acaabbc-abac-aabc-bacd-abbcaabcaccb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-04-ABAN-1403 🕑 03:10
-vless://64658da1-85dd-4309-8530-5551e7e026ab@188.245.174.204:2083?security=reality&flow=xtls-rprx-vision&sni=filimo.com&type=tcp&fp=chrome&pbk=Ih-LCrE9WvUVrHWS5w7YfFvI6Ugzh22dh5kHGqu4Xkk&sid=2a10fd1c8a11efe8#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.174.204:2083
-vless://6e467e70-6ef2-4e8c-a322-4e4f83a10e07@5.255.121.220:443?security=reality&sni=shell.com&type=tcp&fp=chrome&pbk=VQqByg4w97wFLTE0SuB1GdUdaG4UdC4dr8slNYOICUI&sid=3d333204dc0340ae#🔒 VL-TCP-RLT 🇳🇱 NL-5.255.121.220:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.120.67:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.120.67:443
+vless://d6909c1c-332e-4349-bbf4-1a54920648db@104.17.148.22:443?security=tls&sni=b0c021e39440b25e.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:443
