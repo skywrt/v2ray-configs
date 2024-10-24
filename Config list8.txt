@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN222@152.70.249.67:443?#🔒 TR-TCP-NA 🇰🇷 KR-152.70.249.67:443
+trojan://bpb-trojan@172.67.173.143:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2Ftr1NNELZR5ONppJJ1m%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.173.143:443
+trojan://tg-dns68@162.159.152.189:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.189:443
 trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 trojan://telegram-id-privatevpns@35.181.125.130:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.125.130:22222
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.16.159.4:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.4:443
@@ -495,6 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.222:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@159.112.235.222:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.222:443
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@5.10.245.59:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.59:2082
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.153:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.153:443
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&sni=midsUMmER-Bpb.pAgES.DEV&type=ws&host=mIDsuMMer-bpb.PAgEs.DeV&path=%2FTelegram%40Linkvws%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.200:443
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.64.84.90:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.84.90:8080
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.99:443?security=tls&sni=ao.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyip.oraclo.fxxo.dedyo.io#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.99:443

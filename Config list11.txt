@@ -1,3 +1,6 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.81.138:80?security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-104.156.81.138:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.110:443?security=tls&sni=lu.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.110:443
+vless://ca4e46f9-be28-4fae-8ba1-40c4522a4f49@172.66.47.74:2053?security=tls&sni=androidyt.androidyteuorg.workers.dev&type=ws&host=androidyt.androidyteuorg.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.74:2053
 vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?security=none&type=ws&host=Fr1.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.39:80
 vless://12d6cf82-9eee-4b01-b1bb-e1c1a437a162@185.170.166.242:80?security=none&sni=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws&path=/vless#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.242:80
 vless://e2cdaf6e-b213-496f-b658-92c91a141b49@172.66.47.26:8080?security=none&type=httpupgrade&host=2sedkfjeuixijd0ew9d1.2sedkfjeuixijd0ew9dvkcxoisiek91.blog&path=%2FTelegram-Proxy-MTM%3Fed%3D8080#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-172.66.47.26:8080
@@ -495,6 +498,3 @@ vless://eb68a74a-f1b2-576f-97db-d851cb651194@104.21.12.90:80?security=none&type=
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.199:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.199:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.146:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.146:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.234:443?security=tls&sni=hz.ylks.xyz&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.234:443
-vless://a020d6ca-ec70-5f73-80f7-d5599fad100e@104.19.198.35:80?security=none&sni=30279.olielielie.store.&type=ws&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.198.35:80
-vless://67a224db-a404-46b3-be38-7a919ed487db@188.164.158.79:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-188.164.158.79:2053
-vless://33d7dedf-cddf-49ce-b8da-42ca675729c1@104.21.23.254:443?security=none&type=ws&host=Tel.lololilo.lol&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN%3Fed%3D8443#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.254:443
