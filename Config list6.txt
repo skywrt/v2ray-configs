@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.86:8888#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.86:8888
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.181:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.181:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmaFdJWkZIbHR3T1V2OVltaXJvYXlu@91.103.253.151:19057#🔒 SS-TCP-NA 🇨🇭 CH-91.103.253.151:19057
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:6379
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8080
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:9102
@@ -494,7 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.195.54:443?security=tls&sni=
 vless://73817d0b-7676-4e0c-9931-8a682befbc52@151.101.66.133:443?security=tls&sni=Live.skornorth.com&type=ws&host=hif6rdytvug76uyg.com&path=ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.133:443
 vless://73817d0b-7676-4e0c-9931-8a682befbc52@151.101.130.133:443?security=tls&sni=Live.skornorth.com&type=ws&host=hif6rdytvug76uyg.com&path=ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.133:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.99.150:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.150:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?security=tls&sni=dv.ylks.xyz&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.114:443
-vless://23aa88a0-cdc6-4a62-998b-30ef72f9b321@2.189.175.126:2052?security=none&type=tcp&host=idem.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.175.126:2052
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=lv.ylks01.eu.org&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.144:443
-vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?security=tls&sni=Pages.dev&encryption=none%3D%2F--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrosaboran%2C--%40mehrisaboran&type=ws&host=Telgram-xv2ray--xv2ray--xv2ray--xv2ray--xv2ray--xv2ray-x.pages.dev&path=%2FTelegram-XV2ry2%3Fed%3D512#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.16:443
