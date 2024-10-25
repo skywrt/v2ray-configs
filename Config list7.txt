@@ -1,3 +1,7 @@
+trojan://blue2024@162.159.44.188:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.188:443
+trojan://Tel-DailyConfigs@104.18.7.21:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.7.21:2053
+trojan://bbacaac-baac-acba-adcb-cbabacaccbab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vless://ababcac-aabc-caab-cbda-caacbbbacbac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-04-ABAN-1403 🕑 21:11
 vless://52bffc1d-75a7-4f1f-ba45-34e8bbd37bf7@159.89.212.9:2087?security=reality&sni=dalfak.com&type=http&path=%2F&fp=chrome&pbk=iLXtOnumsz12n6e5gLBXbJJ9nVOSDu23ONIMIeVWGAg&sid=fa02e1bbb0f9efd5#🔒 VL-HTTP-RLT 🇩🇪 DE-159.89.212.9:2087
 vless://b1a441f5-ee43-4903-ab2e-a80c0d1a71eb@188.245.125.135:8443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&pbk=f9yPFWY54wzWAvcPgsg8KqW1wvKhWbHHiP9pQzpD5mM&sid=9d152a93#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.125.135:8443
 vless://a642fe4b-3326-40af-8929-71616eb9052f@199.59.243.227:443?security=reality&flow=xtls-rprx-vision&sni=ns.cloudflare.com&type=tcp&fp=chrome&pbk=H2GPj9jI13FyXVB0NLOhSAUimkI5pQmln9gEA3ynWgo&sid=4aeebc87#🔒 VL-TCP-RLT 🇺🇸 US-199.59.243.227:443
@@ -494,7 +498,3 @@ vless://b178f29c-5765-48ec-866d-914a5a7eaa39@185.146.173.58:8080?security=none&t
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.249.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.249.203:443
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.247.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.203:443
 vless://59e91ba3-2bb8-4e43-b540-5eaf4b377aa5@104.16.102.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.102.112:8880
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.200:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.200:443
-vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.88.78:443?security=tls&sni=g1.youyuan.us.kg&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.78:443
-vless://4d146881-6413-4422-8127-cf437377bc15@213.176.7.231:2096?security=none&type=grpc&serviceName=ProbablyNothing...#🔒 VL-GRPC-NONE 🇮🇷 IR-213.176.7.231:2096
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.200.95:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.200.95:443
