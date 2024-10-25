@@ -1,7 +1,3 @@
-trojan://tg-dns68@104.19.39.99:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.39.99:443
-trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
-trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.5:443
-trojan://ccbaaab-cbaa-caab-cbda-bcbaccbbcaaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://acababc-abac-abac-adcb-acbccaaacbbb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-04-ABAN-1403 🕑 20:18
 vless://aa81d044-0e0a-5b01-a6d7-3981ed218497@104.17.148.22:2095?security=none&type=ws&host=at1.vless.Sitespeedtest.net.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2095
 vless://b95e6cd4-119f-486f-fb53-694eeeaf75b9@104.17.234.128:2052?security=none&type=ws&host=joinv--ardash.com--alas.vmessprotocol.ggff.net&path=%2F%40vmessprotocl--%40vmessprotocl--%40vmessprotocl--%40vmessprotocl--%40vmessprotocl--%40vmessprotocl#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.128:2052
@@ -498,3 +494,7 @@ vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@185.148.106.192:2053?security=tls&s
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.150:443?security=tls&sni=sB-1u6.PagEs.dEv&type=ws&path=%2Fhnzodogqct9yjjex%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-209.208.227.150:443
 vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
 vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@104.26.15.16:80?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.15.16:80
+vless://e2efbdf4-f519-4d82-83c5-61ee71e8563d@37.32.4.58:38394?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.4.58:38394
+vless://35caec98-86de-4f38-a011-eb7e134446c7@104.21.92.185:443?security=tls&sni=ANasERviCezIlorX.IxPub.WORkErs.Dev&type=ws&host=anAseRvicEzIlOrx.IXPuB.wOrKers.dev&path=%2F%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.185:443
+vless://fc208ea6-a2fb-40a8-b7e7-6b3221c5291a@172.66.47.12:443?security=tls&sni=kANal-TEleGrAm-FrEev2RNg-frEeV2rNG-FREeV2RNG.pAges.deV&type=ws&host=kanal-telegram-freev2rng-freev2rng-freev2rng.pages.dev&path=%2FdcHHQjyQe5dTG6gU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.12:443
+vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.101:443
