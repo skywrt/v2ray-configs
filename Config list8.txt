@@ -1,3 +1,7 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.73.163:443?security=tls&sni=20FB0424.bpb-worKer-PaNeL-1XD.paGEs.DEv&type=ws&host=20fb0424.bpb-worker-panel-1xd.pages.dev&path=%2Fakgv7dKwMldGQRQP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:443
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&host=google.com&path=%2Fhttp#🔒 VL-WS-NONE 🇬🇧 GB-162.19.228.119:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.192.35:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.35:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.230:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.122.230:443
 vless://8cccccc9-6eee-4fff-abbb-5c079999a733@49.12.33.185:443?security=tls&sni=www.speedtest.net&type=grpc&serviceName=grpc&fp=firefox#🔒 VL-GRPC-TLS 🇩🇪 DE-49.12.33.185:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.56.101.141:443?security=tls&sni=dw.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-146.56.101.141:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.87:443
@@ -494,7 +498,3 @@ trojan://blue2024@108.162.195.187:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A534
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.113:8000#US11%201.8MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#%E6%9C%AA%E7%9F%A535%20303.2KB%2Fs
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#US12%201.6MB%2Fs
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.87.225:7306#US13%20700.3KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#%E6%9C%AA%E7%9F%A536
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ3JNemxsT3NUVXFISnA0N2swbE5x@141.98.234.93:20012#HK
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:20985?sni=sale.alibaba.com#%E6%9C%AA%E7%9F%A537

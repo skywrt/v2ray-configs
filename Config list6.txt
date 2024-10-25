@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3389#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:3389
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.51:2376
+ss://NjhhNzk5MDktNjVmMi00MzQxLTk0MmUtYWQ3NWE2YmQzM2Y4Og==@104.21.69.44:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#🔒 SS-TCP-NA 🇭🇺 HU-91.219.237.102:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.124.90:443#🔒 SS-TCP-NA 🇧🇭 BH-16.24.124.90:443
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@45.89.52.66:9041#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9041
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTHp0T0doZmZyRURQR0ZQR1B0eHl5@212.18.104.228:17889#🔒 SS-TCP-NA 🇺🇸 US-212.18.104.228:17889
@@ -494,7 +498,3 @@ trojan://blue2024@104.19.143.99:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-T
 trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2FTelegram%40Linkvws%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇬 SG-206.238.236.187:2096
 trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
 trojan://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2,http/1.1#🔒 TR-GRPC-REALITY 🇮🇹 IT-185.247.184.147:2060
-trojan://telegram-id-directvpn@52.57.165.203:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-52.57.165.203:22222
-trojan://blue2024@172.67.68.101:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.68.101:443
-trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.3.11:2096
-trojan://bpb-trojan@104.18.23.235:443?security=tls&sni=403b3611-99bc-43B7-88D7-26Ed5d0825A9-3.pageS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.235:443
