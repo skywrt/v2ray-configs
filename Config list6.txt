@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.2:8080
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:7307
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9040
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.68:8080#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:8080
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.156.137.67:989#🔒 SS-TCP-NA 🇰🇿 KZ-213.156.137.67:989
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443
@@ -494,7 +498,3 @@ vless://bfa412ab-d77e-4a26-89d1-e27a9398c06a@104.18.192.80:8443?security=tls&sni
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.247.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.203:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.209.229:8880
 vless://f5557a40-a8a3-47cb-a6ae-5f9f5c12f642@151.101.194.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8880&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.228:443
-vless://fc6bc68f-2e5e-48ca-b048-0c27eef9cd71@172.66.46.249:443?security=tls&sni=pardazeshvpn-tg91.pages.dev&type=ws&host=pardazeshvpn-tg91.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
-vless://67094874-89c5-4d30-8e98-a94aed8c9bc1@104.24.163.49:8880?type=ws&host=cpy-teel.cpy-teel1.workers.dev&path=%2F%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL++%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.163.49:8880
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.54:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.54:443
