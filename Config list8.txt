@@ -1,7 +1,3 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.211.28:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.211.28:443
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.0.54.6:2087
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.194.175:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.175:443
-vless://6459d016-92ff-46ad-a7ed-6f5298fdd1ac@173.245.59.212:80?security=none&type=httpupgrade&host=ak.www.speedtest.net.zula.ir.iranfastfod.iR.&path=%2Ftelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%3Fed%3D80-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns-V2rayNGns#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-173.245.59.212:80
 vless://934f5fb7-040d-4c61-b871-5432e122e712@104.17.147.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:8880
 vless://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?security=none&type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net&path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.209.229:2052
 vless://475f0e22-770d-4605-b333-f4783a6a0a1d@162.159.134.234:2087?path=%2F%3Bsecurity%3Dtls%3Bencryption%3Dnone%3Bhost%3DconfigngnixV2rayng.shhproxy.cfd%3Btype%3Dws%3Bsni%3DconfigngnixV2rayng.shhproxy.cfd#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.134.234:2087
@@ -498,3 +494,7 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.24:5003#US38%201.9MB%2Fs
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052?security=none&type=httpupgrade&path=/httpupgrade?ed=Telegram@Linkvws?ed=2560&host=www-domain.ua1.vless.sitespeedtest.net#%E6%9C%AA%E7%9F%A5117
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.217.14:443#%E6%9C%AA%E7%9F%A5118%20794.7KB%2Fs
 trojan://NISHIKUITAN222@140.238.88.47:443?#%E6%9C%AA%E7%9F%A5119
+trojan://bpb-trojan@185.238.228.6:443?security=tls&type=ws&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&path=/trLb1imnrxPEhfzfwk?ed&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#%E6%9C%AA%E7%9F%A5120
+trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&sni=jobscareerforstudent.com&path=/6b777a91&host=jobscareerforstudent.com#%E6%9C%AA%E7%9F%A5121
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5122
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.68:8080#US39%201.7MB%2Fs
