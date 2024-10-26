@@ -1,7 +1,3 @@
-vless://18cb1e84-aec2-44b3-aadd-5d040f47a842@104.25.5.222:443?security=tls&sni=pardazeshvpn-tg44.pages.dev&type=ws&host=pardazeshvpn-tg44.pages.dev&path=%2F%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.5.222:443
-vless://a49e57a7-b220-4cb3-a8eb-78dfd0943b15@51.89.237.82:8080?type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.#🔒 VL-WS-NA 🇬🇧 GB-51.89.237.82:8080
-vless://41dfcfbe-c4c9-55a9-90af-fe6224e1ebfb@104.17.147.22:2052?security=none&type=httpupgrade&host=www-domain.es1.vless.sitespeedtest.net&path=%2Fhttpupgrade%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:2052
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@132.145.94.80:443?security=tls&sni=BPB005.pAgEs.DeV&type=ws&path=%2F5sthz7rskwbjq043%2Fmtuyljy3ljiznc40oq#🔒 VL-WS-TLS 🇰🇷 KR-132.145.94.80:443
 vless://14701002-d2f6-41bd-96d3-67361ab960f3@95.181.173.244:443?security=tls&flow=xtls-rprx-vision&sni=los1.vpntype.com&type=tcp&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇺🇸 US-95.181.173.244:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?security=tls&sni=as.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.127:443
@@ -498,3 +494,7 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2375#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.164.15:7306#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3%20615.2KB%2Fs
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5498#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E2%20648.0KB%2Fs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%E6%9C%AA%E7%9F%A57%2016.6MB%2Fs
+trojan://325ba822-760d-4a51-9711-f72ba8d16933@45.146.232.171:10465?sni=q08m.vgraxiw73s.hasyaf.cn#HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YTcyYy1jNzdlLTQwMzQtOTM4NC1mYmFlMDQ5NTAxM2Q=@45.158.59.74:47969#%E6%9C%AA%E7%9F%A58
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6679#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E3%20736.7KB%2Fs
+trojan://blue2024@104.16.223.254:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A59
