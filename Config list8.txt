@@ -1,5 +1,3 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.219.76:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.219.76:443
-vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@172.66.213.38:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.213.38:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.195.223:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.223:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.47:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:2053
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.122.196:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.122.196:443
@@ -498,3 +496,5 @@ trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&type=ws&
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E6%9C%AA%E7%9F%A5122
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.68:8080#US39%201.7MB%2Fs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#%E6%9C%AA%E7%9F%A5123%201.8MB%2Fs
+trojan://DxuCRlZS3aq5pgI8YYcBCZFln7e83XDONSROjAepSK3CaFyATz0aw3DyE6294x@starfish.missionsec.io:28331?security=tls&headerType=none&type=tcp&sni=starfish.missionsec.io#%E6%9C%AA%E7%9F%A5124
+trojan://cbbaaac-abca-acab-dcab-ccbcbaababca@127.0.0.1:8080?security=tls&type=tcp#US40
