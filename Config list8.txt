@@ -1,3 +1,7 @@
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.162:443?security=tls&sni=BPb005.pAgeS.Dev&type=ws&path=%2F81eqvt6gwdd8gwo8%2Fmtuyljy3ljiznc40oq#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@31.129.48.139:443?security=tls&sni=aa.ylks.xyz&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇷🇺 RU-31.129.48.139:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2096?security=tls&sni=ClOUDFLarEiRaN1.PaGeS.Dev&type=ws&host=cloudflareiran1.pages.dev&path=%2FkOUuV9R33AKrPQI4&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:2096
+vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@104.20.18.168:80?security=none&type=ws&host=worker-flat-block-16c8.academi-vpn-3-13.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:80
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.71:2087?security=tls&sni=Sb-1u6.paGEs.dEv&type=ws&path=%2Fpc0cypuups4meoks%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.71:2087
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.210:8443?security=tls&sni=sB-1U6.PAgeS.deV&type=ws&path=%2Fbdbeqy5r01xte4fl%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-208.86.168.210:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.221:443?security=tls&sni=ax.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.221:443
@@ -494,7 +498,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#US
 trojan://telegram-id-privatevpns@51.20.28.151:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A520
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiIzNy4yNy4yMjEuMTk4IiwicG9ydCI6IjgyODIiLCJpZCI6ImMxNjA2NGM5LWI2NTAtNDE1Mi1iYWFjLWVjNjkwY2ZlNzk2ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIxIn0=
 trojan://tg-dns68@162.159.153.38:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A522
-trojan://tg-dns68@162.159.152.143:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A523
-trojan://channel-daily-configs@104.18.6.36:8443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#%E6%9C%AA%E7%9F%A524
-trojan://9ff83a73-c9da-4233-a9e2-7fa9b83b5f75@91.199.84.195:16212?security=tls&type=tcp&sni=data.steamdownload.top#HK2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#%E6%9C%AA%E7%9F%A525

@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#🔒 SS-TCP-NA 🇧🇪 BE-192.71.249.78:989
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:8118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:800#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:800
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.36:8080
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.66:5001#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:5001
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🔒 SS-TCP-NA 🇨🇦 CA-149.22.95.183:443
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.92.85:7307#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.85:7307
@@ -494,7 +498,3 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?security=none&t
 vless://475f0e22-770d-4605-b333-f4783a6a0a1d@162.159.136.234:2087?path=%2F%3Bsecurity%3Dtls%3Bencryption%3Dnone%3Bhost%3DconfigngnixV2rayng.shhproxy.cfd%3Btype%3Dws%3Bsni%3DconfigngnixV2rayng.shhproxy.cfd#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.136.234:2087
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.186:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.186:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.167:8443?security=tls&sni=JoInMahDISeRver-bg3.PAGes.Dev&type=ws&host=JoiNMAhdISERver-Bg3.pAGES.DEv&path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.167:8443
-vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.90:2087?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2FTelegram%40Linkvws%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.90:2087
-vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?security=tls&sni=pAgES.DEV&type=ws&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&path=Parspack.com%2F%3Fed%3D2087&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.53:8443
-vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.54:2096?security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.54:2096
-vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.91:443
