@@ -494,7 +494,7 @@ vless://c6802364-85db-4539-b20b-0b4257b7b407@92.246.139.211:443?security=reality
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?security=reality&sni=dash.cloudflare.com&type=grpc&fp=firefox&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#🔒 VL-GRPC-RLT 🇮🇪 IE-85.159.229.88:2087
 vless://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=ra4OxEIGMgGc84ujeHHHuks4AKE_PXakoKFvL89b71E&sid=680a8928#🔒 VL-TCP-RLT 🇩🇪 DE-95.164.117.128:8880
 vless://bbccaaa-caab-baca-acdb-bcbccacaabab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://cabacba-caab-cbaa-cadb-aabbbabcaccc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-06-ABAN-1403 🕑 19:09
-vless://9ecf7c0d-1021-41de-b146-d2004bb25055@193.33.153.20:8080?security=none&type=httpupgrade&path=%2F%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL-%40VPNMEGA1-TEL#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-193.33.153.20:8080
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.162:443?security=tls&sni=BPb005.pAgeS.Dev&type=ws&path=%2F81eqvt6gwdd8gwo8%2Fmtuyljy3ljiznc40oq#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.162:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.51:2053?security=tls&sni=bpB-V.pAges.deV&type=ws&host=bPb-v.paGes.DEV&path=%2F3TpLMmFcBgEGilSv%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.51:2053
+vless://cabbcaa-abca-acab-adbc-cccaabacbbab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-06-ABAN-1403 🕑 20:18
+vless://1187ba87-8ebc-4a07-aa89-b331ed2cb356@172.66.47.147:443?security=tls&sni=meti-u9d.pages.dev&type=ws&host=meti-u9d.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.147:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.220.45:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.45:443
+vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.57:443
