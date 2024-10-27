@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.103:5499#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.103:5499
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjNmYmRlMi1jNmNhLTQ0YTYtOTQ0NS0xODBkYjkwNDY5ZDM=@45.87.103.75:36002#🔒 SS-TCP-NA 🇭🇰 HK-45.87.103.75:36002
-ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@104.16.60.79:2082#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.60.79:2082
-ss://YWVzLTEyOC1nY206M2E2OTA3MDktNTAxMS00YTZjLWFiNjItZGEyZmI1MjkxMjMz@38.150.12.188:50203#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:50203
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:9102
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.162:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.92.72:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.72:6679
@@ -498,3 +494,7 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.147.231.33:443?security=tls&sni=
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2FTelegram%40Linkvws%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.187:2096
 vless://bff2ef66-6370-4f98-98cc-4ba1e695978f@172.67.207.218:2052?security=none&type=ws&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.207.218:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.204:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.204:443
+vless://8155d2bb-0eb4-40ff-ba1d-95df410a672a@172.67.191.234:8443?security=tls&sni=01.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.234:8443
+vless://50a8728d-06e3-4c04-92bd-8746426e58a8@104.26.14.16:8880?security=none&type=httpupgrade&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.26.14.16:8880
+vless://f4397322-d5fa-11ee-aaa8-00505603e70d@104.26.10.137:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.10.137:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.0:443?security=tls&sni=pPAl03.kYReESe-jahKYe.workeRs.dEV&type=ws&host=ppaL03.KYREeSe-jahkye.WORkErS.dEV&path=%2FuVUHMOBnweEjpwzE%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.0:443

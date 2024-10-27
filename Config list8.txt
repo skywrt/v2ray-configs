@@ -1,7 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.68.144:2053?security=tls&sni=BpB-V.PagEs.dev&type=ws&host=BPb-v.PageS.DEV&path=%2F0JpojADWzjxEjdny%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.144:2053
-vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@104.26.14.16:80?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.14.16:80
-vless://a94888b2-e3d6-53d5-b5df-6953fbf6c2e4@104.16.157.136:2087?security=tls&sni=vpn.erik-harvey.workeRs.dEv&type=ws&host=vpn.erik-harvey.workeRs.dEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.157.136:2087
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sni=bPB-V.pageS.dEV&type=ws&host=Bpb-v.PAges.deV&path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.208:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@80.76.34.13:443?security=tls&sni=ly.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-80.76.34.13:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.221.99:443?security=tls&sni=ay.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.99:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.29:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.29:443
@@ -498,3 +494,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.198:443?security=tls&sni
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@172.67.163.189:2052?security=none&type=ws&host=StART.siTEg52770.WOrkerS.DEv#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.189:2052
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@154.92.9.1:443?security=tls&sni=sb-1u6.pageS.Dev&type=ws&path=%2Fo56edk55jth9andd%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.1:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.178:443?security=tls&sni=av.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.178:443
+vless://0bc05508-b6ca-4225-cf10-26133f5600ec@172.67.214.21:8080?security=none&type=ws&host=GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN.%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C.tech&path=%2FGozaegahVPN%2Fws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.214.21:8080
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.18.185.80:2096?security=tls&sni=contactusfromwebvahid.sASSanidemPiRe.COm&type=ws&host=contactusfromwebvahid.sASSanidemPiRe.COm&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.185.80:2096
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.192.145:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.145:443
+vless://d88cbfee-68e9-4847-ad9b-834595616c02@104.19.150.10:8080?security=none&type=httpupgrade&host=https.upgrade989.google.cOm.www.speedtest.nEt.WWw.spEEdtest.nEt.meHrAn2024.IR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.19.150.10:8080
