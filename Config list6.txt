@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZVlJQW9HcUlpUnhvS0Y1enNucG1hZGUzVW5VRUpjaE5naE5ZbGlEVmxZaz0=@91.107.160.111:36298#🔒 SS-TCP-NA 🇩🇪 DE-91.107.160.111:36298
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.39:9101#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.39:9101
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#🔒 SS-TCP-NA 🇵🇱 PL-45.144.48.58:57456
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.68:8080#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.68:8080
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.102:6697#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.102:6697
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.117:5499#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:5499
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8009#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8009
@@ -494,7 +498,3 @@ trojan://tg-dns68@104.19.38.200:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?security=tls&sni=79193c43.aryoovpn-5fr.pages.dev&type=ws&host=79193c43.aryoovpn-5fr.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2048#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.46.249:443
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:20985?sni=sale.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-146.56.151.232:20985
 trojan://telegram-id-directvpn@35.156.222.131:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.156.222.131:22222
-trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
-trojan://telegram-id-privatevpns@3.11.47.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.47.5:22222
-trojan://bpb-trojan@104.18.23.235:443?security=tls&sni=403b3611-99bc-43B7-88D7-26Ed5d0825A9-3.pageS.dev&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.235:443
-trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.142.99:443
