@@ -1,3 +1,7 @@
+trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.142.99:443
+trojan://telegram-id-privatevpns@54.194.59.161:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.194.59.161:22222
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:20991?sni=sale.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-146.56.151.232:20991
+trojan://aabaccb-baca-baca-bcad-aabbbcccbaac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://abcacba-cbaa-caba-dabc-baabbcabccac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-08-ABAN-1403 🕑 13:13
 vless://9681032c-12e7-40fb-9107-16406203250c@164.92.82.207:59843?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=7CcN-0C4vUwQ_rJAY38IPcfpoIW2gvBRCVxt4dUAIQg&sid=03f5#🔒 VL-TCP-RLT 🇺🇸 US-164.92.82.207:59843
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2,http/1.1#🔒 VL-GRPC-RLT 🇮🇹 IT-185.247.184.147:2060
@@ -494,7 +498,3 @@ vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?security=tls&sni=d
 vless://37e953ed-8a77-49c0-b2d0-9273c790d109@104.21.20.148:80?security=none&type=ws&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&path=%2F%3Fed%3D2056#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.92:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.92:443
 vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joincha5nnel.jokerv2ray.store&type=ws&host=capitalnet.jokerv2ray.store&path=/&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096
-vless://ad3cc925-52f0-4834-ab85-602d9c1c08ac@151.101.66.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.228:443
-vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.128:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.30:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.30:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.213:443?security=tls&sni=la.kpcloud.eu.org&type=ws&host=la.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.213:443

@@ -1,3 +1,7 @@
+ss://MGZiNTNhNjAtMjM3Mi00MTJhLWE2OTMtNTE1N2I1OGVjYzk0Og==@172.67.2.238:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:80
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@107.148.95.104:8388#🔒 SS-TCP-NA 🇺🇸 US-107.148.95.104:8388
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8091
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:9102
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.248.29:3306#🔒 SS-TCP-NA 🇺🇸 US-23.150.248.29:3306
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaFp0MDcyQlBDZExyR2UzNm4ybGR0@51.158.252.130:443#🔒 SS-TCP-NA 🇫🇷 FR-51.158.252.130:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.129:443
@@ -494,7 +498,3 @@ trojan://tg-dns68@162.159.152.3:443?security=tls&sni=vip.putata.eu.org&type=ws&h
 trojan://3690911436885991424@54.150.8.182:443?sni=central-minnow.opossum872.cfd#🔒 TR-TCP-NA 🇯🇵 JP-54.150.8.182:443
 trojan://tg-dns68@162.159.153.3:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.3:443
 trojan://4732adfa16c6450bbef87264e41332db@104.17.215.18:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.18:443
-trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.142.99:443
-trojan://telegram-id-privatevpns@54.194.59.161:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.194.59.161:22222
-trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@146.56.151.232:20991?sni=sale.alibaba.com#🔒 TR-TCP-NA 🇰🇷 KR-146.56.151.232:20991
-trojan://aabaccb-baca-baca-bcad-aabbbcccbaac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
