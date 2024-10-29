@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#🔒 SS-TCP-NA 🇵🇱 PL-145.239.6.202:6679
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.33:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.33:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaFp0MDcyQlBDZExyR2UzNm4ybGR0@51.158.252.130:443#🔒 SS-TCP-NA 🇫🇷 FR-51.158.252.130:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnOUFKc3JCUGdXNE5oam95M3hDaW9D@45.87.175.164:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.164:8080
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.53:9101
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@15.204.87.217:8000#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:8000
@@ -494,7 +498,3 @@ vless://9199963a-7734-4ed0-e455-9d68b85e7863@104.17.147.22:8880?security=none&ty
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.22.19:443?security=tls&sni=56897854.PaGeS.DEv&type=ws&host=56897854.pAGES.dEv&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
 vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?security=tls&sni=g1.youyuan.us.kg&type=ws&path=%2F%3Fproxyip%3Dproxyip.multacom.fxxk.dedyn.iofp%3Dchromefp%3Dchromefp%3Dchrome#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.140:443
 vless://47f5f95b-0f8e-46e1-8098-1a486f717434@143.198.197.198:40655?security=none&type=ws&host=zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-143.198.197.198:40655
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.94:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.94:443
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.169:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&path=%2Fhzhfpw9GKziUpYAD%2FMTUyLjY3LjIzNC40OQ%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.169:2096
-vless://b481bdf0-bf4b-464a-8357-725a0bb5a7d9@104.24.197.20:443?security=tls&sni=hdfyreplace3.parthianempire.org&type=ws&host=hdfyreplace3.parthianempire.org&path=%2Fb481bdf0-bf4b-464a-8357-725a0bb5a7d9&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.91:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.91:443
