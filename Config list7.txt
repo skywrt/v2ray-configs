@@ -1,3 +1,7 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.129:443
+vless://6babb657-1524-43bb-b421-11bda27bc9de@162.159.15.185:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.185:2087
+vless://a3bfbd98-480d-452e-aead-a9dfcf3532a4@151.101.2.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=chde.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.228:443
+vless://bb6134b2-f78f-4f40-bf4c-49895227aee2@151.101.2.219:80?security=none&type=ws&host=ajibtarimdomain.com&path=%2Fme3ter_faloower%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.219:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.211:443?security=tls&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.211:443
 vless://d46a92b5-8042-45c5-8f55-3aac665cc871@172.64.33.212:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&type=ws&host=UNLIMITEDDEV.unlimiteddev-vpn.com&path=%2F%40%55nlimitedDev----%40%55nlimitedDev-----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev----%40%55nlimitedDev%3Fed%3D8080&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.212:443
 vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.5.2:2096?security=tls&sni=VFIvE-teLeGram.PAGEs.Dev&type=ws&host=VFIvE-teLeGram.PAGEs.Dev&path=%2F5fz4m1ggihzpkyya%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.2:2096
@@ -494,7 +498,3 @@ vless://8deb3e22-af23-2c8f-da3c-f61795de6b46@45.90.73.162:8443?security=none&typ
 vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=ad6678d1dd85456690c9.turno-werf.rest&type=ws&host=ad6678d1dd85456690c9.turno-werf.rest&path=%2Fabcdews&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.28:443
 vless://902b9f12-9f05-4387-9035-a14cb536c1f3@79.127.70.120:8080?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.120:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.123.25:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.123.25:443
-vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@172.67.141.87:8080?security=none&type=ws&host=lc71.lebasnoo.ir.&path=%2Fservernett#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.141.87:8080
-vless://852ef8ba-19cc-43a6-a667-ab69b7b0e3d2@62.60.178.234:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.178.234:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.207.255:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.207.255:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
