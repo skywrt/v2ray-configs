@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.92.72:8091#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.72:8091
-ss://YWVzLTI1Ni1nY206TEJiY1NDd0dKZ3piclVBRWkxdW91NQ==@5.252.21.191:47760#🔒 SS-TCP-NA 🇳🇱 NL-5.252.21.191:47760
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#🔒 SS-TCP-NA 🇱🇹 LT-45.87.175.164:8080
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.110:8118#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.110:8118
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:9102
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.89:5498#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5498
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.43:7307#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.43:7307
@@ -498,3 +494,7 @@ vless://b5d1441f-31b7-4f52-a282-7aff86794d77@172.66.47.12:443?security=tls&sni=k
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443?security=tls&sni=cw.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.62:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.187:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&host=Bpb005.pageS.dev&path=%2Fhzhfpw9gkziupyad%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.187:2096
 vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.17.148.22:8443?security=tls&sni=pAgES.DEV&type=ws&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:8443
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@208.86.168.74:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-208.86.168.74:2083
+vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.246.203:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.128:443?security=tls&sni=ld.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.128:443
+vless://0bb2fc37-62b1-498f-bdbb-7432e479a020@109.94.165.248:8094?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.94.165.248:8094
