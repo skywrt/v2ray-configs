@@ -1,7 +1,3 @@
-vless://2df56fd0-d1b7-4793-b877-acd356d960f7@iranserver.com:443?path=%2F%3Fed%3D8080&amp;security=tls&amp;encryption=none&amp;host=download-93w.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=pages.dev#%40nofiltering2
-vless://4ce1f615-a341-4832-ba2e-0cd8858539d9@104.18.218.118:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8443&amp;security=tls&amp;encryption=none&amp;host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&amp;fp=chrome&amp;type=ws&amp;sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#%40Vpn_Tehran+%E2%9D%A4%EF%B8%8F+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://f568af1f-41ed-4366-a44a-6daad35b0d07@Zmaoz.Faculty.UcdavIS.Edu:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=chde.ir&amp;fp=firefox&amp;type=ws&amp;sni=Zmaoz.Faculty.UcdavIS.Edu.#%40flyv2ray
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443?path=%2FTelegram-%58v2ry2-7%3Fed%3D512&amp;security=tls&amp;encryption=none=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&amp;host=1v-2wk.pages.dev&amp;type=ws&amp;sni=Pages.dev#%40mehrosaboran
 vless://2f856cdb-e573-41fc-95b3-922da1c82d29@185.231.182.95:8443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40kingofilter
 vless://telegram-id-ArV2ray@185.146.173.237:80?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=6.v.v.V-_-_-V2ray-_-_-V.v.v.vg.www.speedtest.net.uv.Zula.ir.cloudflare.com.mehpOw.iR.&amp;type=ws#WS6-Irancell+%7C+%40ArV2ray
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=Ajab2vazie.net&amp;type=ws#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
@@ -498,3 +494,7 @@ ss://YWVzLTI1Ni1nY206MzQyNjM2MnNFRDkyWXR5MTRkODZh@45.12.207.208:8448#🔒 SS-TCP
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9102#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:9102
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.195:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.63:5001#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.63:5001
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🔒 SS-TCP-NA 🇬🇧 GB-141.98.101.182:443
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.113:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:8119
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.110:8118#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.110:8118
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.247:2376
