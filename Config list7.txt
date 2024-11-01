@@ -1,3 +1,8 @@
+trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
+trojan://Telegram-DailyConfigs@104.18.15.8:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.15.8:443
+trojan://telegram-id-privatevpns@63.176.3.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-63.176.3.245:22222
+trojan://trojan@172.67.130.66:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
+trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.101:443
 trojan://auto@162.159.44.209:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.209:443
 trojan://auto@104.20.19.30:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.30:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443
@@ -493,8 +498,3 @@ vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.61.8:2083?security=tls&sni=c
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.46:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.46:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.209:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.209:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.216.211:443?security=tls&sni=aa.ylks.xyz&type=ws&host=aa.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.216.211:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2053?security=tls&sni=bpb-v.PAGEs.deV&type=ws&host=bpb-v.PaGeS.DEv&path=%2Fzvk78A3RrwtbmvAX%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.5.134:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.71.23:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇮🇳 IN-152.70.71.23:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.46:443?security=tls&sni=Mahdiserver-F4v.pages.DEv&type=ws&host=mAhdIserVER-f4v.PAGEs.Dev&path=%2Fn43JfueuwrMHbtF5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.46:443
-vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.47.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
-vless://a89b1111-7ee2-4741-b5db-be2e32270ae8@199.232.0.1:443?security=tls&sni=FullHD.4k.ELiV2RaY.ai&type=ws&host=fullhd.4k.eliv2ray.ai&path=%2FVLESS%3Fed%3D2560&fp=edge&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.0.1:443
