@@ -1,7 +1,3 @@
-vless://6babb657-1524-43bb-b421-11bda27bc9de@190.93.247.93:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.93:2087
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.38:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.6.38:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.19:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.22.19:443
-vless://37e953ed-8a77-49c0-b2d0-9273c790d109@104.21.20.148:80?security=none&type=ws&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&path=%2F%3Fed%3D2056#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.242:443?security=tls&sni=ax.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.242:443
 vless://6babb657-1524-43bb-b421-11bda27bc9de@160.153.0.131:2087?security=tls&sni=smart.titimoji-f9.fun&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-160.153.0.131:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.192:2096?security=tls&sni=JOINv2nGFast.PagEs.dEv&type=ws&host=joiNv2ngFaST.PAgES.DeV&path=%2FCRVnBOQpTyyyDCeA%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.192:2096
@@ -498,3 +494,7 @@ trojan://auto@108.162.195.205:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-7
 trojan://NISHIKUITAN222@34.147.231.33:443?#%E6%9C%AA%E7%9F%A541
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.55:8000#US12%201.9MB%2Fs
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.112:8009#US13%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#US14%2083.4MB%2Fs
+trojan://tg-dns68@162.159.153.38:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%E6%9C%AA%E7%9F%A542
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.170.151.104:443#%E6%9C%AA%E7%9F%A543%2012.2MB%2Fs
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.53:443#US15%201.9MB%2Fs
