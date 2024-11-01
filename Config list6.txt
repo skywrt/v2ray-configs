@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.74:6697#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.74:6697
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.131:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTolLU1WYTExJnpw@176.124.199.255:19999#🔒 SS-TCP-NA 🇳🇱 NL-176.124.199.255:19999
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:2376
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.63:5001#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.63:5001
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@69.50.92.110:8009#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.110:8009
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.92.71:443#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.71:443
@@ -494,7 +498,3 @@ trojan://325ba822-760d-4a51-9711-f72ba8d16933@45.146.232.171:10465?sni=q08m.vgra
 trojan://auto@104.20.21.89:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.89:443
 trojan://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.44.156:443?security=tls&sni=bpb-wOrkeR-PANEl1-E4P.PaGeS.Dev&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.156:443
 trojan://auto@104.20.21.186:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.186:443
-trojan://auto@104.20.22.51:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.51:443
-trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz#🔒 TR-WS-TLS 🇺🇸 US-151.101.130.219:443
-trojan://NISHIKUITAN222@188.114.96.113:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.96.113:443
-trojan://Join-Daily_Configs@162.159.153.2:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.2:2053

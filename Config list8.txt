@@ -1,3 +1,7 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.42:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.42:443
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.94.90.200:8443?security=tls&sni=sB-1U6.PAgeS.deV&type=ws&path=%2Fbdbeqy5r01xte4fl%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-209.94.90.200:8443
+vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@203.32.121.53:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NA 🇻🇬 VG-203.32.121.53:8080
+vless://988c4727-8d73-4df0-bc8e-fe06c986ef33@104.18.190.195:443?security=tls&sni=bia-kanal-falcunargo.rowoja8404.workers.dev&type=ws&host=bia-kanal-falcunargo.rowoja8404.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.190.195:443
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:8880?security=none&type=ws&host=testdvpnhub69.95f425b718.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.93:8880
 vless://c7258af0-6b42-4395-9e49-0dcf3856290b@104.17.148.22:2082?security=none&sni=M1A2b3C4D5e6M1A2B3c4D5e6M1A2b3C4D5E6.cloudstars.ir&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2082
 vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?security=tls&sni=paGES.dEV&type=ws&host=ev2raydev.pages.dev&path=Pages.Dev%2F%3Fed%3D2560&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.37.213:8443
@@ -494,7 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.63:443?security=tls&sni=
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.120:2053
 vless://17e31708-0517-4687-998f-e54951a1139a@198.41.194.146:80?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.194.146:80
 vless://3d2253b5-7365-4e1a-bd39-18dd2cf4b9c4@108.162.195.205:8080?type=ws&host=www.speedtest.net.mifastip6.qlslow.ir&path=%2Fwww.speedtest.net.mifastip%3Fed%3D443#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.205:8080
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@150.230.34.116:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-150.230.34.116:443
-vless://cb47c191-790e-4f3b-9e22-c9753abb229a@104.17.147.22:2087?security=tls&sni=wcapcha.crocodilserver.ir&type=httpupgrade&host=wcapcha.crocodilserver.ir&path=%2Fupdate-fn%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.17.147.22:2087
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.247:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.21.247:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.163:443?security=tls&sni=ld.ylka.us.kg&type=ws&host=ld.ylka.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.163:443
