@@ -1,3 +1,7 @@
+trojan://auto@104.21.90.210:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443?allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-74.226.136.204:443
+trojan://auto@104.21.81.225:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.81.225:443
+trojan://auto@104.20.21.186:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.186:443
 trojan://tg-dns68@104.19.47.53:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.47.53:443
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.214.246:2096?security=tls&sni=vfarid.xcdi.woRKerS.DEv&type=ws&host=vfarid.xcdi.woRKerS.DEv&path=trojan-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.214.246:2096
 trojan://Telegram-DailyConfigs@104.18.15.8:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.15.8:443
@@ -494,7 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.60:443?security=tls&sni=m
 vless://59e91ba3-2bb8-4e43-b540-5eaf4b377aa5@104.16.103.112:8880?path=%2F%3Fed%3D2048%3Bsecurity%3Dnone%3Bencryption%3Dnone%3Bhost%3DconfignginxV2rayng.vpncustomize.Website%3Btype%3Dws#🔒 VL-TCP-NA 🏴‍☠️ NA-104.16.103.112:8880
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@205.233.181.174:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.174:2096
 vless://f85872e3-16eb-5625-a45d-de35abee97f5@162.159.129.67:2096?security=tls&sni=contactusfromwebvahid.sASsAnideMPirE.cOM&type=ws&host=contactusfromwebvahid.sASsAnideMPirE.cOM&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.67:2096
-vless://f21e1b2d-71e6-4f50-b921-acd4e89ef19a@50.7.85.221:8443?security=tls&sni=hello-world-nameless-morning-b71b.bojipar202.workers.dev&type=ws&host=hello-world-nameless-morning-b71b.bojipar202.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-50.7.85.221:8443
-vless://8ce5a4b4-903a-4eb7-bc1d-0e9860dc5476@104.17.147.22:8443?security=tls&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.147.22:8443
-vless://6babb657-1524-43bb-b421-11bda27bc9de@160.153.0.183:2087?security=tls&sni=smart.titimoji-f9.fun&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-160.153.0.183:2087
-vless://6babb657-1524-43bb-b421-11bda27bc9de@104.18.110.3:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.110.3:2087

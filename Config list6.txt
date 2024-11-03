@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:7002
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.55:5601#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.55:5601
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.113:5000
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.79:6697#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.79:6697
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
 ss://auto@104.25.254.4:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.4:2087
@@ -494,7 +498,3 @@ trojan://auto@172.64.35.209:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.d
 trojan://NISHIKUITAN222@104.27.8.16:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.8.16:443
 trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 trojan://auto@104.20.21.43:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.43:443
-trojan://auto@104.21.90.210:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@74.226.136.204:443?allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-74.226.136.204:443
-trojan://auto@104.21.81.225:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.81.225:443
-trojan://auto@104.20.21.186:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.186:443
