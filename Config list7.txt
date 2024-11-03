@@ -1,7 +1,3 @@
-trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
-trojan://auto@104.20.17.180:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.180:443
-trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
-trojan://NISHIKUITAN222@188.114.96.113:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.96.113:443
 trojan://tg-dns68@162.159.152.232:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.232:443
 trojan://Tel-DailyConfigs@104.18.7.21:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.7.21:2053
 trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2087#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
@@ -498,3 +494,7 @@ vless://72d37e1d-d577-4db3-dc92-3ec65b6d172b@156.254.115.158:33032?type=tcp#🔒
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@173.245.59.212:8443?security=tls&sni=Join.VPN%43%55%53%54OMIZE.www.speedtest.net.Naziitness.com&type=ws&host=Join.VPN%43%55%53%54OMIZE.www.speedtest.net.Naziitness.com&path=%2FTelegram%2CVPN%43%55%53%54OMIZE%3Fed%3D2480&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.212:8443
 vless://fb15b62e-93f2-4eda-ab2d-06d6dc8874f1@104.18.41.176:443?security=tls&sni=am1.vless.site&type=ws&host=am1.vless.site&path=%2Fvless-Join-M_Buy#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.176:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.195.223:443?security=tls&sni=aa.ylks.xyz&type=ws&host=aa.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.223:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.4:443?security=tls&sni=pPAL03.kiaNah-mckynLEIgH.woRKERS.dEv&type=ws&host=PPal03.KIANaH-McKyNLeigh.wOrkErS.dev&path=%2FfY2YVghPfKWjXYoe%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.4:443
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.248:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.214.248:2052
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@212.183.88.227:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed#🔒 VL-WS-NONE 🇦🇹 AT-212.183.88.227:2052
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.242:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.214.242:2052
