@@ -1,3 +1,7 @@
+trojan://tg-dns68@162.159.153.87:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.87:443
+trojan://auto@104.26.2.36:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.2.36:443
+trojan://bpb-trojan@185.238.228.6:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrLb1imnrxPEhfzfwk%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇪🇸 ES-185.238.228.6:443
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
 trojan://NISHIKUITAN222@173.245.59.87:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.87:443
 trojan://auto@104.16.25.46:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.25.46:443
 trojan://tg-dns68@162.159.152.134:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.134:443
@@ -494,7 +498,3 @@ vless://6babb657-1524-43bb-b421-11bda27bc9de@172.67.191.108:2087?security=tls&sn
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@18.196.70.197:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇩🇪 DE-18.196.70.197:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.135:2053?security=tls&sni=BpB-v.PaGeS.DEv&type=ws&host=bPb-v.PAGEs.deV&path=%2FkA6liOKNXoRYx2v5%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.135:2053
 vless://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.177.51:443
-vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.246.203:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.166:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.20.166:443
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?security=none&type=ws&host=uni.fi&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.3.10:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.95:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.95:443
