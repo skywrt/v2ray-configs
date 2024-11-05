@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.92.71:8119#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.71:8119
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.92.55:9102#🔒 SS-TCP-NA 🇺🇸 US-69.50.92.55:9102
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.56:9102#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:9102
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.112:8009#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.112:8009
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#🔒 SS-TCP-NA 🇺🇸 US-212.102.47.131:443
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.218:8881#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:8881
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@139.64.165.154:8881#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.154:8881
@@ -494,7 +498,3 @@ trojan://telegram-id-directvpn@13.43.27.60:22222?security=tls&sni=trojan.burgeri
 trojan://blue2024@173.245.49.162:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.162:443
 trojan://telegram-id-directvpn@15.237.206.158:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.206.158:22222
 trojan://NISHIKUITAN222@173.245.49.186:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.186:443
-trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
-trojan://auto@172.64.35.176:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.176:443
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.204.84:8443?security=tls&sni=vfarid.xcdi.woRkers.DeV&type=ws&host=vfarid.xcdi.woRkers.DeV&path=trojan-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
-trojan://NISHIKUITAN222@104.25.0.104:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.0.104:443

@@ -1,3 +1,7 @@
+trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
+trojan://auto@172.64.35.176:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.176:443
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.204.84:8443?security=tls&sni=vfarid.xcdi.woRkers.DeV&type=ws&host=vfarid.xcdi.woRkers.DeV&path=trojan-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
+trojan://NISHIKUITAN222@104.25.0.104:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.0.104:443
 trojan://auto@172.66.47.150:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.150:8443
 trojan://auto@104.20.22.19:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.19:443
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@203.184.132.166:443?#🔒 TR-TCP-NA 🇭🇰 HK-203.184.132.166:443
@@ -494,7 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.218:443?security=tls&sni=
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@195.85.59.161:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.161:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.191:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.17.191:443
 vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@104.21.55.49:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.55.49:443
-vless://9c92dd71-acac-422b-b23e-e764f8cba0de@185.146.173.58:8080?type=ws&host=lc72.lebasnoo.ir.&path=%2Fservernett#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.58:8080
-vless://d92c0ec6-35f9-48c9-a79a-53ad515e7d39@185.52.1.18:443?security=tls&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&type=ws&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-185.52.1.18:443
-vless://85bedd75-f4b8-43a2-87d1-68c75e527051@172.67.73.238:443?security=tls&sni=yelan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fus-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.238:443
-vless://6babb657-1524-43bb-b421-11bda27bc9de@162.159.15.136:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.136:2087
