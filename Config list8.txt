@@ -1,3 +1,19 @@
+trojan://NISHIKUITAN222@104.20.30.57:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.30.57:443
+trojan://auto@104.20.20.27:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.27:443
+trojan://NISHIKUITAN222@190.93.244.69:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.69:443
+trojan://NISHIKUITAN222@104.25.194.188:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.194.188:443
+trojan://auto@172.64.35.207:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.207:443
+trojan://auto@104.20.19.19:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.19:443
+trojan://auto@104.20.19.109:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.109:443
+trojan://auto@104.20.21.207:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.207:443
+trojan://auto@104.20.20.74:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.74:443
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
+trojan://auto@104.20.17.118:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.118:443
+trojan://auto@104.20.21.190:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.190:443
+trojan://auto@162.159.44.161:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.161:443
+trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?security=tls&sni=pardazeshvpn-tg7.pages.dev&type=ws&host=pardazeshvpn-tg7.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.169:443
+trojan://auto@104.20.20.229:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.229:443
+trojan://NISHIKUITAN222@104.27.27.214:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.27.214:443
 trojan://blue2024@162.159.44.188:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.188:443
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
 trojan://tg-dns68@162.159.152.85:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.85:443
@@ -482,19 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.22.19:443?security=tls&sni=5
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.148:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.148:443
 vless://8b8df00d-e778-54b3-a232-c68354c3f278@172.67.193.36:2095?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.193.36:2095
 vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@104.26.15.16:80?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.15.16:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.199.131:443?security=tls&sni=lw.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.199.131:443
-vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?security=tls&sni=vkvd127.mycdn.me&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇩🇪 DE-82.165.77.122:2083
-vless://6babb657-1524-43bb-b421-11bda27bc9de@160.153.0.183:2087?security=tls&sni=smart.titimoji-f9.fun&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇳🇱 NL-160.153.0.183:2087
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.198.131:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.198.131:443
-vless://8b2735c4-9d35-4cd8-8ea7-0d06622da453@104.21.82.53:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.82.53:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.12:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.20.12:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.49:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.21.49:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.69:443?security=tls&sni=ppaL03.ZarYan-aKIRa.woRKERs.Dev&type=ws&host=PpaL03.zarYAn-akirA.WorKeRS.deV&path=%2FOQY7kazhZMRayV4h%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.69:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@31.129.48.139:443?security=tls&sni=aa.ylks.xyz&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇷🇺 RU-31.129.48.139:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.59.28:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.28:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.81:443?security=tls&sni=ld.ylks01.eu.org&type=ws&host=ld.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.81:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.73.213:443?security=tls&sni=CCOnfIG.SPDTest.ggFf.NET&type=ws&host=cconfig.spdtest.ggff.net&path=%2FW5V92vB3BQrJH2yY%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.213:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.30:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.30:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.174:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.174:443
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.79:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.85.119.79:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.86.113:443?security=tls&sni=lITTle-fog-5666.NETmoUsAvI.wOrKErS.DeV&type=ws&host=little-fog-5666.netmousavi.workers.dev&path=%2FRHZcln9v1mVzMwZ0%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.86.113:443
