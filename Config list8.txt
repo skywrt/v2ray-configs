@@ -1,3 +1,10 @@
+trojan://tg-dns68@162.159.153.84:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.84:443
+trojan://tg-dns68@162.159.152.27:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.27:443
+trojan://NISHIKUITAN222@104.22.27.200:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.27.200:443
+trojan://DailyConfigs@104.21.90.210:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.90.210:443
+trojan://auto@104.20.18.244:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.244:443
+trojan://NISHIKUITAN222@198.41.194.151:443?security=tls&sni=ij.ylks.xyz&type=ws&host=ij.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.194.151:443
+trojan://NISHIKUITAN222@104.25.22.200:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.22.200:443
 trojan://auto@104.20.21.18:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.18:443
 trojan://auto@104.20.17.232:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.232:443
 trojan://auto@104.20.22.182:443?sni=b96ef9ae.trojanfree-76s.pages.dev&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.22.182:443
@@ -491,10 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.97.49:443?security=tls&sni=c
 vless://12ef8934-8a18-49de-a2de-dafc1d79e6c4@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=snapp.com&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.219:443
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2F%3F%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%40persianelon%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.233:443
 vless://d3484b27-0cdf-469b-953e-1066d4e488f8@104.21.89.84:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.84:443
-vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@193.9.49.48:2087?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.48:2087
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.75.195.171:999?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-TLS 🇩🇪 DE-5.75.195.171:999
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.113:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.113:443
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.79.143:2083?security=tls&sni=folani.iiipok.wOrKeRs.DEV&type=ws&host=folani.iiipok.wOrKeRs.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:2083
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.7:443?security=tls&sni=v2NGFaST-2zn.pagES.Dev&type=ws&host=V2NGfAST-2zn.PAgES.dev&path=%2FAHKR4rJ49lj8vuLt%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
-vless://fbeef107-3c1a-4de2-902c-4b4f746d9690@144.24.84.29:33155?security=none&flow=xtls-rprx-vision&type=tcp#🔒 VL-TCP-NONE 🇰🇷 KR-144.24.84.29:33155
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.247:443
