@@ -1,3 +1,5 @@
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.218:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.17.218:443
+vless://8ce8b290-c905-550a-890e-5be5009ac4a3@172.67.194.3:80?security=none&sni=74269.biu996.live&type=ws&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.194.3:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.94:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.94:443
 vless://905771c2-99ac-4187-d3ba-b82e8c7c1452@104.21.239.130:443?security=tls&sni=juzius.zdzdzd.xyz&type=ws&host=juzius.zdzdzd.xyz&path=%2Fjuzi&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.239.130:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@158.178.192.221:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇫🇷 FR-158.178.192.221:443
@@ -496,5 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.205.0:443?security=tls&sni=a
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.197:443
 vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2052?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.166:2052
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.149:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.17.149:443
-vless://aa6c9518-f441-43e3-9bb4-00ae82dd2614@104.21.18.210:8443?security=tls&sni=joinsho.bestchannelantimeli.ggff.net&type=ws&host=joinsho.bestchannelantimeli.ggff.net&path=/joinbadeChannel@antimeli&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.210:8443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.0:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.22.0:443

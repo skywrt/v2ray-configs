@@ -1,3 +1,5 @@
+trojan://auto@104.20.21.114:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.114:443
+trojan://NISHIKUITAN222@104.27.110.202:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.110.202:443
 trojan://NISHIKUITAN222@104.25.76.106:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.76.106:443
 trojan://auto@104.20.17.109:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.109:443
 trojan://auto@104.21.81.225:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.81.225:443
@@ -496,5 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.102:443?security=tls&sni=
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.19.168:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@2.58.56.31:3001?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-TLS 🇳🇱 NL-2.58.56.31:3001
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.65:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.65:2083
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.218:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.17.218:443
-vless://8ce8b290-c905-550a-890e-5be5009ac4a3@172.67.194.3:80?security=none&sni=74269.biu996.live&type=ws&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.194.3:80
