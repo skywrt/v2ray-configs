@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN222@104.19.11.50:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.11.50:443
 trojan://NISHIKUITAN222@188.114.98.57:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.98.57:443
 trojan://NISHIKUITAN222@104.16.40.237:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.40.237:443
 trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
@@ -497,4 +498,3 @@ trojan://NISHIKUITAN222@173.245.59.185:443?allowInsecure=1#🔒 TR-TCP-NA 🏴�
 trojan://tg-dns68@172.66.44.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.128:443
 trojan://NISHIKUITAN222@104.16.91.200:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.91.200:443
 trojan://join-bede-daily-configs@104.18.41.190:8443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.41.190:8443
-trojan://tg-dns68@162.159.152.134:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.134:443
