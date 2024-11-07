@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.36:8080#🔒 SS-TCP-NA 🇫🇷 FR-45.158.171.36:8080
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.26:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.26:7001
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044
+ss://YjkxYjMwNTMtOTYwMi00YTYwLWI4NDgtZWMwZWFmZWE4NDQzOg==@172.67.204.84:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:8443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxd1lMbnh6eXNQS3ZpcUZIVWRiRm5x@51.158.252.130:443#🔒 SS-TCP-NA 🇫🇷 FR-51.158.252.130:443
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@80.92.204.106:9020#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9020
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.174:443
@@ -494,7 +498,3 @@ trojan://auto@104.27.207.92:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.d
 trojan://auto@104.20.20.148:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.148:443
 trojan://NISHIKUITAN222@104.18.21.127:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.21.127:443
 trojan://NISHIKUITAN222@108.162.195.137:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.137:443
-trojan://auto@104.20.22.2:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.2:443
-trojan://auto@104.26.13.31:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
-trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.36.165:443
-trojan://NISHIKUITAN222@190.93.244.123:443?security=tls&sni=ij.ylks.xyz&type=ws&host=ij.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.244.123:443

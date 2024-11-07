@@ -1,3 +1,7 @@
+trojan://auto@104.20.22.2:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.2:443
+trojan://auto@104.26.13.31:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
+trojan://azadnet-trojan@104.21.36.165:443?security=tls&sni=XN----PmCnaaC0dKn0Rb71NdA.PagES.DeV&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.36.165:443
+trojan://NISHIKUITAN222@190.93.244.123:443?security=tls&sni=ij.ylks.xyz&type=ws&host=ij.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.244.123:443
 trojan://NISHIKUITAN222@190.93.244.125:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.125:443
 trojan://DailyConfigs@172.64.155.209:2087?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2F%40Daily_Configs%2C%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.155.209:2087
 trojan://NISHIKUITAN222@104.25.203.49:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.203.49:443
@@ -494,7 +498,3 @@ trojan://NISHIKUITAN222@172.67.180.8:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67
 trojan://tg-dns68@162.159.152.66:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.66:443
 trojan://telegram-id-privatevpns@3.11.71.170:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.71.170:22222
 trojan://NISHIKUITAN222@104.25.193.251:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.193.251:443
-trojan://CMLiu@43.153.80.208:443?sni=aliorg.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-43.153.80.208:443
-trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&host=sB-1u6.Pages.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.178:443
-trojan://NISHIKUITAN222@190.93.247.234:443?security=tls&sni=ij.ylks.xyz&type=ws&host=ij.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.234:443
-trojan://NISHIKUITAN222@104.20.207.36:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.207.36:443
