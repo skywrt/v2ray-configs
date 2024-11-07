@@ -1,3 +1,7 @@
+trojan://tg-dns68@172.66.44.128:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.128:443
+trojan://NISHIKUITAN222@104.25.76.106:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.76.106:443
+trojan://auto@108.162.195.209:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.209:443
+trojan://NISHIKUITAN222@104.25.171.225:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.171.225:443
 trojan://40ea99d6-b2f2-4a00-8f61-c8d8fdaa25b9@103.77.247.228:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇻🇳 VN-103.77.247.228:443
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&sni=z-v2-002805.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-45.32.148.182:443
 trojan://tg-dns68@162.159.153.67:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.67:443
@@ -494,7 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.205.142:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:2053?security=tls&sni=%4da%48d%49s%45r%76e%72-7q5.PaGeS.dEV&type=ws&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=%4da%48d%69S%45R%56e%52-7q5.paGES.DEV&path=%2FvyvNhfXHnkRJCGfd%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
 vless://994c91dd-b282-4c25-a0c5-af76b480c080@2.189.59.4:443?security=tls&sni=mci-google-bing3164.sdb5j.workers.dev.&type=ws&host=mci-google-bing3164.sdb5j.workers.dev.&path=%2Fvless&fp=ios&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-2.189.59.4:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.148:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.148:443
-vless://ef7adb9b-0f1c-4eef-99c2-7e500094a284@104.22.38.61:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.38.61:443
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&sni=iSaA1.paGes.DEv&type=ws&host=IsaA1.pAGEs.DEV&path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.151:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.24:2053?security=tls&sni=bPb-v.PageS.DEV&type=ws&host=BpB-V.pAGeS.deV&path=%2FR2lncvPJWZWjt7Oi%2FMTI5LjE1OS4yNDEuMTcy&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.24:2053
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.19.31:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.31:443
