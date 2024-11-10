@@ -1,3 +1,4 @@
+vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?encryption=none&security=tls&sni=mahdiv2.pages.dev&type=ws&host=mahdiv2.pages.dev&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:2053?encryption=none&security=tls&sni=bpb-v.PAGEs.deV&fp=chrome&type=ws&host=bpb-v.PaGeS.DEv&path=%2Fzvk78A3RrwtbmvAX%2FMTI5LjE1OS4yNDEuMTcy#[🏁]t.me/ConfigsHub`
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?encryption=none&security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D100#[🏁]t.me/ConfigsHub`
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?encryption=none&security=tls&sni=1223-9ux.pages.dev&fp=randomized&type=ws&host=1223-9ux.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub`
@@ -497,4 +498,3 @@ ss://d342d11e-d424-4583-b36e-524ab1f0afa4@213.139.72.80:8080?security=tls&amp;sn
 ss://e1ffc0d3-04ce-5393-b91e-b54ea14eb3cb@185.146.173.48:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=es1.vless.site&amp;type=ws&amp;sni=es1.vless.site#%40hopev2ray%F0%9F%93%9A
 ss://e78d9575-2052-4d32-bc80-4435b1045a3b@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=barkatc2.ir&amp;type=ws#%40flyv2ray
 ss://45b0c639-b364-4d00-a49f-ccdfac51fe5e@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;type=ws&amp;fp=chrome&amp;sni=hajlab.ucdavis.edu&amp;headerType=&amp;path=&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeW.NeT#telegram
-ss://bf82a225-edb7-4b16-b7b3-96421fc85a79@49.12.193.246:443?mode=gun;security=reality;encryption=none;pbk=JkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ;fp=chrome;spx=%2F;type=grpc;serviceName=%40VPNCUSTOMIZE;sni=www.iranserver.com;sid=9a6deee9#%40proxyymeliii
