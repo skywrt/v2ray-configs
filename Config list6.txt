@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.218:8090
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMmxWdzdqQUxxSERSTkx3WERJQWxt@62.210.88.22:443#🔒 SS-TCP-NA 🇫🇷 FR-62.210.88.22:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:989
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9037
@@ -497,4 +498,3 @@ trojan://NISHIKUITAN222@173.245.59.133:443?security=tls&sni=im.ylks.xyz&type=ws&
 trojan://blue2024@103.160.204.59:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-103.160.204.59:443
 trojan://NISHIKUITAN222@104.18.221.133:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.221.133:443
 trojan://tg-dns68@162.159.152.219:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.219:443
-trojan://NISHIKUITAN222@173.245.58.97:443?security=tls&sni=ij.ylks.xyz&type=ws&host=ij.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.58.97:443

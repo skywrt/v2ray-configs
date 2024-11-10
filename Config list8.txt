@@ -1,3 +1,4 @@
+trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&sni=iSaA1.paGes.DEv&type=ws&host=IsaA1.pAGEs.DEV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.151:443
 trojan://blue2024@104.18.160.63:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.160.63:443
 trojan://auto@104.20.18.157:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.157:443
 trojan://auto@104.27.206.92:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.27.206.92:443
@@ -497,4 +498,3 @@ vless://b69b17b9-4074-4316-9d80-103433d6bfe4@185.146.173.58:8080?security=none&t
 vless://905771c2-99ac-4187-d3ba-b82e8c7c1452@104.19.59.86:443?security=tls&sni=juzius.zdzdzd.xyz&type=ws&host=juzius.zdzdzd.xyz&path=%2Fjuzi&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.59.86:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.215:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM47&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.8.215:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.97.149:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.149:443
-vless://64798c16-4bcb-461f-9005-30e40b24e91b@151.101.192.155:80?security=none&type=ws&host=vipfast_7.com&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80
