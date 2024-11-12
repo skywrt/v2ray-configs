@@ -1,3 +1,5 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.228.166:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-TLS 🇺🇸 US-154.64.228.166:587
+vless://c46a54bf-b220-4c22-cd6e-fb1fcabda0af@104.16.60.8:2083?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:2083
 vless://6babb657-1524-43bb-b421-11bda27bc9de@190.93.246.146:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.146:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.55:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.55:443
 vless://28b52524-48b8-428b-9d3d-febee576f788@65.21.186.167:32505?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.21.186.167:32505
@@ -496,5 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.109:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.161.104:443?security=tls&sni=lj.ylks.us.kg&type=ws&host=lj.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:443
 vless://18b3cbba-e6ac-485a-9481-831a0415eab9@104.21.81.124:443?security=tls&sni=esEtSEcUrItylicenSe.CXHqSfX.wORkeRs.dev&type=ws&host=eSetsEcUrItYliCENSe.cxHQsFx.workeRS.deV&path=%2Ff5dkaVQIs1Ax7I6n%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.124:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.113.168:443?security=tls&sni=dn.ylks.xyz&type=ws&host=dn.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.168:443
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.67.68.101:443?security=tls&sni=IsaA1.pAgEs.DEV&type=ws&host=ISAa1.PAGeS.deV&path=%2Fvlees_v2rayng%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.101:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.243:443?security=tls&sni=ll.kpcloud.eu.org&type=ws&host=ll.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.243:443

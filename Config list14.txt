@@ -1,3 +1,5 @@
+vless://e13a79ec-2873-4d17-9bfb-fde7d6431e2c@104.18.165.69:8880?type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AFfreerxteamirteamop.rxteam.tech.&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.165.69:8880
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.114.152:443?security=tls&sni=lc.kpcloud.eu.org&type=ws&host=lc.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.114.152:443
 vless://621e8a54-2947-4a98-b0e0-f9048a426e34@199.232.1.47:443?security=tls&sni=ELENaV2Ray.My.iD&type=ws&host=Elenav2ray.my.id&path=%2FVLESS%3Fed%3D2560&fp=edge&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.1.47:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.207:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.8.207:443
 vless://905771c2-99ac-4187-d3ba-b82e8c7c1452@104.21.239.130:443?security=tls&sni=juzius.zdzdzd.xyz&type=ws&host=juzius.zdzdzd.xyz&path=%2Fjuzi&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.239.130:443
@@ -496,5 +498,3 @@ trojan://NISHIKUITAN222@173.245.58.97:443?security=tls&type=ws&sni=ij.ylks.xyz&p
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#US20%201.9MB%2Fs
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A548
 trojan://auto@104.20.17.0:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#US21%204.7MB%2Fs
-trojan://auto@104.20.21.101:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A549
