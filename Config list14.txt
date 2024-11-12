@@ -1,8 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.46:2083?security=tls&sni=ln.ylks.us.kg&type=ws&host=ln.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.46:2083
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.247:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.21.247:443
-vless://b8cc874e-1aa6-46c3-b163-0302e478a642@178.239.155.107:10080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-178.239.155.107:10080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.198.4:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.198.4:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.115:443?security=tls&sni=6B700E9B.BPB-WORKEr-PAnel-9r9.PAGeS.dev&type=ws&host=6b700e9b.bpb-worker-panel-9r9.pages.dev&path=%2FtmlO9TqxlsNgBI70%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.115:443
 vless://6babb657-1524-43bb-b421-11bda27bc9de@104.18.154.49:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.154.49:2087
 vless://18cb1e84-aec2-44b3-aadd-5d040f47a842@104.25.5.222:443?security=tls&sni=pardazeshvpn-tg44.pages.dev&type=ws&host=pardazeshvpn-tg44.pages.dev&path=%2F%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.5.222:443
 vless://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@172.67.139.4:2053?security=tls&sni=ip-cf.hukinghumans-655.WoRkeRS.dEV&type=ws&host=ip-cf.hukinghumans-655.WoRkeRS.dEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.4:2053
@@ -498,3 +493,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNHlHMHNPV1NSVlNsaWQ5bWZLVW1tajhVNFhnVmxvZHU
 trojan://blue2024@172.64.35.188:443?sni=ta.promote.icu#%E6%9C%AA%E7%9F%A5101
 trojan://NISHIKUITAN222@104.19.104.49:443?#%E6%9C%AA%E7%9F%A5102
 trojan://NISHIKUITAN222@188.114.97.152:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A5103
+trojan://Watashi_VPN@104.18.12.229:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%E6%9C%AA%E7%9F%A5104
+trojan://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?security=tls&type=ws&sni=aksnmaioas.pages.dev&path=/Telegram@Linkvws?ed=2048&host=aksnmaioas.pages.dev#%E6%9C%AA%E7%9F%A5105
+trojan://NISHIKUITAN222@173.245.49.76:443?#%E6%9C%AA%E7%9F%A5106
+trojan://NISHIKUITAN222@104.18.97.15:443?#%E6%9C%AA%E7%9F%A5107
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#US21%201.9MB%2Fs
