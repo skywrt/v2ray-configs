@@ -1,3 +1,6 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.201.177:443?security=tls&sni=aliii.ir&type=ws&host=aliii.ir&path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.201.177:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@173.245.59.212:2053?security=tls&sni=MaHdiSErvEr-cby.PageS.DeV&type=ws&host=mahDIServeR-CBy.pageS.DeV&path=%2Faq5aNJRwUWdypsvQ%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.212:2053
+vless://93867bc3-273b-4fd0-bbb1-2bed051ad215@143.244.51.52:443?security=tls&sni=www.spcdn.org&type=splithttp&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-SPLITHTTP-TLS 🇺🇸 US-143.244.51.52:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.205:443?security=tls&sni=ld.ylks.us.kg&type=ws&host=ld.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.205:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.65:443?security=tls&sni=lw.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.65:443
 vless://2b2c7058-d1d5-4217-82e4-d39da967a640@104.21.61.43:443?security=tls&sni=w27io.huntley-samael.workers.dev&type=ws&host=w27io.huntley-samael.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.61.43:443
@@ -495,6 +498,3 @@ vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.1:443?security=tls&sni=fr
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.173:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.173:443
 vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@104.31.16.136:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.136:443
 vless://9681032c-12e7-40fb-9107-16406203250c@164.92.82.207:59843?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-164.92.82.207:59843
-vless://c4ce9f87-b7b1-4e49-b06c-f726be2a0f70@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeW.NeT#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.228:80
-vless://8a4c21ac-1bf0-4b20-c2b7-3bf1260c667a@151.101.194.228:443?security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws&host=meloch-net.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.228:443
-vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?security=tls&sni=pAHlAvi-184.pAGEs.DeV&type=ws&host=PaHLAvi-184.PAgES.dEV&path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.196:443

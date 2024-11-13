@@ -1,3 +1,6 @@
+ss://auto@172.66.44.106:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.44.106:8443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:5600#🔒 SS-TCP-NA 🇺🇸 US-69.50.95.179:5600
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#🔒 SS-TCP-NA 🇺🇸 US-67.220.95.125:7001
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8119
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.26:7001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.26:7001
@@ -495,6 +498,3 @@ trojan://NISHIKUITAN222@104.25.186.220:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.
 trojan://bpb-trojan@159.112.235.48:2083?security=tls&sni=403b3611-99bC-43B7-88d7-26ed5d0825A9-3.PAGes.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&path=%2FtrZTKk76m0W1AxpNcC%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇺🇸 US-159.112.235.48:2083
 trojan://Trojan-%48%71%762%72%61%79%4e%47@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=dontskii.hqv2rayng.xyz#🔒 TR-WS-TLS 🇺🇸 US-151.101.130.219:443
 trojan://auto@104.20.19.101:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.101:443
-trojan://NISHIKUITAN222@104.17.37.97:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.37.97:443
-trojan://fuck@42.236.73.72:443?sni=www.zitian.cn#🔒 TR-TCP-NA 🇨🇳 CN-42.236.73.72:443
-trojan://auto@104.18.1.89:443?security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.1.89:443

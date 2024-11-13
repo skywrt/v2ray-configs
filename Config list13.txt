@@ -1,3 +1,6 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.105.130.188:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇬🇧 GB-34.105.130.188:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.59.220:443?security=tls&sni=ck.ylks.xyz&type=ws&host=ck.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.220:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.193.25:443?security=tls&sni=cn.ylks.xyz&type=ws&host=cn.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.25:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.53:443?security=tls&sni=lx.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.53:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.36:443?security=tls&sni=cn.ylks.xyz&type=ws&host=cn.ylks.xyz&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.36:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.62.103:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-51.20.62.103:22222
@@ -495,6 +498,3 @@ vless://44f25206-4241-4ef0-a528-4366299b2719@104.16.4.103:443?security=tls&sni=x
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@92.53.191.43:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&host=bpB005.paGeS.DEv&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇮 SI-92.53.191.43:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.148:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.148:443
 vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
-vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:80?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.177:80
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443?security=tls&sni=aw.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.129:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.121.253:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.121.253:443

@@ -1,3 +1,6 @@
+vless://f5f4315e-6759-49a3-b78c-60d9e83f470f@79.127.70.76:2020?security=none&type=tcp&host=Doostihaa.coM&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.76:2020
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.98.191:443?security=tls&sni=an.ylks.xyz&type=ws&host=an.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.191:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.127:443?security=tls&sni=ld.ylks.us.kg&type=ws&host=ld.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.127:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.217.139.120:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-TLS 🇺🇸 US-91.217.139.120:587
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.4:443?security=tls&sni=ValID6.pAGeS.dev&type=ws&host=valid6.pages.dev&path=%2Fg1uj9s3BeFn6pzRV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.4:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.205.184:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.205.184:443
@@ -495,6 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.57:443?security=tls&sni=l
 vless://06fca101-47af-4e07-b091-8fa49d0b2474@172.66.46.213:443?security=tls&sni=speedtest.svgspeedtest.net&type=ws&host=speedtest.svgspeedtest.net&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:443
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.137:443
 vless://b653c3fb-e95e-5ed9-86d5-c169d6a4f2b9@199.232.32.165:443?security=tls&sni=JoinBede-ELiV2rAY.ai&type=ws&host=JoinBede-eliv2ray.ai&path=%2F%3Fed%3D2048&fp=edge#🔒 VL-WS-TLS 🇺🇸 US-199.232.32.165:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.105.130.188:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇬🇧 GB-34.105.130.188:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.59.220:443?security=tls&sni=ck.ylks.xyz&type=ws&host=ck.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.220:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.193.25:443?security=tls&sni=cn.ylks.xyz&type=ws&host=cn.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.25:443
