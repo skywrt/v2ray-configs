@@ -1,3 +1,5 @@
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=hagh.pages.dev&fp=random&type=ws&sni=hagh.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.19.168:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.16.20.118:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?security=tls&sni=nufilterok.pages.dev&type=ws&host=nufilterok.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🇸🇬[openproxylist.com] vless-SG```
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.156.85.193:443?encryption=none&security=tls&sni=Sanjeshp.Ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
@@ -496,5 +498,3 @@ trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443?security=tls&sni=jobs
 trojan://auto@104.20.20.212:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🇸🇬[openproxylist.com] trojan-SG```
 trojan://auto@104.20.18.31:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🇸🇬[openproxylist.com] trojan-SG```
 trojan://auto@104.26.2.36:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🇸🇬[openproxylist.com] trojan-SG```
-trojan://auto@104.20.22.170:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🇸🇬[openproxylist.com] trojan-SG```
-trojan://auto@104.20.17.180:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🇸🇬[openproxylist.com] trojan-SG```
