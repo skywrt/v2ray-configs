@@ -1,5 +1,3 @@
-trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
-trojan://auto@104.20.22.95:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.95:443
 trojan://auto@104.20.19.11:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.11:443
 trojan://NISHIKUITAN222@190.93.247.68:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.68:443
 trojan://NISHIKUITAN222@162.159.242.97:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.242.97:443
@@ -498,3 +496,5 @@ vless://62747cff-793c-4be6-8bac-254e003132ed@185.126.237.16:443?security=reality
 vless://c9f1db6a-4f36-42d6-8a1c-79c1f582c7c9@195.225.240.80:443?security=reality&flow=xtls-rprx-vision&sni=fonts.gstatic.com&type=tcp&fp=chrome&pbk=LPUJX47gfArLtZBbs-dmbIoEEmx7DJatHlsdZb-aU0Q&sid=d17c6a4a8322#🔒 VL-TCP-RLT 🇩🇪 DE-195.225.240.80:443
 vless://d4d7349a-8053-409c-afbc-0bde44f361e5@188.245.106.194:1633?security=reality&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.106.194:1633
 vless://b1a441f5-ee43-4903-ab2e-a80c0d1a71eb@188.245.125.135:8443?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&pbk=f9yPFWY54wzWAvcPgsg8KqW1wvKhWbHHiP9pQzpD5mM&sid=9d152a93#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.125.135:8443
+vless://1d4e36cb-344b-43b0-ba5a-7b6b292ab691@130.61.234.225:50005?security=reality&flow=xtls-rprx-vision&sni=www.python.org&type=tcp&fp=ios&pbk=qCaV2kI9Oxts987YzeFkyyQHMnJnd5YA1GJuAkRVImg&sid=19e5124d#🔒 VL-TCP-RLT 🇩🇪 DE-130.61.234.225:50005
+vless://661ea549-3367-4c37-b307-253cfe8d2ee6@158.180.48.19:18443?security=reality&sni=www.tesla.com&type=tcp&fp=edge&pbk=bRUCz8KaceEKnBFT5V7czJj1t0OAu_nbKnMyVfyeK1I&sid=e6658462#🔒 VL-TCP-RLT 🇩🇪 DE-158.180.48.19:18443
