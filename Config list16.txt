@@ -1,9 +1,3 @@
-trojan://telegram-id-privatevpns@15.188.92.193:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A586
-trojan://acbbcaa-abac-baac-abdc-cbbccacabbaa@127.0.0.1:8080?security=tls&type=tcp#US25
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#US26%201.7MB%2Fs
-trojan://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&type=ws&sni=kafka.eula.cloudns.org&path=/Telegram@V2ray_Alpha/?ed=2048&host=kafka.eula.cloudns.org#%E6%9C%AA%E7%9F%A587
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.14:8080#%E6%9C%AA%E7%9F%A588
-trojan://auto@104.20.17.178:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A589
 trojan://NISHIKUITAN222@104.18.149.10:443?#%E6%9C%AA%E7%9F%A590
 trojan://auto@104.22.72.111:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A591
 trojan://auto@104.18.12.229:2053?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#%E6%9C%AA%E7%9F%A592
@@ -498,3 +492,9 @@ vless://17fafaf9-7402-40eb-87ae-a75944c84c52@104.21.69.44:8443?path=%2FTelegram-
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel-3jc.pages.dev&fp=randomized&type=ws&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#All-%40V2ray_Alpha-05
 vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=azADNet-seMEJ.pageS.DeV&fp=randomized&type=ws&sni=AzAdnET-SemeJ.pAGES.dev#All-%40V2ray_Alpha-06
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.44.56:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=mIDsuMMer-bpb.PAgEs.DeV&fp=randomized&type=ws&sni=midsUMmER-Bpb.pAgES.DEV#All-%40V2ray_Alpha-07
+vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.44.128:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg105.pages.dev&type=ws&sni=pardazeshvpn-tg105.pages.dev#All-%40V2ray_Alpha-08
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#All-%40V2ray_Alpha-09
+vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.47.74:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=ShAh-9aQ.PaGEs.DEV&fp=randomized&type=ws&sni=SHAh-9Aq.PAGes.deV#All-%40V2ray_Alpha-10
+vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PaHLAvi-184.PAgES.dEV&fp=randomized&type=ws&sni=pAHlAvi-184.pAGEs.DeV#All-%40V2ray_Alpha-11
+vless://3f2a8ac5-f359-4333-865a-7064e31c2538@172.67.73.163:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=nufilterok.pages.dev&fp=randomized&type=ws&sni=nufilterok.pages.dev#All-%40V2ray_Alpha-12
+vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg97.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg97.pages.dev#All-%40V2ray_Alpha-13♾نامحدود
