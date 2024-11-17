@@ -1,3 +1,10 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.235.239:2053?security=tls&sni=MAhdiseRVer-f4v.paGEs.dEv&type=ws&host=MaHDisErvER-f4v.pAgES.DeV&path=%2FKFhgqe0tA6FG1ey1%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.235.239:2053
+vless://da1d9a83-5894-43fb-902c-0c03f41b9a21@172.66.47.146:80?security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.146:80
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.21.83.62:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.62:2096
+vless://6babb657-1524-43bb-b421-11bda27bc9de@104.18.154.49:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.154.49:2087
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?security=tls&sni=1v2.diginoshops10.ir&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:8443
+vless://238b1515-f959-40ee-ece8-dd37d307bc65@104.18.165.203:8080?security=none&type=ws&host=JOiNMAiN.MRaLPHa-Vpn.CoM.&path=/TELEGRAM-@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray,@MainV2-ray%3Fed%3D8880#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.165.203:8080
+vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@104.19.173.68:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.173.68:443
 vless://91b41e65-a104-4fde-906b-4ed6bbb18424@104.19.189.152:443?security=tls&sni=PaGeS.DEV&type=ws&host=ev2raydev.pages.dev&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.189.152:443
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.139.111:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2F%54E%4cE%47R%52M-M%41R%41M%42%41S%48I%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:443
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@190.93.247.155:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2F%54E%4cE%47R%52M-M%41R%41M%42%41S%48I%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:2096
@@ -491,10 +498,3 @@ trojan://063f59fe-987b-401f-b404-84352e08dfc6@37.114.33.108:15296?security=reali
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7002#US10%201.9MB%2Fs
 trojan://bpb-trojan@104.18.37.111:443?type=ws&sni=mindrOOm-5cz.pAgEs.dEV&path=/trC8BM8bTsAF0AnLYL&host=mindrOOm-5cz.pAgEs.dEV#US11
 trojan://telegram-id-privatevpns@15.237.233.98:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
-trojan://bacfc613-672e-5078-b489-3752f8ed0a60@104.16.201.94:2053?security=tls&type=ws&sni=aboutus.CPiFORpErSIa.uK&host=aboutus.CPiFORpErSIa.uK#%E6%9C%AA%E7%9F%A5112
-trojan://auto@104.20.21.199:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#%E6%9C%AA%E7%9F%A5113
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaR1V6WkdVeQ==@146.19.106.89:8388#%E6%9C%AA%E7%9F%A5114
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.68:8080#US12%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5001#US13%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8881#US14%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.179:3389#US15%201.9MB%2Fs
