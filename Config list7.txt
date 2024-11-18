@@ -1,3 +1,5 @@
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@152.42.252.42:443?security=tls&sni=add+your+sni&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-152.42.252.42:443
+vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?security=tls&sni=speedtest.net&type=ws&host=tody.ir.&path=%2FW0tvTq4oSbHyKeRM%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.219:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@185.170.166.219:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1+%D8%AA%DB%8C%D9%85+%D8%A7%D9%86%D8%AC%D9%85%D9%86+%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%3Fed%3D2560#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.219:8880
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@94.176.183.62:443?security=tls&sni=gcore.lu&type=ws&host=5.gcr.dns04.com&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇫🇷 FR-94.176.183.62:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sni=bPB-V.pageS.dEV&type=ws&host=Bpb-v.PAges.deV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&alpn=http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.208:2053
@@ -496,5 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.30:443?security=tls&sni=l
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?security=tls&sni=lmn1715683972331.lmn15534.info&type=ws&host=lmn1715683972331.lmn15534.info&path=%2Fsrvacc1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.125:443
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.101:443
 vless://c6292384-a5ff-4c54-9ce4-354aaec78a57@104.26.15.85:80?security=none&type=splithttp&host=pbv.sadjkhaslid.site&path=%2F#🔒 VL-SPLITHTTP-NONE 🏴‍☠️ NA-104.26.15.85:80
-vless://da1d9a83-5894-43fb-902c-0c03f41b9a21@172.66.47.146:80?security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.146:80
-vless://921c3e7a-35b5-4499-aef5-363fd050bb29@160.153.0.164:443?security=tls&sni=s1.digikala-iranian.org&type=grpc#🔒 VL-GRPC-TLS 🇳🇱 NL-160.153.0.164:443
