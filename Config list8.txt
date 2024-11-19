@@ -1,5 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.28.131:443?security=tls&sni=PpAl03.DixIe-ledner-Sr.WOrkeRs.Dev&type=ws&host=PpAl03.DIxIE-lEDNer-SR.wOrkers.dEv&path=%2FPAxsuUvyYMxEtSb4%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.131:443
-vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&sni=ARCane-ROYAL.Pages.DEV&type=ws&host=ARCane-ROYAL.Pages.DEV&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.14.99:443
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.59.218.253:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-185.59.218.253:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.57:443?security=tls&sni=lw.ylks.us.kg&type=ws&host=lw.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.57:443
 vless://0792bb58-36ac-451e-a629-e363e53da93b@104.21.18.38:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.38:443
@@ -498,3 +496,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.44:
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=23spt.pages.dev#%E6%9C%AA%E7%9F%A552
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.58:57456#%E6%9C%AA%E7%9F%A553%206.3MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWdld2TTBJUDZ3aFVLYU1FdXFlTjZN@147.45.136.147:41095#%E6%9C%AA%E7%9F%A554%201.2MB%2Fs
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.156.102.16:46002?#%E6%9C%AA%E7%9F%A555
+trojan://bpb-trojan@104.17.147.22:443?security=tls&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV&host=10-bpb-worker-panel.pages.dev#%E6%9C%AA%E7%9F%A556
