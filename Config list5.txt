@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@usa.visa.com:2053?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=wd.vovo.pp.ua&amp;fp=random&amp;type=ws&amp;sni=wd.vovo.pp.ua#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%88+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://f1872f4e-e070-4ca1-9ba0-a29a54bade7a@185.146.173.22:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=se1.v2vless.site&amp;type=ws&amp;sni=se1.v2vless.site#%40hopev2ray%E2%99%A5%EF%B8%8F
 vless://fe945275-51a2-5c3c-8669-2c112ed35cec@172.67.171.93:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=nl1.vless.site&amp;type=ws&amp;sni=nl1.vless.site#%40hopev2ray%F0%9F%92%95
 vless://1aa7bb00-3863-4151-bc71-940c75bf094b@104.18.37.146:8443?path=%2FTELEGRAM-Daily_Configs%3Fed%3D1048&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=bia-daily-configs.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=BiA-DAILY-coNfIGs.pAgES.DEV#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%8D%A6%40Outline_ir
@@ -497,4 +498,3 @@ trojan://telegram-id-privatevpns@18.130.147.45:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-directvpn@63.32.136.35:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://d90e5504-a42b-44c1-8289-3543471bf55a@n3.jp4589871.top:8443?security=tls&amp;sni=n3.jp4589871.top&amp;type=tcp&amp;headerType=none#%E5%85%8D%E8%B4%B9%E6%A2%AF%E5%AD%90https%3A%2F%2Ft.me%2Fmftizi
 trojan://telegram-id-directvpn@18.135.124.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
-trojan://telegram-id-directvpn@3.147.113.96:22222?sni=trojan.burgerip.co.uk&amp;allowInsecure=0#@Hope_Net-join-us-on-Telegram
