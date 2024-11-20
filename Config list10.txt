@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN222@190.93.245.10:443?security=tls&type=ws&sni=im.ylks.xyz&path=/&host=im.ylks.xyz#%E6%9C%AA%E7%9F%A5129
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#US28%202.0MB%2Fs
+trojan://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?security=tls&type=ws&sni=midsUMmER-Bpb.pAgES.DEV&path=/Telegram-@V2ray_Alpha/?ed=2560&host=mIDsuMMer-bpb.PAgEs.DeV#%E6%9C%AA%E7%9F%A5130
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#%E6%9C%AA%E7%9F%A5131%201.5MB%2Fs
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#US29%201.9MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WW1OaQ==@95.164.44.21:8388#%E6%9C%AA%E7%9F%A5132
@@ -495,6 +498,3 @@ vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTELEGRAM-M
 vless://5fecde22-247a-462d-aab0-ce945f5616dc@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v20.TzZLiMitTNeW.CoM#👉🆔
 vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@104.17.234.128:443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h2,http/1.1&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&fp=randomized&type=ws&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de#👉🆔
 vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.47.169:443?type=grpc&serviceName=Telegram#👉🆔
-vless://SVNTEAM@104.17.234.128:8080?path=%2Ftelegram-SVNTEAM%3Fed%3D2056&security=none&encryption=none&host=JOIN.SVNTEAM.can.speedtest.net.FiSvn.ir.&type=httpupgrade#👉🆔
-vless://28c27cde-5cf8-4cdb-af94-f773b0263729@104.17.234.114:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.nl.Powerfullserver.de#👉🆔
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#WiFi-%40V2ray_Alpha-1
