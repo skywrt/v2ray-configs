@@ -1,3 +1,12 @@
+vless://c9ef82df-f2a3-4bf5-b456-2e6937eab8a6@104.17.148.22:2082?security=none&type=httpupgrade&host=myeRsdrivingschool.cOm.SpeedTest.Net.BlackRaven.NL.4.kaktusatom.iR.&path=%2F%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2082
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:8443?security=tls&sni=wd.vovo.pp.ua&type=ws&host=wd.vovo.pp.ua&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:8443
+vless://6803d696-9541-4bab-8c90-e7f634513ec4@188.245.118.6:12345?type=tcp&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-188.245.118.6:12345
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@103.224.182.210:443?security=tls&sni=cndb9wjin2i7vab5vvcg.khodavakili.top&type=ws&host=dl.khodavakili.top&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-103.224.182.210:443
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.62.62.224:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-198.62.62.224:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.79:443?security=tls&sni=BloOM-cHh.PagEs.dEv&type=ws&host=BloOM-cHh.PagEs.dEv&path=%2Fmtasyzxvkfadcumf%3Fed%3D2560security%3Dtls#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.79:443
+vless://ad757864-f2df-4d3d-8c2a-dee227baf40b@104.17.97.5:80?security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.5:80
+vless://b2e07c41-c240-5bf3-b904-dc40852c780e@151.101.130.219:80?type=ws&host=JoinBede-ELiV2ray.ai#🔒 VL-WS-NA 🇺🇸 US-151.101.130.219:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.37.125:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.37.125:443
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.26.228:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&type=ws&host=didnegar.com&path=de?ed%3D1048&fp=chrome#🔒 VL-WS-TLS 🇮🇪 IE-199.232.26.228:443
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.97.1:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.57:443?security=tls&sni=cf.ylks.xyz&type=ws&host=cf.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.57:443
@@ -489,12 +498,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.32.255.24:587?security=tls&sni=
 vless://5dc3ecda-24a8-474d-9ec5-f3767c25f433@104.21.69.44:8880?type=httpupgrade&host=join-daily-configs.broken-dreams.ir&path=/#🔒 VL-HTTPUPGRADE-NA 🏴‍☠️ NA-104.21.69.44:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.6.219:443
 vless://9927f18c-9483-4980-8a04-dcd95373dc72@104.21.33.129:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.129:443
-vless://0e921714-b28c-4ffd-a371-eb486bc5a1ce@40.160.11.136:2053?security=tls&sni=test.mrkian.us.kg&type=ws&path=%2FGcore.com%3Fed%3D443#🔒 VL-WS-TLS 🇺🇸 US-40.160.11.136:2053
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:8443?security=tls&sni=mobilesignal-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:8443
-vless://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfy7c3.freeairlaines.com&type=ws&host=hdfy7c3.freeairlaines.com&path=%2FIfCDH2usa5hne1e&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.176:443
-vless://c7e4f8b3-6f1c-40b6-bdd9-7fdabe65821e@51.81.186.36:443?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-51.81.186.36:443
-vless://500fa635-f420-4148-ae10-5b857163d045@188.166.162.201:443?security=tls&sni=vl.kouok.us.kg&type=ws&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇩🇪 DE-188.166.162.201:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.98:443?security=tls&sni=au.ylks.xyz&type=ws&host=au.ylks.xyz&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.98:443
-vless://9927f18c-9483-4980-8a04-dcd95373dc72@104.21.55.49:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.55.49:443
-vless://40b3cad9-7d45-4adb-9478-370200da28ad@194.76.18.104:8880?security=none&type=ws&host=www.speedtest.net.i.xn--112-qze36dsg.cdn.kiava.live.&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇰🇿 KZ-194.76.18.104:8880
-vless://f2c26b94-19c2-42d8-ada9-9ba58a80f2fc@94.182.147.145:4146?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.147.145:4146
