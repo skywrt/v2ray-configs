@@ -1,3 +1,9 @@
+trojan://NISHIKUITAN222@172.67.207.210:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.207.210:443
+trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@108.162.198.165:443?sni=ssp1.100896.xyz&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.198.165:443
+trojan://auto@172.64.35.209:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.209:443
+trojan://NISHIKUITAN222@173.245.59.225:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.225:443
+trojan://Watashi_VPN@104.18.38.122:8443?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.38.122:8443
+trojan://bpb-trojan@141.101.122.113:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.122.113:443
 trojan://auto@104.20.21.20:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.20:443
 trojan://NISHIKUITAN222@190.93.247.234:443?security=tls&sni=im.ylks.xyz&type=ws&host=im.ylks.xyz&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.234:443
 trojan://bpb-trojan@104.20.47.72:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.47.72:443
@@ -492,9 +498,3 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@205.233.181.141:80?security=none&ty
 vless://8f5da459-372e-40c5-a7a7-f85f2f168be6@172.64.155.187:2082?type=ws&host=22tg.tia71p6j.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.187:2082
 vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@104.17.148.22:2086?security=none&type=ws&host=uusaa.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2086
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.217.0:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.217.0:80
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.218.134:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.218.134:80
-vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@44.245.30.99:80?security=none&type=grpc#🔒 VL-GRPC-NONE 🇺🇸 US-44.245.30.99:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.153.154:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.154:443
-vless://3dc35595-0a69-4da7-8a82-881709b9db7c@104.18.27.8:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.8:443
-vless://8ff11428-caa1-4863-94de-2f1e56281c25@79.127.70.88:443?security=none&type=tcp&host=fast.com+%40Client_Proo&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.88:443
-vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?security=tls&sni=AzAdnET-SemeJ.pAGES.dev&type=ws&host=azADNet-seMEJ.pageS.DeV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.207.92:443
