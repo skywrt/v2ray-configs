@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.153.138:443?security=tls&sni=bpb-worker-panel-5hr.pages.dev&type=ws&host=bpb-worker-panel-5hr.pages.dev&path=%3Fed%3D2919#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.138:443
 vless://6b5b33ac-6974-44a1-beca-1050507a720f@172.66.47.146:80?security=none&type=ws&host=join-daily-configs.broken-dreams.ir&path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.146:80
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
 vless://50b7fc84-85b4-4043-b1f7-6477c9017a44@172.67.161.104:443?security=tls&sni=purlitefastest.pages.dev&type=ws&host=purlitefastest.pages.dev&path=%2Fpurlitefastest.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:443
@@ -497,4 +498,3 @@ vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@172.67.141.87:8080?security=none&ty
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.205:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.205:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@190.93.246.152:8880?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.246.152:8880
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@92.243.74.115:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-92.243.74.115:80
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@198.41.223.195:443?security=tls&sni=lv.ylks01.eu.org&type=ws&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.223.195:443
