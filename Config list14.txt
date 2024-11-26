@@ -1,3 +1,9 @@
+vmess://ewogICAgImFkZCI6ICJydXNzaWEuY29tIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaXAzLjY5MjkxOTgueHl6IiwKICAgICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsCiAgICAicG9ydCI6IDIwODIsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi41LjU3LTE1OTEiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTY3LjE1IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaXAyOC42OTI5MTk4Lnh5eiIsCiAgICAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLAogICAgInBvcnQiOiAyMDgyLAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjQuMTY3LjE1LTA3NzUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJpcDI4LjY5MjkxOTgueHl6Igp9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7130
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6713
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-6796
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7236
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7176
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6844
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6593
@@ -492,9 +498,3 @@ trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us2.vpn.ong:4438/?type=tcp&securit
 trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us2.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8765%40oneclickvpnkeys
 trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us2.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8764%40oneclickvpnkeys
 trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us1.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8763%40oneclickvpnkeys
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@hk1.1.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8771%40oneclickvpnkeys
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@hk3.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8769%40oneclickvpnkeys
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@jp2.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8772%40oneclickvpnkeys
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@sgp2.vpn.ong:4438/?type=tcp&security=tls#%F0%9F%8D%8770%40oneclickvpnkeys`
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us2.vpn.ong:4438/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-trojan://86484d9e-c2ac-4d67-af6e-31dc1f98619c@us1.vpn.ong:4438/?type=tcp&security=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
