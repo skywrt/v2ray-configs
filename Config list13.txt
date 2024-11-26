@@ -1,5 +1,3 @@
-vless://500fa635-f420-4148-ae10-5b857163d045@194.164.170.244:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9952%40oneclickvpnkeys
-vless://500fa635-f420-4148-ae10-5b857163d045@78.135.110.152:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#%F0%9F%AA%9953%40oneclickvpnkeys
 vless://fba0528c-0085-4afb-83f7-e5f5ba57f3c0@78.109.193.36:45925?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?path=%2Fcurrent_time&security=tls&alpn=http%2F1.1&encryption=none&host=ahmedquran19.xyz&fp=chrome&type=ws&sni=ahmedquran19.xyz#👉🆔
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.184.179:22222?encryption=none&security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#👉🆔
@@ -498,3 +496,5 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7138
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0503
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-6588
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-6560
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-7266
