@@ -1,13 +1,3 @@
-ss://YWVzLTEyOC1nY206M2E2OTA3MDktNTAxMS00YTZjLWFiNjItZGEyZmI1MjkxMjMz@38.150.12.188:50203#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.188:50203
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:4444
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@103.117.150.85:40009#🔒 SS-TCP-NA 🇹🇭 TH-103.117.150.85:40009
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.89:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8000
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.115:7001#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.115:7001
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@142.202.49.119:7002#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.119:7002
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:9102
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#🔒 SS-TCP-NA 🇺🇸 US-23.134.94.168:3389
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:3306
 ss://YWVzLTI1Ni1nY206MDAxNWIwMjAtOTYzYi00NTBkLTkyZjktYTgzMzlkZTYzMzJj@8.138.184.224:40303#🔒 SS-TCP-NA 🇨🇳 CN-8.138.184.224:40303
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.105:443
@@ -498,3 +488,13 @@ trojan://bpb-trojan@172.64.150.145:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&t
 trojan://auto@162.159.44.169:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.169:443
 trojan://auto@108.162.195.83:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.83:443
 trojan://NISHIKUITAN111@154.211.8.126:443?#🔒 TR-TCP-NA 🇭🇰 HK-154.211.8.126:443
+trojan://Watashi_VPN@104.18.13.229:2053?security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.13.229:2053
+trojan://auto@104.20.20.23:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.20.23:443
+trojan://auto@104.16.224.104:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.224.104:443
+trojan://telegram-id-privatevpns@16.16.73.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.73.187:22222
+trojan://NISHIKUITAN222@172.67.87.79:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.87.79:443
+trojan://bpb-trojan@198.41.216.252:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.216.252:443
+trojan://auto@104.20.19.52:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.52:443
+trojan://bIa-DailY_cOnFIgs@104.17.207.36:443?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.207.36:443
+trojan://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&host=pardazeshvpn-tg18.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.106:443
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#🔒 TR-TCP-NA 🇨🇳 CN-112.3.28.12:46002
