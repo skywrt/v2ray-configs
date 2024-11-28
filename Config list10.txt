@@ -1,5 +1,3 @@
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=%2Fdnrc232%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇱🇺 LU-188.42.145.159:443
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?security=tls&sni=bypass-filter.vikzrcqt.workers.dev&type=ws&host=bypass-filter.vikzrcqt.workers.dev&path=%2F@bypass_filter%2F#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.91:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.112:443?security=tls&sni=behdasht.hrtc.ir&type=ws&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-199.232.5.112:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.159.216.111:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.216.111:80
 vless://552b5df7-252d-4ecb-818d-8e079a1ce2ad@162.159.138.178:443?security=tls&sni=pages.dev&type=ws&host=tls-9uo.pages.dev&path=%2FTelegram-%58V2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.178:443
@@ -498,3 +496,5 @@ vless://d92c0ec6-35f9-48c9-a79a-53ad515e7d39@3.77.236.216:443?security=tls&sni=1
 vless://8c4b0b1c-4cbd-493a-87ef-40b71f11ca7a@104.17.207.36:8880?security=none&type=httpupgrade&host=www.speedtest.net.soft98.ir.nobitex.com.vigilantecollection.com&path=%2FDaily_Configs%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.207.36:8880
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.21.90.210:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
 vless://13b0c901-3fbe-bb19-c6b8-89b2c314e975@188.245.95.151:9129?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.95.151:9129
+vless://3d0bb0db-383d-40e3-8f31-f261c79d4973@199.68.156.69:443?security=tls&sni=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&type=ws&host=join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.join.VPNCUSTOMIZE.www.speedtest.net.VPNCUSTOMIZE.ip-dynamic.org&path=%2FTelegram-VPNCUSTOMIZE%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-199.68.156.69:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.209.220.155:587?sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg#🔒 VL-WS-NA 🇯🇵 JP-8.209.220.155:587
