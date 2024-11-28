@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.180.50:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 vless://074a4804-1756-4688-ef3a-3a21c082bfa7@Zmaoz.Faculty.UcdavIS.Edu:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=meloch-de.com&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=Zmaoz.Faculty.UcdavIS.Edu.&type=ws#@melov2ray🇩🇪
 vless://4518635d-b925-4fa1-dc2f-3295afbd9704@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#@melov2ray🇱🇻
 vless://9cbdc595-1d8d-4443-af07-99149153d025@bdbfe0362da84218a7df.danr-piavi.info:443?path=%2Fabcdews&security=tls&encryption=none&host=bdbfe0362da84218a7df.danr-piavi.info&fp=chrome&type=ws&sni=bdbfe0362da84218a7df.danr-piavi.info#👉🆔
@@ -497,4 +498,3 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-6821
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.47:3389#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.47-1388
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7191
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7097
