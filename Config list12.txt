@@ -1,3 +1,14 @@
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-2271
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.110.1.35:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.35-1405
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-2237
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.176-0420
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-2251
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.100-0421
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0463
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.33-2302
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0431
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0464
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0454
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.46:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.46-0439
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-2301
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-2246
@@ -487,14 +498,3 @@ vmess://eyJhZGQiOiAiMi4xODkuNTkuNiIsICJhaWQiOiAwLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAi
 vless://62c52357-c3b1-4cc8-b4db-c54eb3ec2bb6@configtell.fastly80-2.hosting-ip.com:80?path=%2FConfig%54%65%6C%6C%2CConfig%54%65%6C%6C%2CConfig%54%65%6C%6C%3Fed%3D8089&host=wwW.yjc.iR&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vless://d326ab57-9e4d-4b15-bd43-d79e87fc6882@smart2.fastly80.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=holad2vpnforvip.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vmess://eyJ2IjogIjIiLCAiYWRkIjogImhtczA0LnhtaXZpZGVvLmNmZCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInhtaXZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAieG1pdmlkZW8uY2ZkIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RnJhbmNlIn0=`
-vless://bfed7c40-7878-4ee5-a8db-8b9d0c546bea@188.245.162.16:6543?security=reality&encryption=none&pbk=T80OrhSLwBQrXvbS8fh97IXOu37wRXT0ZEfVYu-FEDo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ddb79eb6fb#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://33b3cbba-e6ac-485a-9481-976a2945eab9@104.21.19.82:80?encryption=none&security=none&type=ws&host=fLat-nigHT-F3F9.jiwoxO6991.worKerS.DeV&path=%2FKHAwAhCL5HFxPH7w%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://0bf20769-5b7d-41d2-b519-9571ef16df3c@www.speedtest.net:443?encryption=none&security=tls&sni=PPaL03.DEStINee-CoRKeRy.woRkeRs.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=PPAL03.dESTINee-CORkErY.WOrKErs.DEV&path=%2F-wM-_0stlfmPeRM-%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-trojan://telegram-id-privatevpns@13.49.93.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇸🇪[openproxylist.com] trojan-SE```
-trojan://telegram-id-privatevpns@13.49.93.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden`
-vless://62ee28bd-243d-40b4-a627-3c76beb40b31@151.101.3.8:80?path=%2FPROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=tehran1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vmess://eyJ2IjogIjIiLCAiYWRkIjogImhtczE4Mi5nbHdlaWRmLnNicyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImdsd2VpZGYuc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJnbHdlaWRmLnNicyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlN1VuaXRlZCBLaW5nZG9tIn0=`
-trojan://telegram-id-directvpn@13.51.246.10:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇸🇪[openproxylist.com] trojan-SE```
-trojan://telegram-id-directvpn@3.19.210.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
-trojan://telegram-id-privatevpns@63.177.1.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.171.189:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦`
