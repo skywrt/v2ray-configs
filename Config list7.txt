@@ -1,8 +1,3 @@
-trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&type=ws&host=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.0:443
-trojan://NISHIKUITAN111@104.24.20.3:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.20.3:443
-trojan://NISHIKUITAN111@104.16.130.249:443?allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.130.249:443
-trojan://blue2024@104.16.110.37:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.110.37:443
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
 trojan://bpb-trojan@162.159.153.2:443?security=tls&sni=visa.cn&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.2:443
 trojan://telegram-id-directvpn@3.143.82.138:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.143.82.138:22222
 trojan://NISHIKUITAN111@172.64.156.42:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.156.42:443
@@ -498,3 +493,8 @@ vless://3fedbd26-b4da-440e-9f7c-004d2463caec@172.67.204.84:443?security=tls&sni=
 vless://500fa635-f420-4148-ae10-5b857163d045@85.235.145.125:2053?security=tls&sni=vl.kouok.us.kg&type=ws&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇮🇹 IT-85.235.145.125:2053
 vless://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?security=tls&sni=MoSiv2.PaGES.DeV&type=ws&host=channel-mosiv2.pages.dev&path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.169:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.212:443?security=tls&sni=da.ylks.xyz&type=ws&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.212:443
+vless://6aeba177-ee11-41c0-9d51-5136a3032deb@66.235.200.51:2053?security=tls&sni=joinchannel.buffalochest.cfd&type=ws&host=capitalnet.buffalochest.cfd&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.51:2053
+vless://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.75:443
+vless://d346da5c-ca8e-4b55-acf3-c051e37eb27f@104.17.147.22:2082?security=none&type=httpupgrade&host=AhmadMohsen.Savefrom.Net.Uk-Node.OpiranBooster.cloudflare.cOm.kaktusvps.iR.&path=%2F%3Fed%3D8880#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:2082
+vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:80?sni=napdg1000072.reneelegitimate.workers.dev&type=ws&host=napdg1000072.reneelegitimate.workers.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.98.217:80
+vless://827625b9-e06a-11ee-95c9-00505603e70d@172.67.73.241:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
