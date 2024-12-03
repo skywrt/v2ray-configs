@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@52.59.77.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
 vless://439a15a5-e1b0-4379-fb02-ac86e6fad0f4@195.201.43.13:8080?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=N1xJbYygWegPafW4UECVjpq9N-oSqpGphrWLMLK_8gM#🇩🇪[openproxylist.com] vless-DE```
 trojan://telegram-id-directvpn@35.176.77.120:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧[openproxylist.com] trojan-GB```
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-94-131-115-71.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ ss://2a943112-138b-432d-a3a5-277ea2fd8a2e@160.153.0.131:443?mode=gun&amp;securit
 ss://10221e99-bb18-4d22-87ea-daa48470d098@www.speedtest.net:8880?path=%2F%3Fed%3D2048;security=none;encryption=none;host=fr2.vlessx.xyz;type=ws#%40proxyymeliii
 ss://caaf3f43-8994-429e-885c-c27f2393df1b@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=barkatc1.ir&amp;type=ws&amp;sni=mio.splashthat.com#TLS1-Config
 ss://801e6d41-930e-4eb8-bd7d-547404198deb@185.146.173.58:8080?path=%2Fservernett&amp;security=none&amp;encryption=none&amp;host=lc83.lebasnoo.ir.&amp;type=ws#%40VMESSPROTOCOL+-+%40V2RAYPROTOCOL+%E2%9D%A4%EF%B8%8F+%F0%9F%87%B8%F0%9F%87%AA+SE-185.146.173.58%3A8080
-ss://5a84001d-87f0-4972-98bf-e836e3599b9c@web.bbv2ry.pics:443?type=ws&amp;path=%2F&amp;host=Skyy.bbv2ry.pics&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1%2Ch2&amp;sni=Skyy.bbv2ry.pics#sky-%40vpnskyy%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
