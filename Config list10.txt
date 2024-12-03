@@ -1,4 +1,3 @@
-vless://f97731fa-e077-4a5f-b635-327beb63be65@158.180.48.19:18443?security=reality&sni=www.tesla.com&type=tcp&fp=firefox&pbk=bRUCz8KaceEKnBFT5V7czJj1t0OAu_nbKnMyVfyeK1I&sid=e6658462#🔒 VL-TCP-RLT 🇩🇪 DE-158.180.48.19:18443
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.143.107:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#🔒 VL-TCP-RLT 🇺🇸 US-172.235.143.107:80
 vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&type=tcp&fp=safari&pbk=f12r3TyZUUckM-XWQ7w63kcF19eZVvWdgZqqk4ry3Ss&sid=5b6fd34e#🔒 VL-TCP-RLT 🇺🇸 US-107.172.57.21:443
 vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@65.109.174.217:2083?security=reality&flow=xtls-rprx-vision&sni=tradingveiw.com&type=tcp&fp=chrome&pbk=EMa87NDtZ_IsnOFKYZAGKz6288Fuu2IKep_dGbK0iV4&sid=5263e31933d3451c&alpn=http%2F1.1#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.174.217:2083
@@ -498,3 +497,4 @@ trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-38-151.stark-indus
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-95-164-85-39.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--5
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-94-131-115-71.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--6
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-77-91-72-197.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--7
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-185-231-206-12.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--8
