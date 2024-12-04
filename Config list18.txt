@@ -1,3 +1,4 @@
+trojan://dns68@199.68.156.69:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;host=trojan.putata.us.kg&amp;fp=randomized&amp;type=ws&amp;sni=trojan.putata.us.kg#%40kingofilter
 trojan://auto@104.21.69.44:443?path=%2F%40custom_config%3Fed%3D2560&amp;security=tls&amp;host=custom-2024.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=pAges.dEv.#%40V2ray1_Ng
 trojan://telegram-id-privatevpns@13.50.165.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S111)
 trojan://Channel-frev2ray@104.17.234.12:443?path=/Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray,Telegram,frev2ray?ed=2560&amp;security=tls&amp;host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.frev2ray.abrha.co.za&amp;type=ws&amp;sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.VPNCUSTOMIZE.abrha.co.za#Frev2ray(ALL)
