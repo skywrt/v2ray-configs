@@ -1,3 +1,4 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0411
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.150-0459
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0207
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0420
@@ -497,4 +498,3 @@ vmess://eyJhZGQiOiAiaW5kaWF2aWRlby5zYnMiLCAiYWlkIjogMCwgImhvc3QiOiAiaW5kaWF2aWRl
 vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=trojanyu.pages.dev&fp=randomized&type=ws&sni=trojanyu.pages.dev#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+V2rayng_Fast%40`
 trojan://telegram-id-privatevpns@51.20.16.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs`
 trojan://telegram-id-directvpn@13.50.82.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.137.219:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪`
