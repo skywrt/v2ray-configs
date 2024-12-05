@@ -1,20 +1,3 @@
-trojan://blue2024@104.16.178.249:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.178.249:443
-trojan://NISHIKUITAN111@104.19.247.200:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.247.200:443
-trojan://NISHIKUITAN111@185.193.29.193:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.29.193:443
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
-trojan://NISHIKUITAN111@104.26.2.143:443?allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.2.143:443
-trojan://NISHIKUITAN111@104.24.250.232:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.250.232:443
-trojan://NISHIKUITAN111@172.64.156.42:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.156.42:443
-trojan://NISHIKUITAN111@94.242.229.134:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇱🇺 LU-94.242.229.134:443
-trojan://bpb-trojan@172.67.24.134:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.24.134:443
-trojan://tg-dns68@162.159.152.11:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.11:443
-trojan://bpb-trojan@162.159.153.208:443?security=tls&sni=bpbpanel.ac.cn.eu.org&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.208:443
-trojan://blue2024@104.17.250.47:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.250.47:443
-trojan://auto@172.66.47.150:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.150:8443
-trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.204.84:8443?security=tls&sni=vfarid.xcdi.woRkers.DeV&type=ws&host=vfarid.xcdi.woRkers.DeV#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
-trojan://NISHIKUITAN111@104.25.80.35:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.80.35:443
-trojan://NISHIKUITAN111@104.24.184.159:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.184.159:443
-trojan://telegram-id-directvpn@13.39.228.172:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.228.172:22222
 trojan://NISHIKUITAN111@104.20.84.240:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.84.240:443
 trojan://NISHIKUITAN111@104.25.172.87:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.172.87:443
 trojan://blue2024@104.16.254.101:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.254.101:443
@@ -498,3 +481,20 @@ trojan://NISHIKUITAN111@104.24.242.244:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.
 trojan://blue2024@104.27.55.88:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.55.88:443
 trojan://blue2024@190.93.246.21:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.246.21:443
 trojan://NISHIKUITAN111@104.17.80.82:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.80.82:443
+trojan://NISHIKUITAN111@104.17.255.213:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.255.213:443
+trojan://NISHIKUITAN111@185.148.107.67:443?#🔒 TR-TCP-NA 🇷🇺 RU-185.148.107.67:443
+trojan://NISHIKUITAN111@104.16.218.64:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.218.64:443
+trojan://NISHIKUITAN111@164.38.155.246:443?#🔒 TR-TCP-NA 🇬🇧 GB-164.38.155.246:443
+trojan://blue2024@104.16.253.211:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.253.211:443
+trojan://blue2024@190.93.247.138:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.247.138:443
+trojan://blue2024@104.18.84.67:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.84.67:443
+trojan://Telegram-DailyConfigs@104.18.3.11:2096?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.3.11:2096
+trojan://Telegram-frev2ray@104.17.234.12:443?security=tls&sni=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.frev2ray.abrha.co.za&type=ws&host=1.2.3.4.5.6.7.8.9.10.www.speedtest.net.frev2ray.abrha.co.za#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.234.12:443
+trojan://telegram-id-privatevpns@16.171.229.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.171.229.45:22222
+trojan://blue2024@104.18.187.171:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.187.171:443
+trojan://NISHIKUITAN111@104.21.94.36:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.94.36:443
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
+trojan://telegram-id-directvpn@18.169.114.140:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.114.140:22222
+trojan://bpb-trojan@172.67.130.194:443?security=tls&sni=bpb.my79801.com&type=ws&path=/tr?ed%3D2560&fp=randomized&alpn=h3#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.130.194:443
+trojan://NISHIKUITAN111@104.25.99.96:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.99.96:443
+trojan://bpb-trojan@104.24.206.177:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.206.177:443
