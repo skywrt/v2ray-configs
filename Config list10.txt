@@ -1,3 +1,12 @@
+vless://62357561-a129-4b9e-9614-ce2578020866@14.38.253.135:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-14.38.253.135:50000
+vless://62357561-a129-4b9e-9614-ce2578020866@61.74.55.112:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-61.74.55.112:50000
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.211:443?security=tls&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.211:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.104.0:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-52.47.104.0:22222
+vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@172.67.79.93:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.93:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.194.21:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.21:443
+vless://a5542579-59e9-4bd3-8d93-eb609f83e19b@172.66.208.0:443?security=tls&sni=ARiAMeHr-eYQ.PAGeS.deV&type=ws&host=ARiAMeHr-eYQ.PAGeS.deV&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.208.0:443
+vless://62357561-a129-4b9e-9614-ce2578020866@27.50.49.154:2083?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.154:2083
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.144.197.111:443?security=tls&sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&path=%3Fed%3D2744#🔒 VL-WS-TLS 🇳🇱 NL-141.144.197.111:443
 vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.39:443
 vless://62357561-a129-4b9e-9614-ce2578020866@154.21.91.168:11090?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-154.21.91.168:11090
 vless://ff044ba5-fe79-4752-8ed1-8487ef9b9558@104.18.1.84:443?security=tls&sni=woo.gadovex300.workers.dev&type=ws&host=woo.gadovex300.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.84:443
@@ -489,12 +498,3 @@ trojan://telegram-id-privatevpns@15.236.108.80:22222?security=tls&type=tcp&sni=t
 trojan://blue2024@104.27.65.15:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A510
 trojan://telegram-id-directvpn@3.74.128.63:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A511
 trojan://blue2024@104.19.253.28:443?sni=td.promote.icu#%E6%9C%AA%E7%9F%A512
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#US6%201.9MB%2Fs
-trojan://blue2024@104.17.71.89:443?sni=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A513
-trojan://trojan@104.18.4.250:2053?security=tls&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=/?ed=2560&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E6%9C%AA%E7%9F%A514
-ss://YWVzLTI1Ni1nY206YjEyMzYwZjQtMzNiYS00YzliLWFlMGMtM2RhNWY4YzZlZDA1@45.142.246.232:19994#%E6%9C%AA%E7%9F%A515
-trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz#US7%2011.7MB%2Fs
-trojan://5495ebe2-dc52-4cb4-8f25-2a13877183e6@185.146.173.32:443?security=tls&type=ws&sni=de1.trojanvpn.xyz&path=/&host=de1.trojanvpn.xyz#%E6%9C%AA%E7%9F%A516
-trojan://NISHIKUITAN111@104.18.255.98:443?#%E6%9C%AA%E7%9F%A517
-trojan://NISHIKUITAN111@104.23.132.150:443?#%E6%9C%AA%E7%9F%A518
-trojan://NISHIKUITAN111@104.17.13.218:443?#%E6%9C%AA%E7%9F%A519
