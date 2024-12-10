@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-8418
+vmess://ewogICAgImFkZCI6ICIxMDQuMjYuMC4xOTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJtMS4xMDY3NzgueHl6IiwKICAgICJpZCI6ICI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yNi4wLjE5NC0yNDk4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7897
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-8555
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-8397
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-8586
@@ -495,6 +498,3 @@ vless://723f44b5-1de6-4b92-9a8e-53850db809f0@ultrapoddafree.techsonicpremium.sho
 vless://723f44b5-1de6-4b92-9a8e-53850db809f0@ultrapoddafree.techsonicpremium.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
 vless://bd18f0d3-4fe8-4632-999d-6e167352dbf1@ultrapoddafree.techsonicpremium.shop:28266?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=abs.twimg.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
 vless://bd18f0d3-4fe8-4632-999d-6e167352dbf1@ultrapoddafree.techsonicpremium.shop:28266?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=viber.im#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
-vless://723f44b5-1de6-4b92-9a8e-53850db809f0@ultrapoddafree.techsonicpremium.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
-vless://0ee351f5-b9e7-482b-bf1e-873507f09fdc@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore`
-vless://d872a387-b8e9-4e94-ba95-df5ce7aca552@140.248.189.52:443?security=tls&encryption=none&host=Channel.E-L-i-V-2-R-A-Y.io&fp=qq&type=ws&sni=Channel.E-L-i-V-2-R-A-Y.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
