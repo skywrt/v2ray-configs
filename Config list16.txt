@@ -1,3 +1,5 @@
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI0OTc4MyIsInR5cGUiOiJub25lIiwiaWQiOiI5YWU3ZGFlZi0wODc2LTQzMDUtODkwYy04OWRkYzcwMWE0YmIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=```
+vless://ab51af2e-2819-480e-afaf-b682c82dc63f@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://ba8e61f0-095b-4361-9dc2-b5e5390a71c4@5.182.87.141:443?security=reality&flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&sid=05a6d4aa5e314637&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fyoulingkaishi#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green:49089?allowInsecure=1&sni=jp12.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong`
@@ -496,5 +498,3 @@ trojan://telegram-id-privatevpns@13.36.134.238:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.36.134.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France`
 trojan://telegram-id-directvpn@108.128.174.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
 trojan://telegram-id-directvpn@108.128.174.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland`
-vless://f59d66a0-6daf-4da6-8ab4-094a6991334c@hkakk.cloudflare.182682.xyz:443?path=%2Ff59d66a0-6daf-4da6-8ab4-094a6991334c&security=tls&encryption=none&host=hkak.111677.xyz&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-trojan://telegram-id-privatevpns@3.9.161.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧[openproxylist.com] trojan-GB```
