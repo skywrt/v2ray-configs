@@ -1,3 +1,10 @@
+ss://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-94-131-115-71.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--6
+ss://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-77-91-72-197.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--7
+ss://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-185-231-206-12.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#All-%40V2ray_Alpha--8
+ss://d17bc275-a17b-4d41-9f52-879f6619ac2b@188.245.90.214:1633?security=reality&encryption=none&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=9bc0a55a5379c0ed#All-%40V2ray_Alpha--9
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=%2F4u7lAS4nPLtz0xPz%3Fed%3D2560&security=none&encryption=none&host=samane.ir&type=ws#All-%40V2ray_Alpha--10
+ss://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2047&security=tls&encryption=none&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev#All-%40V2ray_Alpha--11
+ss://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=sB-1u6.Pages.DEV&fp=chrome&type=ws&sni=sB-1u6.Pages.DEV#All-%40V2ray_Alpha--12
 ss://3df56fd0-d1b7-4793-b877-acd356d960f3@172.66.44.56:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=aestingdownloadupload.pages.dev&fp=randomized&type=ws&sni=pages.dev#All-%40V2ray_Alpha--13
 ss://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=4cbba020.fastpurnet3.pages.dev&fp=randomized&type=ws&sni=4cbba020.fastpurnet3.pages.dev#All-%40V2ray_Alpha--14
 ss://ec9406f9-3fc6-442d-b9f6-90c59b64eff2@www.speedtest.net:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jobinja.pages.dev&fp=firefox&type=ws&sni=pages.dev#All-%40V2ray_Alpha--15
@@ -491,10 +498,3 @@ vmess://eyJhZGQiOiAiMzguOTkuODIuMjUzIiwgImFpZCI6IDAsICJob3N0IjogImdvb2dsZS5jb20i
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@193.9.49.203:443?path=%2Fvbba.ylks2024.us.kg&security=tls&encryption=none&host=vbbd.ylks2024.us.kg&type=ws&sni=vbbd.ylks2024.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.33.45:443?security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
 vless://96bb4985-ef9a-45dd-9127-386516c64169@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-vless://28a5128c-34f7-5539-9b0c-466f95dc6301@104.21.12.82:2083?security=tls&sni=apihs.ysrdvukp.WOrKErS.dEv&type=ws&host=apihs.ysrdvukp.WOrKErS.dEv&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#@Hope_Net-join-us-on-Telegram`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.171.111:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷`
-vless://1122c9ce-cf1f-4039-a857-04a3f9e642d5@tnlns1.sayacorp.ir:8081?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
-vless://1122c9ce-cf1f-4039-a857-04a3f9e642d5@tgrns1.sayacorp.ir:8080?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
-vless://1122c9ce-cf1f-4039-a857-04a3f9e642d5@tenns1.sayacorp.ir:3389?encryption=none&security=none&type=ws&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran`
-vless://60950ba3-f03c-4364-b8ef-9913e525e337@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica`
-vless://60950ba3-f03c-4364-b8ef-9913e525e337@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica`
