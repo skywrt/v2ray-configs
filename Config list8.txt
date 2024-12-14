@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@104.18.149.198:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.149.198:443
+trojan://blue2024@104.17.61.90:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.90:443
+trojan://auto@104.21.88.153:443?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.88.153:443
 trojan://blue2024@104.27.125.51:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-104.27.125.51:443
 trojan://blue2024@104.18.138.78:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.138.78:443
 trojan://blue2024@104.18.124.7:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.124.7:443
@@ -495,6 +498,3 @@ trojan://bpb-trojan@162.159.153.229:443?security=tls&sni=cf.090227.xyz&type=tcp#
 trojan://blue2024@92.60.74.73:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🇸🇮 SI-92.60.74.73:443
 trojan://blue2024@104.16.252.52:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.252.52:443
 trojan://blue2024@104.21.97.119:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.97.119:443
-trojan://blue2024@162.159.44.159:443?security=tls&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.159:443
-trojan://blue2024@104.17.1.234:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.1.234:443
-trojan://blue2024@108.162.198.6:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.198.6:443
