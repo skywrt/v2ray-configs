@@ -1,3 +1,10 @@
+trojan://bpb-trojan@104.17.152.243:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.152.243:443
+trojan://blue2024@104.20.18.41:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.18.41:443
+trojan://blue2024@104.18.123.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.123.217:443
+trojan://blue2024@172.67.21.93:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.21.93:443
+trojan://blue2024@188.164.248.160:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇳🇱 NL-188.164.248.160:443
+trojan://blue2024@173.245.58.233:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.58.233:443
+trojan://NISHIKUITAN111@141.101.123.61:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.123.61:443
 trojan://blue2024@172.64.90.183:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.90.183:443
 trojan://bpb-trojan@104.17.133.64:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.133.64:443
 trojan://blue2024@104.21.97.149:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.97.149:443
@@ -491,10 +498,3 @@ trojan://NISHIKUITAN111@104.17.126.7:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17
 trojan://blue2024@104.16.72.34:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.72.34:443
 trojan://blue2024@172.64.35.192:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.192:443
 trojan://bpb-trojan@173.245.59.182:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.182:443
-trojan://NISHIKUITAN111@198.41.205.240:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.205.240:443
-trojan://blue2024@104.16.20.118:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.20.118:443
-trojan://NISHIKUITAN111@104.24.130.166:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.130.166:443
-trojan://NISHIKUITAN111@172.64.94.244:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.94.244:443
-trojan://blue2024@104.24.129.215:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.129.215:443
-trojan://blue2024@162.159.44.135:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.135:443
-trojan://NISHIKUITAN111@104.25.80.35:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.80.35:443
