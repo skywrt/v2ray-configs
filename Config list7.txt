@@ -27,33 +27,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplcGhUUW1rZUZvcFFuN2w2UEZuanM1@51.120.12.115:
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.101:8008
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8881#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.69:8881
 ss://bm9uZTphY2FjYWJiLWFhYmMtYmFjYS1jYWRiLWFhY2JiY2JiYWNhYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@hgc.node-is.green:48777?sni=hk12.bilibili.com#%E9%A6%99%E6%B8%AF+%E7%8E%AF%E7%90%83%E5%85%A8%E5%9F%9F%E7%94%B5%E8%AE%AF%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E8%8A%82%E7%82%B9
-vmess://eyJhZGQiOiAic2hzLnhpYW9xaTY2Ni54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiM2ZkN2I5NTgtMjE2MS00NmUxLWI2ZmMtYmQ2YmIyMTY1MzEyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNocy54aWFvcWk2NjYueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://telegram-id-directvpn@99.79.139.54:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E5%8A%A0%E6%8B%BF%E5%A4%A7+%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU1MzcwXHU1ZWE2IFYyQ1JPU1MuQ09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://telegram-id-privatevpns@34.252.77.244:22222?security=tls&sni=trojan.burgerip.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5N2U5XHU1NmZkIEtUXHU3NTM1XHU0ZmUxIiwgImFkZCI6ICJzaS4xODA4LnNpdGUiLCAicG9ydCI6ICIzMDAwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZDNkOGI3ODEtZjMwZC00OTAyLThlYjAtNThiMWNhOTM2YmVjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9oZ3FxdndzIiwgImhvc3QiOiAiY2MyLjE4MDguc2l0ZSIsICJ0bHMiOiAidGxzIn0=
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@d0d104f4fa78cb0e2726e085b1ef4ed4.v1.cac.node-is.green:47249?sni=ca1.bilibili.com#%E7%BE%8E%E5%9B%BD+%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E5%B8%82BellSouth%E5%85%AC%E5%8F%B8
-trojan://telegram-id-privatevpns@51.24.53.35:22222?security=tls&sni=trojan.burgerip.co.uk#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-trojan://QwwHvrnN@36.151.192.203:25241?#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNQjlKUENIZ1p0d3pRWjJqeTNnTXJ6MmZDSWpUNk00RkpNYmZlbUljNFhDQmNwbEw=@74.119.193.157:51348#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://telegram-id-directvpn@63.34.34.0:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3.9.99.158:443#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://telegram-id-directvpn@18.168.181.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@hgc.node-is.green:46758?sni=hk12.bilibili.com#%E9%A6%99%E6%B8%AF+%E7%8E%AF%E7%90%83%E5%85%A8%E5%9F%9F%E7%94%B5%E8%AE%AF%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E8%8A%82%E7%82%B9
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:48777?sni=hk12.bilibili.com#%E9%A6%99%E6%B8%AF+%E7%8E%AF%E7%90%83%E5%85%A8%E5%9F%9F%E7%94%B5%E8%AE%AF%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E8%8A%82%E7%82%B9
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?security=tls&sni=std1.loadingip.com&type=tcp&allowInsecure=1#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+V2CROSS.COM
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eeaa7ed9a53f5bb5260e79cd2bbd9823.v1.cac.node-is.green:49905?sni=de1.bilibili.com#%E7%BE%8E%E5%9B%BD+%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E5%B8%82BellSouth%E5%85%AC%E5%8F%B8
-trojan://QwwHvrnN@36.151.192.198:31071?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#%E9%A6%99%E6%B8%AF+%E7%8E%AF%E7%90%83%E5%85%A8%E5%9F%9F%E7%94%B5%E8%AE%AF%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E8%8A%82%E7%82%B9
-vmess://eyJhZGQiOiAiMi4xODkuNTkuMiIsICJ2IjogIjIiLCAicHMiOiAiXHU0ZjBhXHU2NzE3IFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFx1NmNkNVx1NTZmZFx1OGJhMVx1N2I5N1x1NjczYVx1NzlkMVx1NWI2Nlx1NTkyN1x1NWI2NiIsICJhZGQiOiAiaXJ2aWRlby5jZmQiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAidGxzIjogInRscyJ9
-trojan://telegram-id-directvpn@13.53.100.126:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%91%9E%E5%85%B8+%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiMTA0LjIxLjg5LjIxOSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICIzZmQ3Yjk1OC0yMTYxLTQ2ZTEtYjZmYy1iZDZiYjIxNjUzMTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic2hzLnhpYW9xaTY2Ni54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:48169#%E9%A6%99%E6%B8%AF+%E7%8E%AF%E7%90%83%E5%85%A8%E5%9F%9F%E7%94%B5%E8%AE%AF%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E8%8A%82%E7%82%B9
-vmess://eyJhZGQiOiAiZ29zdC5jbG91ZGZsYXJlLjE4MjY4Mi54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4MCwgImlkIjogImFhNmRkZDJmLWQxY2YtNGE1Mi1iYTFiLTI2NDBjNDFhNzg1NiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJnb3N0Lm5haXVuY2xpZW50LnRvcCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 trojan://cabaabc-aacb-acba-bcad-ccacacbaabbb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SAT-24-AZAR-1403 🕑 03:13
 trojan://dns68@66.179.48.88:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-66.179.48.88:443
 trojan://auto@104.20.18.119:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.119:443
@@ -498,3 +471,30 @@ trojan://blue2024@104.18.118.73:443?security=tls&sni=ta.promote.icu&type=ws&host
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
 trojan://telegram-id-privatevpns@51.24.53.35:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-51.24.53.35:22222
 trojan://blue2024@104.17.61.90:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.90:443
+trojan://bpb-trojan@104.16.150.188:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.150.188:443
+trojan://NISHIKUITAN111@181.214.1.7:443?#🔒 TR-TCP-NA 🇦🇪 AE-181.214.1.7:443
+trojan://blue2024@160.153.0.167:443?sni=b.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-160.153.0.167:443
+trojan://NISHIKUITAN222@173.245.59.61:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.61:443
+trojan://blue2024@104.25.77.73:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.77.73:443
+trojan://NISHIKUITAN111@104.18.198.40:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.198.40:443
+trojan://blue2024@104.19.214.179:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.214.179:443
+trojan://blue2024@146.19.21.106:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇱🇹 LT-146.19.21.106:443
+trojan://NISHIKUITAN111@185.148.106.140:443?#🔒 TR-TCP-NA 🇺🇸 US-185.148.106.140:443
+trojan://blue2024@108.162.196.53:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-108.162.196.53:443
+trojan://blue2024@46.254.92.32:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇷🇺 RU-46.254.92.32:443
+trojan://blue2024@104.16.219.82:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.219.82:443
+trojan://blue2024@92.53.188.162:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇸🇮 SI-92.53.188.162:443
+trojan://NISHIKUITAN111@104.24.14.219:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.14.219:443
+trojan://NISHIKUITAN111@190.93.245.10:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.10:443
+trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&sni=pardazeshvpn-tg48.pages.dev&type=ws&host=pardazeshvpn-tg48.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.190.131:8443
+trojan://blue2024@104.18.139.97:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.139.97:443
+trojan://blue2024@162.159.44.83:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.44.83:443
+trojan://NISHIKUITAN111@204.93.210.216:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-204.93.210.216:443
+trojan://bpb-trojan@104.18.86.204:443?security=tls&sni=102.djR999998.Eu.orG&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.86.204:443
+trojan://blue2024@104.24.129.215:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.129.215:443
+trojan://telegram-id-privatevpns@34.252.77.244:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.252.77.244:22222
+trojan://blue2024@104.25.94.47:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.94.47:443
+trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
+trojan://NISHIKUITAN111@31.22.116.151:443?#🔒 TR-TCP-NA 🇬🇧 GB-31.22.116.151:443
+trojan://blue2024@172.64.48.88:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.48.88:443
+trojan://bpb-trojan@185.238.228.210:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🇪🇸 ES-185.238.228.210:443
