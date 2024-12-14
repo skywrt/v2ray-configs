@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.146.241:443?security=tls&sni=ppal03.YeYESiB146.WoRKERS.DEv&type=ws&host=ppaL03.YEYesIB146.WorkERs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.241:443
 vless://4f073a8d-28e0-4dc3-94e8-57bb333cbe91@172.67.144.39:443?security=tls&sni=yelt88rxdan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Ffr-freevmess.privateip.net&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.39:443
 vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@172.67.181.89:443?security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.181.89:443
 vless://fb0f7523-be20-4a7c-ad71-9eccd93f960d@146.75.0.88:80?security=none&type=ws#🔒 VL-WS-NONE 🇧🇬 BG-146.75.0.88:80
@@ -497,4 +498,3 @@ vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?security=none&ty
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.159.218.23:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.23:443
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@92.223.124.62:443?security=tls&sni=gcore.lu&type=ws&host=9.gcr.dns04.com&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-92.223.124.62:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.213.62.199:39584?sni=v2.yunchun.top&type=ws&host=v2.yunchun.top&allowInsecure=0#🔒 VL-WS-NA 🇭🇰 HK-185.213.62.199:39584
-vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.76:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#🔒 VL-GRPC-TLS 🇩🇪 DE-185.135.9.76:8443
