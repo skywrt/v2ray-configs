@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0473
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0444
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0446
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0507
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0486
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0455
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0454
@@ -498,3 +494,7 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@132.145.54.84:8443?path=%2Fylks&sec
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@144.24.20.92:8443?path=%2Fylks&security=tls&encryption=none&host=vs1.ylks2024.us.kg&type=ws&sni=vs1.ylks2024.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
 vmess://eyJhZGQiOiAiNDcuMTA0LjE4Ni4xMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTAwMDIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NoaW5hIn0=`
 trojan://blue2024@5.182.85.129:443?path=%2F%3Fed&security=tls&host=tb.promote.icu&type=ws&sni=b.promote.icu#👉🆔 @v2ray_configs_pool📡🇷🇺Russia`
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.64.86:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇩🇪[openproxylist.com] vless-DE```
+vless://40e3825f-0693-481d-adc9-25dea0a562d6@188.34.160.30:1620?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.167.59.36:47249?security=tls&sni=ca1.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong`
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.133.137:45181?sni=de1.bilibili.com#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong`
