@@ -1,8 +1,3 @@
-trojan://NISHIKUITAN111@104.24.130.166:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.130.166:443
-trojan://NISHIKUITAN111@104.25.235.46:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.235.46:443
-trojan://blue2024@104.17.147.167:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.167:443
-trojan://blue2024@172.64.35.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.217:443
-trojan://blue2024@104.24.21.220:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.21.220:443
 trojan://bpb-trojan@188.114.98.89:443?security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev&type=ws&host=bpB-woRker-PanEL-AY6.pagEs.dev&path=%2FtrBLUKS93cpgZZCas5%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.98.89:443
 trojan://blue2024@104.18.124.7:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.124.7:443
 trojan://NISHIKUITAN111@104.16.160.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.160.38:443
@@ -498,3 +493,8 @@ trojan://blue2024@104.16.81.105:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#�
 trojan://blue2024@108.162.195.194:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.194:443
 trojan://MxJf4oM9fRzrnL9hKpHAUw@104.19.211.18:443?security=tls&sni=fcgerman.nimaempire.cfd&type=ws&host=fcgerman.nimaempire.cfd&path=%2Ftws&fp=firefox#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.211.18:443
 trojan://blue2024@104.18.211.40:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.211.40:443
+trojan://blue2024@172.64.35.202:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.202:443
+trojan://blue2024@104.27.207.92:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.207.92:443
+trojan://NISHIKUITAN111@162.159.15.30:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.15.30:443
+trojan://bpb-trojan@104.18.34.21:2053?security=tls&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&fp=randomized&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:2053
+trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.22.138:443
