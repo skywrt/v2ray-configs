@@ -497,4 +497,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-0514
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0567
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-0459
-vless://d1c2d719-bf88-440e-a791-3e2776e65c5c@www.speedtest.net:8880?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F&security=none&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.26.9.156:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
