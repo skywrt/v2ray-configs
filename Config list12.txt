@@ -1,3 +1,5 @@
+vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.222.79:443?security=tls&sni=8c642853280449b2abed.voso-ahadi.info&type=ws&host=8c642853280449b2abed.voso-ahadi.info&path=%2FvaBD2FDws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:443
+vless://575543f3-f08e-426d-9230-1ddca047de30@188.245.60.248:2020?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.60.248:2020
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.237.99:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.237.99:443
 vless://ace09674-e938-438b-bc61-454b8b13692d@87.248.152.25:35001?security=none&type=grpc&serviceName=👨‍🚀Free👨‍🚀&host=aparat.com#🔒 VL-GRPC-NONE 🇮🇷 IR-87.248.152.25:35001
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@27.50.49.209:2087?security=tls&sni=123.drmIng.bUzz&type=ws&host=123.drming.buzz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.209:2087
@@ -496,5 +498,3 @@ vless://98de2525-fa3f-4d4d-adfc-393e1a605dcb@162.159.153.4:8080?sni=4322B5E3-biT
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.170:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.170:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.148:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.148:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.51:443?security=tls&sni=PPAL03.GeBEM58789.wORkERS.DEV&type=ws&host=pPAL03.GeBeM58789.wORkErs.DEv&path=%2FmPr9YicUeRQeCHRj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.51:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.241.198.167:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇷🇺 RU-213.241.198.167:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-199.232.12.41:443
