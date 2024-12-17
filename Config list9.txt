@@ -1,3 +1,7 @@
+trojan://blue2024@164.38.155.188:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇬🇧 GB-164.38.155.188:443
+trojan://NISHIKUITAN111@104.25.221.170:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.221.170:443
+trojan://NISHIKUITAN111@104.36.195.61:443?#🔒 TR-TCP-NA 🇺🇸 US-104.36.195.61:443
+trojan://blue2024@104.16.94.226:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.94.226:443
 trojan://NISHIKUITAN111@104.16.80.174:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.80.174:443
 trojan://NISHIKUITAN111@104.16.160.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.160.38:443
 trojan://blue2024@172.67.75.172:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.75.172:443
@@ -494,7 +498,3 @@ vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@217.182.105.238:2030?security=reali
 vless://bf7a042a-544c-46d2-b4d7-2965ce61f082@188.245.225.218:3233?security=reality&sni=www.cdn77.com&type=grpc&serviceName=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config&fp=chrome&pbk=cj94tgjXDkgM-h1YbsI6sr1azoQZ6YRK1WqpM5WJNUw#🔒 VL-GRPC-RLT 🇩🇪 DE-188.245.225.218:3233
 vless://801fe3b2-d716-4d64-908d-6a05fa5c49b9@176.97.70.43:443?security=reality&sni=github.githubassets.com&type=tcp&fp=chrome&pbk=MrRkN1igtfFrRAuezc93ZKZN3Dl4pHUS30XzTBOT6G0&sid=0000000000000000#🔒 VL-TCP-RLT 🇯🇵 JP-176.97.70.43:443
 vless://cbb01d17-eeee-4394-a882-d6105c509be6@5.34.215.213:5444?security=reality&flow=xtls-rprx-vision&sni=www.veesp.com&type=tcp&fp=chrome&pbk=r_t2d8_5K7RXA5StksoQxS_Zd9VWoHI0uwEoiK8T8Gs&sid=c3d5#🔒 VL-TCP-RLT 🇱🇻 LV-5.34.215.213:5444
-vless://2dea188a-82d4-49ca-8538-b8d5f076ab91@51.158.241.51:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=RaNQIPwfe3N1-BhJ7WKLO90aYcu46xeCJZiFYAbyFWs&sid=42#🔒 VL-TCP-RLT 🇫🇷 FR-51.158.241.51:443
-vless://801fe3b2-d716-4d64-908d-6a05fa5c49b9@38.180.137.47:443?security=reality&sni=cdn.cohesionapps.com&type=tcp&fp=chrome&pbk=MrRkN1igtfFrRAuezc93ZKZN3Dl4pHUS30XzTBOT6G0&sid=0000000000000000#🔒 VL-TCP-RLT 🇺🇸 US-38.180.137.47:443
-vless://c26cc672-e336-4bbb-abbd-481f94f0efd9@81.19.141.149:2093?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=RCJrxssGE3akICKN-Z6bVSCyi5vlX0U8VzxxCG7eAwU#🔒 VL-TCP-RLT 🇩🇪 DE-81.19.141.149:2093
-vless://cbaacba-aacb-cbaa-badc-baccbacbaabc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
