@@ -1,3 +1,4 @@
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.21.89.247:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.247:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@146.19.21.64:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇱🇹 LT-146.19.21.64:443
 vless://b9dad5ed-74da-4a43-8145-90d06df1f890@3.113.64.82:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-3.113.64.82:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.56:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.56:443
@@ -497,4 +498,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@170.114.46.216:443?security=tls&sni
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.227:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.227:443
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.112.176:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.112.176:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.15:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.15:443
-vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@104.20.19.10:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.10:8443

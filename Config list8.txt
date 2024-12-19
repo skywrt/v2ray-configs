@@ -1,3 +1,4 @@
+trojan://blue2024@162.159.152.49:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.152.49:443
 trojan://NISHIKUITAN111@162.120.94.3:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-162.120.94.3:443
 trojan://blue2024@104.26.6.125:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.125:443
 trojan://NISHIKUITAN111@45.159.218.249:443?#🔒 TR-TCP-NA 🇺🇸 US-45.159.218.249:443
@@ -497,4 +498,3 @@ trojan://blue2024@104.16.160.4:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠�
 trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@43.198.107.166:40091?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-43.198.107.166:40091
 trojan://blue2024@94.242.229.41:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🇱🇺 LU-94.242.229.41:443
 trojan://NISHIKUITAN111@141.101.113.229:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.113.229:443
-trojan://NISHIKUITAN111@77.75.199.86:443?sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//&allowInsecure=1#🔒 TR-WS-NA 🇬🇧 GB-77.75.199.86:443

@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@141.101.122.9:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.122.9:443
 trojan://auto@104.17.148.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
 trojan://auto@104.21.69.44:443?security=tls&sni=pAges.dEv.&type=ws&host=deploy-14030911.pages.dev&path=%2F%40custom_config%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:443
 trojan://bpb-trojan@172.66.44.53:2053?security=tls&sni=gozaRGAh-eIM.PaGES.dEV&type=ws&host=gozargah-eim.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.53:2053
@@ -497,4 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.114:443?security=tls&sni
 vless://3a0a4644-5dc3-40c9-90b7-c0dc0f883bdb@104.21.6.233:443?security=tls&sni=tEL-pPAL03.MaRLEne-tOWnE.wORKers.DEV&type=ws&host=Tel-PPaL03.MarLeNE-ToWNe.WoRKErS.Dev&path=%2FCwpia4xOkyZLh0-4%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.6.233:443
 vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?security=tls&sni=vkvd127.mycdn.me&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇩🇪 DE-82.165.77.122:2083
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.75.199.68:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇬🇧 GB-77.75.199.68:443
-vless://62357561-a129-4b9e-9614-ce2578020866@14.55.158.171:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-14.55.158.171:50000
