@@ -1,5 +1,3 @@
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#IR-%40V2ray_Alpha-17
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#IR-%40V2ray_Alpha-18
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.177.196:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001178.sec22org.com#IR-%40V2ray_Alpha-19
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#IR-%40V2ray_Alpha-20
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#IR-%40V2ray_Alpha-21♾نامحدود
@@ -498,3 +496,5 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:5600#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.87:6697#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-5406
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-5996
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.122-6233
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.120:5003#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-5932
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.218:8080#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.218-0543
