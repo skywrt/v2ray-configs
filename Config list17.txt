@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.87:8119#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-6195
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.103:6697#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.103-6014
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.108:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.108-5503
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:5601#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.203-5952
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8009#%F0%9F%87%BA%F0%9F%87%B8US-67.220.95.102-6314
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#%F0%9F%87%BA%F0%9F%87%B8US-67.220.95.102-6384
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.120:7001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-6425
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.103:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.103-6022
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.87:9102#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-6152
@@ -492,9 +498,3 @@ trojan://telegram-id-privatevpns@3.74.182.106:22222?security=tls&alpn=http/1.1&h
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjE3Ni4zMi4zMy4xMjQiLCJwb3J0IjoiNDc1NDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiN2VhZWZkZDEtNjIxMC00ODM3LThjZTUtM2FjMmM0ZjM5MWUwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9```
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjE3Ni4zMi4zMy43MyIsInBvcnQiOiI0NzU0NSIsInR5cGUiOiJub25lIiwiaWQiOiJkMTUwZTVjMS0xMWE0LTQ3MzctODZmNi1hZWVmZGU1YWNjNjIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=```
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjE3Ni4zMi4zMy4xMjQiLCJwb3J0IjoiNDc1NDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiMmI5MmQ3ZjYtZjU2NC00ZjczLTkwMGMtZTA3OWQ4Y2JmMzQ3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9```
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI0NzU0NSIsInR5cGUiOiJub25lIiwiaWQiOiJhZjA2ZTc1Zi03NTExLTQ0NDQtOTFiYi1lZTYwMzIyMTkzZWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=```
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.161.26:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷`
-trojan://telegram-id-directvpn@35.179.52.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
-trojan://telegram-id-privatevpns@15.237.77.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs`
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjE3Ni4zMi4zMy43MyIsInBvcnQiOiI0NzU0NSIsInR5cGUiOiJub25lIiwiaWQiOiJkODg2ZmM0NS0xYmE0LTQxZjktOTMyYS1jYjY0MjRhMTNkOTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=```
-trojan://telegram-id-privatevpns@35.179.248.16:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧[openproxylist.com] trojan-GB```
