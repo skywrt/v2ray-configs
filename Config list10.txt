@@ -1,4 +1,3 @@
-trojan://bpb-trojan@172.66.47.128:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.66.47.128:443
 trojan://blue2024@104.17.28.100:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.28.100:443
 trojan://bpb-trojan@185.174.138.239:443?sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#🔒 TR-WS-NA 🇷🇺 RU-185.174.138.239:443
 trojan://NISHIKUITAN111@154.92.9.71:443?#🔒 TR-TCP-NA 🇨🇾 CY-154.92.9.71:443
@@ -498,3 +497,4 @@ vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.208.111:80?type=ws#🔒 VL-W
 vless://48b94941-d602-11ee-aaa8-00505603e70d@104.21.82.17:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443
 vless://13fa0037-5480-446b-8885-714e424677fb@104.16.145.82:80?security=none&type=ws&host=black-wind-7f73lb.jewefe6869.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.145.82:80
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.66.44.221:2096?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.221:2096
+vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@188.114.97.3:80?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:80
