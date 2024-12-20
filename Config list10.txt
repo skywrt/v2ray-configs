@@ -1,22 +1,3 @@
-trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443?security=tls&sni=is2.trojanvpn.xyz&type=ws&host=is2.trojanvpn.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.155:443
-trojan://auto@104.20.18.34:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.34:443
-trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.152.227:443
-trojan://blue2024@173.245.59.106:443?security=tls&sni=hb.lii2010.us.kg&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.106:443
-trojan://blue2024@172.64.149.203:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.149.203:443
-trojan://blue2024@88.216.66.18:443?sni=b.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🇱🇹 LT-88.216.66.18:443
-trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?security=tls&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev&type=ws&host=xn----pmcnaac0dkn0rb71nda.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇨🇭 CH-185.18.250.117:443
-trojan://blue2024@173.245.49.131:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.49.131:443
-trojan://blue2024@104.16.134.27:2083?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.134.27:2083
-trojan://blue2024@104.26.7.89:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.7.89:443
-trojan://NISHIKUITAN111@188.114.96.86:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.96.86:443
-trojan://blue2024@198.41.202.9:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-198.41.202.9:443
-trojan://NISHIKUITAN111@104.17.120.144:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.120.144:443
-trojan://bpb-trojan@104.17.116.87:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.116.87:443
-trojan://blue2024@172.64.35.194:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.194:443
-trojan://NISHIKUITAN111@156.229.48.127:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-156.229.48.127:443
-trojan://blue2024@104.25.251.128:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.251.128:443
-trojan://blue2024@162.159.44.203:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.203:443
-trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.148.22:80?security=none&type=httpupgrade&host=1i5.diginoshops10.ir&path=%2F#🔒 TR-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:80
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:2083
 trojan://ce87300f-02c9-4993-ac78-a3d2c0ed1c6e@104.17.148.22:8080?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.kolsvslp.ir.&path=%2F%3Fed%3D1048#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:8080
 trojan://blue2024@190.93.244.208:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.244.208:443
@@ -498,3 +479,22 @@ vless://f022a2c8-b986-4b7f-b541-adfc512cc0fc@104.25.210.55:443?security=tls&sni=
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.200.160.63:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.63:443
 vless://b9dad5ed-74da-4a43-8145-90d06df1f890@205.233.181.36:2053?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.36:2053
 vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.&path=%2FPiNG_FoX%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.84:8080
+vless://442ac940-bbdd-4044-9b2c-e4e53cbe0055@104.24.20.150:80?security=none&type=ws&host=little-grass-d3f7az.cijof58321.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.20.150:80
+vless://826d84c7-045e-42c7-980f-a90c43c29b4b@140.248.163.142:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinbedeee-daily-configs.net&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs%3Fed%3D1024&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-140.248.163.142:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.14:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.14:443
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.109:443?security=tls&sni=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&type=ws&host=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.109:443
+vless://0a3eb1bb-405e-4d36-a9fc-c62bb8a29595@172.67.165.159:443?security=tls&sni=selinc---selinc---selinc---selinc-8.qqdbfbrx.workers.dev&type=ws&host=selinc---selinc---selinc---selinc-8.qqdbfbrx.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.159:443
+vless://62357561-a129-4b9e-9614-ce2578020866@162.159.38.101:2096?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.101:2096
+vless://94b3cbba-e6ac-485a-9481-976a0916eab9@104.21.31.221:443?security=tls&sni=esetSEcUriTyLicENSE.URNuVSg.wOrkeRS.dev&type=ws&host=EsEtSeCuRITYLIceNSe.urNuvsg.WORKers.DEV&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.221:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@168.100.6.10:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.10:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.35.145:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.35.145:443
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.56:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.56:443
+vless://2cbc0ae9-7b0a-448f-a68b-f554128c14c4@172.67.49.134:443?security=tls&sni=4b922de2.fastpurnet2-a1r.pages.dev&type=ws&host=4b922de2.fastpurnet2-a1r.pages.dev&path=%2F4b922de2.fastpurnet2-a1r.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.134:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.41.215:443?sni=pvg.aghabeiki.homes&type=ws&host=pvg.aghabeiki.homes&allowInsecure=0#🔒 VL-WS-NA 🇰🇷 KR-146.56.41.215:443
+vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.60:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.60:443
+vless://61bd51fc-06d2-42d8-854a-2aff6458bacd@95.38.106.175:46284?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.106.175:46284
+vless://15c64822-1a11-419c-9ec2-7cb2807ec3b4@190.93.245.137:443?security=tls&sni=www.arashiphone.com.&type=ws&host=www.arashiphone.com.&path=TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.137:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.191:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.191:443
+vless://468d811a-8540-4517-9779-0f542b5150d2@104.21.59.145:443?security=tls&sni=PPal03.luCIEN-isAak.WOrkeRS.dEV&type=ws&host=ppAl03.LucieN-isAaK.wOrkers.dev&path=%2Fje0xBlZdnSJJ7NFf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.145:443
+vless://1af8b2d6-213d-49ce-9bc9-ffbdc5830c35@104.21.69.44:2053?security=tls&sni=EDGETunnel-AMl.pages.DEV&type=ws&host=EDGETunnel-AMl.pages.DEV&path=%2FREvilxXx%3Fed%3D2560&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053
+vless://b7051f8b-2c6a-41b7-ab7d-36f59f4a190a@103.6.171.235:443?security=tls&flow=xtls-rprx-vision&sni=syd5.vpntype.dev&type=tcp&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇦🇺 AU-103.6.171.235:443
