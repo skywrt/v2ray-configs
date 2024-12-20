@@ -1,3 +1,9 @@
+vmess://ewogICAgImFkZCI6ICJmci1hLnl1amkyMDIyLmV1Lm9yZyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImZyLWEueXVqaTIwMjIuZXUub3JnIiwKICAgICJpZCI6ICI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvOXNURnQ1TDU1NGtQVldtdUoyazhiYVM0YkVZODNQWjY2eGI0dHdvQkJ0c2lNUEsyYiIsCiAgICAicG9ydCI6IDg4ODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTEuMjI4LTA5MjUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.77.239.64:443#%F0%9F%87%B8%F0%9F%87%ACSG-52.77.239.64-5424
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.111-0509
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@137.175.97.159:8388#%F0%9F%87%BA%F0%9F%87%B8US-137.175.97.159-5442
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.113-0430
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-1202
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.49:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-0529
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@5.188.181.201:9001#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-1199
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.150-0429
@@ -492,9 +498,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3Qu
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNTkiLCJwb3J0IjoiNDc1NDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjAwMTg4NmEtMzMwNi00NjMzLThkNmUtMWRmZmE1ODM0N2Q5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9```
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4yMjQiLCJwb3J0IjoiNDc1NDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2M4YWM0MmEtOTI0Ny00YzRmLTg0Y2MtMjAwNzAxMWExN2E3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9```
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4xNSIsInBvcnQiOiI0NzU0NSIsInR5cGUiOiJub25lIiwiaWQiOiI3ZTIyOGNlNS0wOTdjLTQ0NjItYmY5Mi0xMWVlOTYwOTUwODEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=```
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.137.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪`
-trojan://telegram-id-directvpn@15.188.100.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.255.57:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇬🇧[openproxylist.com] vless-GB```
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1SVSIsImFkZCI6IjQ2LjI5LjE2MS4yMjgiLCJwb3J0IjoiNDc1NDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiOGI2NjFmNWMtYjEwZi00MGZlLWEwOWYtOTJiNWRjMTczMmY3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9```
-vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.66.47.35:2096?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1630?security=tls&sni=desource1.game.mzsourcenode.info&type=tcp#@Hope_Net-join-us-on-Telegram
