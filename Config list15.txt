@@ -1,3 +1,4 @@
+vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.21.143:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.21.143:443
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@45.142.120.217:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.217:443
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.122:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.122:443
@@ -497,4 +498,3 @@ vless://087520b8-c1ce-4046-9d11-40e254efcaee@95.216.208.206:9200?security=realit
 vless://3bfa9b24-6e07-4587-a1cd-5a228acbf124@194.49.53.125:8443?security=reality&flow=xtls-rprx-vision&sni=blog.cloudflare.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇱 NL-194.49.53.125:8443
 vless://60985471-8040-bc44-213e-780f6a853aa9@62.60.233.158:8080?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=RCJrxssGE3akICKN-Z6bVSCyi5vlX0U8VzxxCG7eAwU#🔒 VL-TCP-RLT 🇹🇷 TR-62.60.233.158:8080
 vless://3bfa9b24-6e07-4587-a1cd-5a228acbf124@45.142.44.47:8443?security=reality&flow=xtls-rprx-vision&sni=blog.cloudflare.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇷🇺 RU-45.142.44.47:8443
-vless://bcaaabc-cbaa-baac-badc-ababcacabcbc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ

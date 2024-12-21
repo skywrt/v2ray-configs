@@ -1,3 +1,4 @@
+vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.66.47.35:8443?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.35:8443
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.183:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.183:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443?security=tls&sni=sB-1u6.Pages.DEV&type=ws&host=sB-1u6.Pages.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.178:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.191:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.191:443
@@ -497,4 +498,3 @@ vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.16.127.240:2096?security=tls&sn
 vless://9a27c8ca-b4f8-4056-d121-4401aa46b769@104.17.234.128:8080?security=none&type=ws&host=join.bede.unlimiteddev.www.speedtest.net.de.abrha.co.unlimiteddev.community.&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8880#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.128:8080
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.164:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.164:443
 vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@162.159.5.107:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.5.107:8443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.241.198.118:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-213.241.198.118:443
