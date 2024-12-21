@@ -1,4 +1,3 @@
-trojan://NISHIKUITAN111@188.164.158.111:443?#🔒 TR-TCP-NA 🇦🇲 AM-188.164.158.111:443
 trojan://NISHIKUITAN111@188.42.88.198:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇱🇺 LU-188.42.88.198:443
 trojan://NISHIKUITAN111@198.41.201.193:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.201.193:443
 trojan://dca7418d-6454-48f9-ac6b-9e586ca40a1c@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v17.TzZLiMitTNeWz.NeT#🔒 TR-WS-NONE 🇺🇸 US-151.101.130.228:80
@@ -498,3 +497,4 @@ trojan://bpb-trojan@104.17.211.250:443?security=tls&sni=bpb.my79801.com&type=ws&
 trojan://blue2024@188.114.99.181:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.99.181:443
 trojan://blue2024@104.17.114.140:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.114.140:443
 trojan://NISHIKUITAN111@190.93.244.235:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.235:443
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.147.5:443
