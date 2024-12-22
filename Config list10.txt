@@ -1,3 +1,9 @@
+trojan://blue2024@160.153.0.167:443?security=tls&sni=b.promote.icu&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-160.153.0.167:443
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&sni=us08.ssr.ee&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-138.2.227.52:443
+trojan://blue2024@108.162.195.194:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-108.162.195.194:443
+trojan://fuck@42.236.73.72:443?security=tls&sni=www.zitian.cnhttp%2F1.1&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-42.236.73.72:443
+trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.114:443
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sni=bPB-V.pageS.dEV&type=ws&host=Bpb-v.PAges.deV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 TR-WS-TLS 🇨🇦 CA-23.227.38.208:2053
 trojan://dns68@135.84.79.80:443?security=tls&sni=trojan.putata.us.kg&type=ws&host=trojan.putata.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-135.84.79.80:443
 trojan://NISHIKUITAN111@104.18.144.43:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.144.43:443
 trojan://NISHIKUITAN111@104.23.133.126:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.23.133.126:443
@@ -492,9 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.167:443?security=tls&sni=
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.56:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.56:443
 vless://16b3cbba-e6ac-495a-9481-976a0415eab9@172.67.217.183:443?security=tls&sni=ESEtSECURItYlIcENse.shPnmm.WoRkeRS.Dev&type=ws&host=eSEtSeCURITYlICEnsE.sHpnmM.WOrKeRS.DEv&path=%2FrAQuyPffj94byXJx%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.183:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?security=tls&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.107:8443
-vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.254.125:80
-vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.187.20:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-89.187.187.20:80
-vless://62357561-a129-4b9e-9614-ce2578020866@154.21.87.106:22989?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-154.21.87.106:22989
-vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.134:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.134:443
-vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=edge&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.246.203:443
-vless://f507f9f2-f868-4d27-aff2-e11b7e3c58b1@81.12.32.27:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-81.12.32.27:8080
