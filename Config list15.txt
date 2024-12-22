@@ -1,3 +1,5 @@
+vless://b9dad5ed-74da-4a43-8145-90d06df1f890@168.138.13.201:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇺 AU-168.138.13.201:443
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir&path=/?ed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.91:443
 vless://e1272d7a-507d-4b39-bd7d-453f7c194214@172.67.68.237:443?security=tls&sni=yelubdu0vdouvdan.lastronin.cloudns.org&type=ws&host=yelan.lastronin.cloudns.org&path=%2FVLESS%2Fuk-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.237:443
 vless://1ca49f11-82f3-42a2-9f58-ac10f8dfe2eb@104.26.14.85:2083?security=tls&sni=spedfree.akbaru.ir&type=ws&host=spedfree.akbaru.ir&path=%2FUoD8QOdaABE4rN7hQY9M0B8&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083
 vless://9cbdc595-1d8d-4443-af07-99149153d025@104.19.223.79:443?security=tls&sni=695a804997a04dc482d4.inroza-yeghabe.info&type=ws&host=695a804997a04dc482d4.inroza-yeghabe.info&path=%2FUtYXufews&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:443
@@ -496,5 +498,3 @@ vless://acff92c5-701c-41e9-b905-c1e18fdd6b77@104.21.12.158:443?security=tls&sni=
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.47:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.47:2053
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.75.58:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇨 SC-154.197.75.58:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@155.46.213.187:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.187:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.70:443
-vless://62357561-a129-4b9e-9614-ce2578020866@222.102.190.56:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-222.102.190.56:50000
