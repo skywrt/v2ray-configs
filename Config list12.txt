@@ -1,3 +1,4 @@
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.235:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.235:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.67.77.111:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.77.111:8443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.182:8443?security=tls&sni=bPb005.paGes.DEV&type=ws&host=bPb005.paGes.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.182:8443
 vless://df4e1392-c78a-4a67-86b2-8c8eefce64b8@104.21.19.237:8443?security=tls&sni=imaneemon66.imanf8roouznia.workers.dev&type=ws&host=imaneemon66.imanf8roouznia.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.237:8443
@@ -497,4 +498,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.117:443?security=tls&sni
 vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?security=none&type=ws&host=www.moji1372.buzz&path=%2Ftelegram%2Fid%2Fov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.67.203.34:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-152.67.203.34:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.70:443
-vless://813e1424-c68d-4e96-ac5f-e7b6dfe79605@140.248.129.224:80?security=none&type=ws&host=vpngaming.ir&path=%2F%3F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D8192#🔒 VL-WS-NONE 🇺🇸 US-140.248.129.224:80
