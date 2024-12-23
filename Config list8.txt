@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN111@104.19.224.216:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.224.216:443
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?security=tls&sni=std1.loadingip.com&allowInsecure=1#🔒 TR-TCP-TLS 🇻🇳 VN-160.30.21.105:443
 trojan://blue2024@104.19.251.164:443?security=tls&sni=hb.lii2010.us.kg&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.251.164:443
 trojan://UipJV58NIw@104.26.9.227:443?security=tls&sni=t2.rtx.al&type=ws&host=t2.rtx.al&path=/cfiiib&fp=360#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.9.227:443
 trojan://NISHIKUITAN111@5.10.247.97:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-5.10.247.97:443
@@ -496,5 +498,3 @@ trojan://blue2024@162.159.44.203:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-
 trojan://bpb-trojan@188.114.98.138:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.98.138:2053
 trojan://9b09534c-4bb1-4943-b2e7-b4c97ccae541@151.101.0.155:80?security=none&type=ws&host=service.bomb.clear.spdteam.ir.&path=%2FSPdnet%3Fed%3D2048#🔒 TR-WS-NONE 🇺🇸 US-151.101.0.155:80
 trojan://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni=vbbb.ylks2024.us.kg&type=ws&host=vbbb.ylks2024.us.kg&path=%2Fyoulingkaishi#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.153.7:443
-trojan://blue2024@172.67.70.100:443?sni=tc.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.70.100:443
-trojan://NISHIKUITAN111@172.64.156.42:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.156.42:443

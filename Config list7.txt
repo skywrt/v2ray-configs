@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#🔒 SS-TCP-NA 🇺🇸 US-52.237.155.68:443
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@80.92.204.106:9006#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9006
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.122:8008#🔒 SS-TCP-NA 🇺🇸 US-142.202.49.122:8008
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.21:8118#🔒 SS-TCP-NA 🇺🇸 US-167.88.63.21:8118
@@ -496,5 +498,3 @@ trojan://blue2024@104.26.7.112:443?sni=tb.promote.icu#🔒 TR-TCP-NA 🏴‍☠�
 trojan://NISHIKUITAN111@104.20.151.19:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.151.19:443
 trojan://telegram-id-directvpn@63.32.211.25:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.32.211.25:22222
 trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&sni=Crunch.floorshoping22.com&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-38.175.201.156:2053
-trojan://NISHIKUITAN111@104.19.224.216:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.224.216:443
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@160.30.21.105:443?security=tls&sni=std1.loadingip.com&allowInsecure=1#🔒 TR-TCP-TLS 🇻🇳 VN-160.30.21.105:443

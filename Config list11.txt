@@ -1,3 +1,5 @@
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.205.0.5:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.5:443
+vless://f6a036f7-9437-4c90-8320-80200afe84b8@199.232.5.46:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-199.232.5.46:80
 vless://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.154:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.154:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.181:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=v2nGfaSt-Jcr.pagEs.Dev&path=%2FiGEuUkpVCbbe4l6w%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.181:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.152.101:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.101:2053
@@ -496,5 +498,3 @@ vless://a90f08e4-3548-4741-af3d-9dad08b06b63@104.19.6.48:443?security=tls&sni=46
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.106:443?security=tls&sni=la.ylka.us.kg&type=ws&host=la.ylka.us.kg&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.106:443
 vless://b6cea380-cc8c-4e33-ab32-fc4d284ab5db@172.67.207.26:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.207.26:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.30:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-216.24.57.30:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.67.203.34:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-152.67.203.34:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.98:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.98:443
