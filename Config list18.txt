@@ -1,10 +1,3 @@
-ss://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@vn5.myviefast.viefast.net:443?security=tls&headerType=none&type=tcp&sni=kdlsupport.zendesk.com#MCI-%40V2ray_Alpha-04
-ss://5e454ad1-f158-4608-a51f-5f8700964e2e@irc6.vpsland.site:39357?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#MCI-%40V2ray_Alpha-05
-ss://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.174.160:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#MCI-%40V2ray_Alpha-06
-ss://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@162.159.153.2:80?path=%2Fxmlrpc.php%3Fed%3D1080%26id%3Ddfc1a9ab-6241-4b73-92f7-b299fc6b7751&security=none&encryption=none&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&type=ws#MCI-%40V2ray_Alpha-07
-ss://dfd7e083-fde5-4626-a5ac-5deb691b487a@199.232.210.133:443?path=de%3Fed%3D1048&security=tls&encryption=none&host=didnegar.com&fp=firefox&type=ws&sni=hajlab.ucdavis.edu#MCI-%40V2ray_Alpha-08
-ss://6842f2ae-8c18-4e30-8a42-d4632a849f98@57.128.178.253:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#MCI-%40V2ray_Alpha-09
-ss://dfd7e083-fde5-4626-a5ac-5deb691b487a@151.101.194.228:443?path=de%3Fed%3D1048&security=tls&encryption=none&host=didnegar.com&fp=firefox&type=ws&sni=bwdraper.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-10
 ss://9b09534c-4bb1-4943-b2e7-b4c97ccae541@spd.fastly80-3.hosting-ip.com:80?path=%2FSPdnet%3Fed%3D2048&security=none&encryption=none&host=service.bomb.clear.spdteam.ir.&type=ws#MCI-%40V2ray_Alpha-11♾نامحدود
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#IR-%40V2ray_Alpha-
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cncvUnJidS9BT3lUNkRXWnB5aWF2TDg4bnl0cGFHVGpSTEFYNk5oY0QvYz06ZXN3MlZKM1hyQkR5S2JPSHd2b1JaRUdWZGhlQXlWdDNqQ1ZUbE54Wkl3ST0%3D@[2607:f748:203:7:1::21]:41597#IR-%40V2ray_Alpha-2hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@188.68.234.53:24662?security=tls&insecure=1&sni=www.bing.com#IR-%40V2ray_Alpha-3
@@ -498,3 +491,10 @@ ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#%F0%9F%87%B9%F0%9
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-1214
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5001#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-6308
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-5799
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5601#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-6300
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7002#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.218-0568
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#%F0%9F%87%BA%F0%9F%87%B8US-23.150.152.16-6440
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.120:2375#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.120-0564
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.164.15:8119#%F0%9F%87%BA%F0%9F%87%B8US-139.64.164.15-6633
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.105:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.105-6291
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.87:8091#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-5798
