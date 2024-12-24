@@ -1,4 +1,3 @@
-vless://26f53727-d888-490f-adeb-4c23bb27f5b1@151.101.2.216:80?security=none&type=ws&host=moienam.com#🔒 VL-WS-NONE 🇺🇸 US-151.101.2.216:80
 vless://2657c719-a504-58fa-8a29-02476e27bb1b@151.101.193.6:80?security=none&type=ws&host=PABLO-MOSTAFAA.COM#🔒 VL-WS-NONE 🇺🇸 US-151.101.193.6:80
 vless://62357561-a129-4b9e-9614-ce2578020866@218.152.197.93:50000?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-218.152.197.93:50000
 vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.243:443?security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2F@@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1%D8%AA%DB%8C%D9%85%2B%D8%A7%D9%86%D8%AC%D9%85%D9%86%E2%80%8C%2B%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.243:443
@@ -498,3 +497,4 @@ vless://62357561-a129-4b9e-9614-ce2578020866@27.50.48.126:2083?security=tls&sni=
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.168.93:2095?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.168.93:2095
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.20.6.134:2083?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.6.134:2083
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.241.198.51:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇷🇺 RU-213.241.198.51:443
+vless://1d9a08e5-eacd-4a40-9e64-b0ccf3e4f802@151.101.192.155:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.155:80

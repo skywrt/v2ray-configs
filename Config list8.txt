@@ -1,4 +1,3 @@
-trojan://a9e71cd5-ada9-42f5-b60c-a987ad57871f@91.199.84.195:15006?allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.195:15006
 trojan://blue2024@172.64.35.203:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.203:443
 trojan://blue2024@104.17.139.53:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.139.53:443
 trojan://WOeXShhJpL@172.67.34.71:443?security=tls&sni=10jzus.zdzdzd.xyz&type=ws&host=10jzus.zdzdzd.xyz&path=%2Fjuzigongyi#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.34.71:443
@@ -498,3 +497,4 @@ trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&sn
 trojan://blue2024@172.64.35.209:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.209:443
 trojan://NISHIKUITAN111@104.25.37.16:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.37.16:443
 trojan://NISHIKUITAN111@104.24.60.239:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.60.239:443
+trojan://blue2024@104.19.175.73:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.175.73:443
