@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.92.55:9102#%F0%9F%87%BA%F0%9F%87%B8US-69.50.92.55-6150
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.218:8080#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.218-6496
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:5000#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.87-0563
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-6324
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@67.220.95.102:6379#%F0%9F%87%BA%F0%9F%87%B8US-67.220.95.102-6651
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:8888#%F0%9F%87%BA%F0%9F%87%B8US-69.50.95.203-6163
@@ -495,6 +498,3 @@ trojan://telegram-id-privatevpns@3.66.82.205:22222?security=tls&alpn=http/1.1&he
 vless://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80?path=%2F&security=none&encryption=none&host=connectiran.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B1telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 vless://98585d5f-221a-4e8b-afe1-83c98da79b4f@93.126.50.231:51234?security=none&type=tcp&host=telewebion.com&headerType=http#@Hope_Net-join-us-on-Telegram
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjM4LjE1MC43LjE3NyIsICJwb3J0IjogODA0OSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTU0ODZkY2MtZjZlNS00MTFiLWFjYWMtZDE0MDkzNzU1ODVhIiwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJwYXRoIjogIi93YWRhMTIyMjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9`
-vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=gsi.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#all%20%F0%9F%87%A8%F0%9F%87%AD%20%28%40ZEDMODEON%29%2058`
-vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=prisons.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#all%20%F0%9F%87%A7%F0%9F%87%AA%20%28%40ZEDMODEON%29%2032`
-vless://4c3f503f-1edf-5e23-ab44-b0a0b6637b0b@104.26.15.148:443?security=tls&sni=yf-psv1.keceti9115.WoRkERS.dEV&type=ws&host=yf-psv1.keceti9115.WoRkERS.dEV&fp=chrome#@Hope_Net-join-us-on-Telegram
