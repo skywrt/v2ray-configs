@@ -1,4 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@149.5.52.148:587?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇬🇧 GB-149.5.52.148:587
 vless://8f7de551-d5a9-41d7-8e8e-31c59fdf4985@104.22.13.215:443?security=tls&sni=yelafohfh9f9ufun.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fnl-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.13.215:443
 vless://76889f66-a4b0-4058-a8ba-b3418b90e26e@193.228.168.165:19296?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.228.168.165:19296
 vless://f4a1448a-31bb-d5c7-f564-6ca460acca1d@190.93.245.85:80?security=none&type=ws&host=speedtest.net.xn--ehq00h70aba107urp2d7witlr.kellekcollection.com&path=%2Flive%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.85:80
@@ -498,3 +497,4 @@ vless://e8cfc69c-f9a4-40ed-b48d-d5da257f5c7c@107.172.57.21:443?security=reality&
 vless://faeae97f-07d5-4582-a07a-0aafc361c109@49.12.111.75:1011?security=reality&sni=pooya-server.ir&type=tcp&host=fast.com&headerType=http&fp=chrome&pbk=I_Ckq91ZBh-ejU4115OEErI1ELYrBVi3BWyLlX79IGY#🔒 VL-TCP-RLT 🇩🇪 DE-49.12.111.75:1011
 vless://5957ca33-d8d9-4c2c-aadc-203270e33422@45.12.134.129:2053?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=jpS_UPS4HEJApIV1DRW6omCRG8d2XuJXjj2FW7iT-mg&sid=cc87#🔒 VL-TCP-RLT 🇨🇾 CY-45.12.134.129:2053
 vless://2d5d4230-10e2-4ee9-afe5-a55c20d2cb3b@188.245.195.221:1616?security=reality&flow=xtls-rprx-vision&sni=wwww.refersion.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-TCP-RLT 🇩🇪 DE-188.245.195.221:1616
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.34:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=chrome&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#🔒 VL-TCP-RLT 🇹🇷 TR-95.173.180.34:443
