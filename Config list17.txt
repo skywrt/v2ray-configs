@@ -1,4 +1,3 @@
-vless://2cbc0ae9-7b0a-448f-a68b-f554128c14c4@172.67.49.134:443?security=tls&sni=4b922de2.fastpurnet2-a1r.pages.dev&type=ws&host=4b922de2.fastpurnet2-a1r.pages.dev&path=%2F4b922de2.fastpurnet2-a1r.pages.dev%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.134:443
 vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@104.26.12.54:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@140.238.88.47:443?security=tls&sni=la.ylks01.eu.org&type=ws&path=%2Ffreecodes#🔒 VL-WS-TLS 🇬🇧 GB-140.238.88.47:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.4.8:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.4.8:443
@@ -498,3 +497,4 @@ vless://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE%3D@205.134.180.137:443#W
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.105.201:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#WiFi-%40V2ray_Alpha-13
 vless://995dc2bd-bafb-4343-9945-10283a9dee4a@194.226.49.245:33679?path=%2Fbestm03&security=none&encryption=none&host=bestm03&type=ws#WiFi-%40V2ray_Alpha-14
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@202.37.33.81:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#WiFi-%40V2ray_Alpha-15
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.232:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#WiFi-%40V2ray_Alpha-16
