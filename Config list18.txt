@@ -1,3 +1,8 @@
+vless://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=hgc6rct87gy.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-12
+vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#MCI-%40V2ray_Alpha-13
+vless://29e0206a-2cef-4c8d-aa4b-dd7a43748167@b-corsairs.com:443?path=%2Folem%2Fws%3F%40V2ray_Alpha-d%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#MCI-%40V2ray_Alpha-14
+vless://eyJhZGQiOiIxNDcuNDUuNTEuMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImY0MS5tYXJ5YW0xNTAwLnRvcCIsImlkIjoiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5OCIsInBzIjoiTUNJLUBWMnJheV9BbHBoYS0xNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vless://eyJhZGQiOiIyLjE4OS41OS43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJNQ0ktQFYycmF5X0FscGhhLTE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9♾نامحدود
 vless://948b5904-d702-46c1-8f76-1c4d3ba01705@188.245.208.177:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Ir-%40V2ray_Alpha-05
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@visa.org:2052?path=%2F%3Fed%3D1080&security=none&encryption=none&host=aparat.com.bing.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.netrag.com.px.com.s95017.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.h99.ddns-ip.net.&type=ws#Ir-%40V2ray_Alpha-06
 vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v28.bEsTdRlImIt.NeT&type=ws#Ir-%40V2ray_Alpha-07
@@ -493,8 +498,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-0399
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&sni=f.522226.xyz#%F0%9F%87%BA%F0%9F%87%B8US-155.248.205.39-0431
 trojan://telegram-id-directvpn@52.60.151.196:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-52.60.151.196-6243
-vmess://ewogICAgImFkZCI6ICJkZW5jMzYueHRvb2x0ZWNoLmNmZCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImFkZW5jMzZ2Lnh0b29sdGVjaC5jZmQiLAogICAgImlkIjogImIzMjFmZDVkLWU2ZWMtNDI5My1hNjQ0LTE2NGUzODg1ZjUyZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xNzIuMTA1LjEzLjI0Ni04OTc4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-0494
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0409
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.150-0308
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-0416
