@@ -1,3 +1,6 @@
+trojan://ouo@152.70.101.24:16800?sni=tr.koiok.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🇯🇵 JP-152.70.101.24:16800
+trojan://NISHIKUITAN111@172.64.49.211:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.49.211:443
+trojan://telegram-id-privatevpns@35.159.251.252:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-35.159.251.252:22222
 trojan://NISHIKUITAN111@162.159.21.24:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.21.24:443
 trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&sni=Crunch.floorshoping22.com&type=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-38.175.201.156:2053
 trojan://NISHIKUITAN111@94.242.229.89:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇱🇺 LU-94.242.229.89:443
@@ -495,6 +498,3 @@ trojan://NISHIKUITAN111@89.116.46.33:443?security=tls&sni=zb.ylks.xyz&type=ws&ho
 trojan://blue2024@198.62.62.156:443?security=tls&sni=tc.promote.icu&type=ws&host=tc.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.156:443
 trojan://blue2024@108.162.195.202:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.202:443
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91&fp=safari&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
-trojan://trojan@162.159.152.2:80?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.vpncustomize.iranibzai.com&path=%2F%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
-trojan://NISHIKUITAN111@154.92.9.71:443?#🔒 TR-TCP-NA 🇨🇾 CY-154.92.9.71:443
-trojan://NISHIKUITAN111@185.193.30.187:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.30.187:443

@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.49:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-0560
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.49:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.49-0467
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.232.249:443#%F0%9F%87%AF%F0%9F%87%B5JP-13.231.232.249-6273
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.230.239.136:443#%F0%9F%87%AF%F0%9F%87%B5JP-13.230.239.136-0441
 ssr://anAtYW00OC02LmVxbm9kZS5uZXQ6ODA4MTpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpVRnZhMkpoUkU0Mi8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHIlMkZDZmg3VktVQzB6TlM0M055NDVOaTR4TmpBdE1EUTBNQSUzRCUzRCZwcm90b3BhcmFtPQ==
 vmess://ewogICAgImFkZCI6ICIxMDcuMTY3LjMwLjEyNiIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICJ3d3cuODM2NDU0MjIueHl6IiwKICAgICJpZCI6ICI1N2Y5M2U5Mi1lYmI5LTRmMTYtOWJkYy04MjI1ZDIwMTA5OTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcGF0aC8yNDA4MTEwNjI4MTMiLAogICAgInBvcnQiOiAzMDAwMCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTEwNy4xNjcuMzAuMTI2LTg5NzMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJ3d3cuODM2NDU0MjIueHl6Igp9
@@ -495,6 +498,3 @@ vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&en
 vless://162ce783-0127-4019-e792-a65941f952c4@188.245.205.95:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=f830f6#IR-%40V2ray_Alpha-5
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#IR-%40V2ray_Alpha-6
 vless://a79760d9-f9e9-43cf-a1d5-61ed225d7e62@49.12.193.119:443?security=reality&encryption=none&pbk=VEdfB9tka6Sry4ry3ooI2jrw2e2QGWGf_gMbBtiY2gc&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=fc6248fb4124#IR-%40V2ray_Alpha-7
-vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&encryption=none&headerType=none&type=tcp&sni=tr-s.xor-vpn.ru#IR-%40V2ray_Alpha-8
-vless://dc0f9c0c-1dea-40f4-90e6-2859d3aa9f2e@5.75.148.3:8443?security=none&encryption=none&headerType=none&type=tcp#IR-%40V2ray_Alpha-9
-vless://04ee542f-1e0f-5235-9ad0-3ab2d336fb5c@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#IR-%40V2ray_Alpha-10
