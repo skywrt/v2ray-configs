@@ -1,3 +1,4 @@
+vless://2c79b667-b103-4d22-86d0-5ef23f303c06@104.21.30.195:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.30.195:80
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.44.244:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.244:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.80:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.80:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.178:443?security=tls&sni=ly.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.178:443
@@ -497,4 +498,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@138.2.123.70:443?security=tls&sni=v
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.21:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.21:443
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.66.44.221:8443?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.221:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.208:443?security=tls&sni=lw.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.208:443
-vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@77.37.33.124:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.124:443

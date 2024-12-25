@@ -1,3 +1,4 @@
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.26.12.140:2096?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:2096
 vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.46.162:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.162:8443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.131:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.131:443
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.1:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048&fp=ios&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇪🇪 EE-45.80.108.1:443
@@ -497,4 +498,3 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?security=tls&sni=
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.123.255.10:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.10:443
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.195.126:8880
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.171:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.171:443
-vless://2c79b667-b103-4d22-86d0-5ef23f303c06@104.21.30.195:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.30.195:80
