@@ -1,6 +1,3 @@
-vless://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#WiFi-%40V2ray_Alpha-11
-vless://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE%3D@205.134.180.137:443#WiFi-%40V2ray_Alpha-12
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.105.201:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#WiFi-%40V2ray_Alpha-13
 vless://995dc2bd-bafb-4343-9945-10283a9dee4a@194.226.49.245:33679?path=%2Fbestm03&security=none&encryption=none&host=bestm03&type=ws#WiFi-%40V2ray_Alpha-14
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@202.37.33.81:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#WiFi-%40V2ray_Alpha-15
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.232:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.zhuk.us.kg&type=ws&sni=vb.zhuk.us.kg#WiFi-%40V2ray_Alpha-16
@@ -498,3 +495,6 @@ trojan://4732adfa16c6450bbef87264e41332db@172.99.190.180:443?security=tls&sni=ba
 vmess://ewogICAgImFkZCI6ICIxNDkuNy4xNi43MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xNDkuNy4xNi43My01OTgzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 trojan://4732adfa16c6450bbef87264e41332db@172.99.190.180:443?security=tls&sni=bangladeshipatri.com#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.180-1442
 trojan://telegram-id-privatevpns@35.180.76.113:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7FR-35.180.76.113-0475
+trojan://984e400bf5d541b7b0815913fe0c432a@bangladeshipatri.com:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.180-1232
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0477
+vmess://ewogICAgImFkZCI6ICIxNzIuOTkuMTkwLjIwNiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HrPCfh6dHQi0xNzIuOTkuMTkwLjIwNi01OTc1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
