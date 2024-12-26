@@ -1,10 +1,3 @@
-vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2ray_Alpha-16
-vless://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IldpRmktQFYycmF5X0FscGhhLTE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==♾
-vless://6a22bd4b-9eb5-41ef-d953-5e25fb20c55c@germany.acangame.site:4444?mode=gun&security=none&encryption=none&type=grpc#Mci-%40V2ray_Alpha-07
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#Mci-%40V2ray_Alpha-08
-vless://ced63688-30a1-50b9-8f3b-b8d3f834abc0@speedtest.net:80?security=none&encryption=none&host=MO-SI-V2.COM&type=ws#Mci-%40V2ray_Alpha-09
-vless://a5b1fa7c-3a28-4e23-8b13-cc1c98c8f151@151.101.66.133:80?path=%2F&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g1h.com&type=ws#Mci-%40V2ray_Alpha-10
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.171:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=aba.zhuk.us.kg&type=ws&sni=aba.zhuk.us.kg#Mci-%40V2ray_Alpha-11
 vless://eyJhZGQiOiJ1bC1qYXBhbjEuMDl2cG4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjE4NjU5YTMxLWFkZDktNGI5Zi1hZjU3LTc3ZmZhZjAzOTZjOSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8jIiwicG9ydCI6IjgwIiwicHMiOiJNY2ktQFYycmF5X0FscGhhLTAxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==♾نامحدود
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#Ir-%40V2ray_Alpha-7
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=vbbc.ylks2024.us.kg&type=ws&sni=vbbc.ylks2024.us.kg#Ir-%40V2ray_Alpha-8
@@ -498,3 +491,10 @@ trojan://984e400bf5d541b7b0815913fe0c432a@jobscareerforlawyers.com:443?security=
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTcwLjExIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsCiAgICAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY3LjE3MC4xMS05MzIwIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIKfQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0380
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0381
+trojan://984e400bf5d541b7b0815913fe0c432a@jobscareerfortoday.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-0393
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-1385
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@23.150.248.50:443?security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B8US-23.150.248.50-0423
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0379
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0503
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?security=tls&sni=jobsfortheworldtoday.com#%F0%9F%87%BA%F0%9F%87%B8US-38.99.82.225-0494
+trojan://telegram-id-directvpn@35.183.53.29:22222?security=tls&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6CA-35.183.53.29-6614
