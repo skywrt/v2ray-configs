@@ -1,3 +1,8 @@
+trojan://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 TR-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.84.3:443
+trojan://NISHIKUITAN111@141.101.121.18:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.18:443
+trojan://NISHIKUITAN111@190.93.247.81:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.247.81:443
+trojan://NISHIKUITAN111@188.42.88.52:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇱🇺 LU-188.42.88.52:443
+trojan://blue2024@172.64.84.113:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.84.113:443
 trojan://TGCitizenScyu@104.18.20.69:2087?sni=maikeaxiang.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.20.69:2087
 trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.220.46:443?security=tls&sni=us05.ssr.ee&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-167.234.220.46:443
 trojan://NISHIKUITAN111@104.25.99.96:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.99.96:443
@@ -493,8 +498,3 @@ trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host
 trojan://blue2024@104.26.6.125:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.125:443
 trojan://NISHIKUITAN111@198.41.214.39:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.214.39:443
 trojan://blue2024@104.16.21.118:443?sni=tb.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.21.118:443
-trojan://blue2024@104.19.142.99:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.142.99:443
-trojan://NISHIKUITAN111@172.67.133.80:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.133.80:443
-trojan://NISHIKUITAN111@104.20.138.222:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.138.222:443
-trojan://blue2024@190.93.244.61:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.244.61:443
-trojan://blue2024@104.27.41.214:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.27.41.214:443
