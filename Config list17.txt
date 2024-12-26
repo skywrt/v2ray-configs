@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.51:443?security=tls&sni=PPAL03.GeBEM58789.wORkERS.DEV&type=ws&host=pPAL03.GeBeM58789.wORkErs.DEv&path=%2FmPr9YicUeRQeCHRj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.51:443
+vless://d3484b27-0cdf-469b-953e-1066d4e488f8@172.67.157.96:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.96:443
 vless://c73113bf-99d5-4c92-9d3f-853a2d7bd85d@162.159.5.107:8443?security=tls&sni=f.ylks.xyz&type=ws&host=f.ylks.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.5.107:8443
 vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@172.67.184.7:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-172.67.184.7:443
 vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@104.21.90.210:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&host=FREEDOM31.Pages.DEV&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2053
@@ -496,5 +498,3 @@ vless://948b5904-d702-46c1-8f76-1c4d3ba01705@188.245.208.177:26745?security=none
 vless://93d3f074-55cd-4ece-a51e-46a0a0c9e3ff@159.69.30.53:443?security=none&encryption=none&headerType=http&type=tcp#MCI-%40V2ray_Alpha-9
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#MCI-%40V2ray_Alpha-
 vless://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#MCI-%40V2ray_Alpha-
-vless://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.bEsTdRlImIt.NeT&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#MCI-%40V2ray_Alpha-10
-vless://67c3113d-c896-42ec-ae6b-bc3309b5970c@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=jbiudvh7t5y7tythgg.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#MCI-%40V2ray_Alpha-11

@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7307
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.27:2375#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:2375
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#🔒 SS-TCP-NA 🇷🇴 RO-194.14.217.115:989
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.49:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.49:7002
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5601#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.252:5601
@@ -496,5 +498,3 @@ trojan://ypDt8RkT7J@89.187.181.172:43118?sni=egcmi.phooeyunfold.com&allowInsecur
 trojan://blue2024@104.20.159.193:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.159.193:443
 trojan://blue2024@141.101.114.199:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.114.199:443
 trojan://NISHIKUITAN111@172.67.230.64:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.230.64:443
-trojan://blue2024@104.24.129.215:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.129.215:443
-trojan://5e454ad1-f158-4608-a51f-5f8700964e2e@62.60.155.47:39357?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 TR-TCP-NONE 🇮🇷 IR-62.60.155.47:39357

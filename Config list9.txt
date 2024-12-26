@@ -1,3 +1,5 @@
+trojan://ced63688-30a1-50b9-8f3b-b8d3f834abc0@151.101.66.219:80?security=none&type=ws&host=MO-SI-V2.COM#🔒 TR-WS-NONE 🇺🇸 US-151.101.66.219:80
+trojan://blue2024@104.25.80.32:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.80.32:443
 trojan://NISHIKUITAN111@172.67.95.192:443?allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.95.192:443
 trojan://blue2024@104.17.175.195:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.175.195:443
 trojan://auto@104.20.20.58:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.20.20.58:443
@@ -496,5 +498,3 @@ trojan://dns68@66.179.48.88:443?security=tls&sni=trojan.putata.us.kg&type=ws&hos
 trojan://blue2024@46.254.92.32:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇷🇺 RU-46.254.92.32:443
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443?security=tls&sni=customer-95-164-85-39.stark-industries.solutions&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇰 DK-95.164.85.39:443
 trojan://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.33:443
-trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
-trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-185.148.106.44:443
