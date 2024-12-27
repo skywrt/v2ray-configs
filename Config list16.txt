@@ -1,5 +1,3 @@
-vless://219d848d-60f2-4321-8275-72b9b575b37e@104.25.176.176:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.176.176:443
-vless://1aaf33cb-9ef3-41ac-819d-3e1d14f85799@194.76.18.253:2082?security=none&type=httpupgrade&host=web.hi-app.site&path=/d3d3LmlyYW5ob3N0LmNvbQ%3D%3D?ed%3D2082/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-HTTPUPGRADE-NONE 🇰🇿 KZ-194.76.18.253:2082
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.152.101:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.101:2053
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.252:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.252:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@45.67.215.112:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.112:443
@@ -498,3 +496,5 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.1:80?security=none&type=w
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.29:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.29:443
 vless://ec1540bf-39b1-5901-bc00-4aa9c81e27af@199.232.125.43:443?security=tls&sni=ELI-V2-RAY.COM&type=ws&host=ELI-V2-RAY.COM&path=%2F&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.125.43:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.97.73:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.97.73:443
+vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.18.242.155:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.242.155:443
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
