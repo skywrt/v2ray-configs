@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@104.24.177.24:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.177.24:443
+trojan://NISHIKUITAN111@104.20.140.145:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.140.145:443
+trojan://blue2024@104.19.190.86:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.190.86:443
 trojan://NISHIKUITAN111@104.20.8.252:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.8.252:443
 trojan://blue2024@104.17.90.26:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.90.26:443
 trojan://blue2024@162.159.194.188:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.194.188:443
@@ -495,6 +498,3 @@ vless://88cdfbf6-352d-4731-9e46-2ad40b130e29@172.67.40.25:8080?security=none&typ
 vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443?security=tls&sni=pardazeshvpn-tg70.pages.dev&type=ws&host=pardazeshvpn-tg70.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
 vless://f8e24e86-8464-4b07-8d17-fa471f7d68d9@3.79.117.14:443?security=tls&sni=ca.zhuk.us.kg&type=ws&host=ca.zhuk.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇩🇪 DE-3.79.117.14:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@108.162.194.240:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.194.240:443
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@104.20.19.168:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.235:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.235:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.237.92:2087?security=tls&sni=123.drmIng.bUzz&type=ws&host=123.drming.buzz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.92:2087
