@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@104.27.17.134:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.17.134:443
+trojan://e169856c-7c19-4908-9bdf-448dc846163a@144.21.56.16:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒 TR-TCP-TLS 🇬🇧 GB-144.21.56.16:443
+trojan://blue2024@104.25.90.16:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.90.16:443
 trojan://NISHIKUITAN111@45.149.12.23:443?#🔒 TR-TCP-NA 🇳🇱 NL-45.149.12.23:443
 trojan://blue2024@172.64.146.66:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.146.66:443
 trojan://NISHIKUITAN111@104.24.71.245:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.71.245:443
@@ -495,6 +498,3 @@ trojan://NISHIKUITAN111@172.64.156.42:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.6
 trojan://NISHIKUITAN111@198.41.218.39:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.218.39:443
 trojan://auto@104.20.17.74:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.17.74:443
 trojan://NISHIKUITAN111@185.193.30.187:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.193.30.187:443
-trojan://NISHIKUITAN111@104.17.255.213:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.255.213:443
-trojan://blue2024@172.67.142.60:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.142.60:443
-trojan://blue2024@104.19.185.248:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.185.248:443
