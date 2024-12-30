@@ -251,6 +251,17 @@ trojan://blue2024@104.19.152.44:443?security=tls&sni=td.promote.icu&type=tcp#�
 trojan://NISHIKUITAN111@104.21.33.65:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.33.65:443
 trojan://blue2024@188.114.99.102:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.99.102:443
 trojan://bcabaac-aabc-bcaa-abdc-bbabacaccbca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://telegram-id-directvpn@18.185.29.99:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU1ZTdmXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTgzLjIzNi41MS4yMyIsICJwb3J0IjogNDY2MDIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgRmFzdGx5XHU1MTY4XHU3NDAzQW55Y2FzdFx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzc4NDg4MjQtOTNiNy00Yjg5LWZmZDAtZTkxYWZmZjQwNmNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInpoZXNoaXNjcC5jb20iLCAicGF0aCI6ICIvNzc4NDg4MjQiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVXJTZmZlTkFCWEdYWGZOaG9MNnhCVW5oMVJ6cU1penJRMnM5UWZDMzhQMllQdVlQUlRxVzV6Wmc2akdpc2lOaGt6TTRTUmpGNm56dkZiMThHUHRFU1dvWFdqaHF5Qzg=@198.105.123.190:46902#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.20.210:443#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+trojan://telegram-id-privatevpns@13.43.233.119:22222?sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.155.228:23456#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplWHhoMDFhM2Z2S0FQbW9Ga1gxY1Uz@159.223.93.233:40138#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMTUxLjEwMS4xOTQuMTY4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImFtZC5hbCIsICJpZCI6ICJiZWI3ZDA5OC00OGJhLTRiZTgtYTQ3YS03NThiZjNjNDcwYjgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLz9lZD0yMDQ4IiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIEZhc3RseVx1NTE2OFx1NzQwM0FueWNhc3RcdTgyODJcdTcwYjkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://aaabccb-abac-bcaa-cdba-cbcababaacbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-10-DEY-1403 🕑 19:18
 vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.234.120:2053?security=tls&sni=num.2d2d.ir&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.120:2053
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.18.250.52:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.52:443
@@ -487,14 +498,3 @@ vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80?type=ws&host=anTiFi
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.71:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.71:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.154:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.154:443
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.177:443?security=tls&sni=BPb005.pAgeS.Dev&type=ws&host=BPb005.pAgeS.Dev&path=%2F81eqvt6gwdd8gwo8%2Fmtuyljy3ljiznc40oq#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.177:443
-vless://32a1bd3c-b9e8-4d61-a49f-309b77cd5765@151.101.66.219:443?security=tls&sni=speedtest.net&type=ws&host=justFreedomByIMAN.com&path=%2Fws%40%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.66.219:443
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@104.16.21.118:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.21.118:443
-vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.66.44.221:2087?security=tls&sni=cgpg-at0.pages.dev&type=ws&host=cgpg-at0.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.221:2087
-vless://6df1caa9-6416-4211-ee79-322256e987c6@104.16.127.84:8080?security=none&type=httpupgrade&host=www.speedtest.net.ftp.debian.org.xn--rdekors-q1a.thecreators.ir.&path=%2FPiNG_FoX%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.16.127.84:8080
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.116.161.133:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.133:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.111:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.111:443
-vless://c9cc89e8-ac05-54a9-ac1a-00473190f705@140.248.129.207:80?security=none&type=ws#🔒 VL-WS-NONE 🇺🇸 US-140.248.129.207:80
-vless://3a0b4b0a-0c0f-4378-9275-725f1a9d454a@104.26.8.193:443?security=tls&sni=Sauron.Melkore.ir&type=ws&host=Sauron.Melkore.ir&path=%2FUngoliant3%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.193:443
-vless://03d7d72c-4364-4a9a-a5c5-e4ab74fcb35d@162.159.134.233:443?security=tls&sni=hellostone6996.pages.dev&type=ws&host=hellostone6996.pages.dev&path=/?ed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.233:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@89.116.180.183:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇹 LT-89.116.180.183:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.98:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.98:443
