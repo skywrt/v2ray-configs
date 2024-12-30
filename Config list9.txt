@@ -1,3 +1,7 @@
+trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50001?sni=jpcn2.doubledou.icu#🔒 TR-TCP-NA 🇨🇳 CN-120.233.26.140:50001
+trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-23.150.248.107:443
+trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.91:443
+trojan://blue2024@104.27.45.137:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.45.137:443
 trojan://3648425794742788096@35.168.124.79:443?security=tls&sni=humble-rodent.treefrog761.one&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-35.168.124.79:443
 trojan://blue2024@162.159.14.2:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.14.2:443
 trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.22.138:443
@@ -494,7 +498,3 @@ trojan://NISHIKUITAN111@77.37.33.8:443?security=tls&sni=zb.ylks.xyz&type=ws&host
 trojan://blue2024@104.129.167.128:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-104.129.167.128:443
 trojan://bpb-trojan@86.38.214.132:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🇱🇹 LT-86.38.214.132:443
 trojan://NISHIKUITAN111@172.64.132.154:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.132.154:443
-trojan://telegram-id-directvpn@34.236.106.232:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-34.236.106.232:22222
-trojan://NISHIKUITAN111@172.67.248.18:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.248.18:443
-trojan://NISHIKUITAN111@104.20.102.167:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.102.167:443
-trojan://blue2024@104.17.226.120:443?sni=ha.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.226.120:443

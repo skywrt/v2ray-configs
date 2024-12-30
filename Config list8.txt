@@ -1,4 +1,8 @@
-ss://bm9uZTpjYmFjYWJhLWNhYmEtYmFjYS1jYmFkLWNiY2JjY2FhYWJhYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#🔒 SS-TCP-NA 🇰🇷 KR-43.200.1.13:443
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#🔒 SS-TCP-NA 🇳🇱 NL-149.34.244.77:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNc0lCRnc2WFBtZmNwTFpYaFVOcEpkcjFnN0ZPYlpDVDVBZ0FFekYzT0VHZjFUNWQ=@95.128.71.141:41348#🔒 SS-TCP-NA 🇧🇾 BY-95.128.71.141:41348
+ss://bm9uZTpjYWFhYmJjLWJhY2EtYWFjYi1iY2FkLWFjY2NiYmFiYmFjYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 trojan://acbaacb-aacb-caba-dbac-abcaacbbacbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-10-DEY-1403 🕑 23:13
 trojan://blue2024@104.21.13.77:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.13.77:443
 trojan://blue2024@104.27.98.104:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.98.104:443
@@ -494,7 +498,3 @@ trojan://blue2024@104.19.238.216:443?security=tls&sni=ta.promote.icu&type=ws&hos
 trojan://71b60539-19bf-4282-b09f-7596ffc3cc8b@108.181.154.229:443?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=chrome&pbk=OPE-zPWEJovJzhxKqSRYw4p09xfk1H9aitvnyhPncRA&sid=Aa04cAc3#🔒 TR-TCP-REALITY 🇺🇸 US-108.181.154.229:443
 trojan://blue2024@172.64.35.202:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.202:443
 trojan://NISHIKUITAN111@173.245.58.34:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.58.34:443
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@120.233.26.140:50001?sni=jpcn2.doubledou.icu#🔒 TR-TCP-NA 🇨🇳 CN-120.233.26.140:50001
-trojan://dba20dcb635e430fa4d3bfc303a149d2@23.150.248.107:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-23.150.248.107:443
-trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?security=tls&sni=Noshteri.hooplnqpb.ir&type=ws&host=Noshteri.hooplnqpb.ir#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.91:443
-trojan://blue2024@104.27.45.137:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.45.137:443
