@@ -1,3 +1,4 @@
+vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.7.226:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.226:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.154:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.154:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.133.92:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.133.92:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.1:80
@@ -497,4 +498,3 @@ vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.67.2.238:443?security=tls&sni=s
 vless://968f8967-1361-41d5-9769-f6624ef58694@104.24.59.181:443?security=tls&sni=tvmez.pages.dev&type=ws&host=tvmez.pages.dev&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.59.181:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.10.244.1:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇳🇱 NL-5.10.244.1:443
 vless://e1272d7a-507d-4b39-bd7d-453f7c194214@104.26.6.119:443?security=tls&sni=yelubdu0vdouvdan.lastronin.cloudns.org&type=ws&host=yelan.lastronin.cloudns.org&path=%2FVLESS%2Fuk-full.privateip.net&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.119:443
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@85.209.153.103:2198?type=tcp#🔒 VL-TCP-NA 🇺🇸 US-85.209.153.103:2198
