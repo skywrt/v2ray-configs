@@ -1,3 +1,6 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.51.163.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮`
+trojan://telegram-id-privatevpns@99.81.211.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs`
+trojan://telegram-id-directvpn@18.197.61.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
 vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&sni=tr-s.xor-vpn.ru&type=tcp#🇹🇷[openproxylist.com] vless-TR```
 vless://94031864-58aa-460b-929c-73d07306b5f1@[2a01:4f8:c010:9ff4::1]:15413?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://d404d958-d1ed-4002-a3d4-88c10fa7007a@[2a01:4f8:c012:2a1c::1]:30546?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy`
@@ -495,6 +498,3 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE0MC44My42My4zOCIsInBvcnQiOiIyNDQ0NSIsImlkIjoiOTRj
 vless://28dbc7fd-60fb-4d2f-87b0-2e179cefeabb@62.60.220.114:2097?security=none&type=tcp&path=%2F&headerType=http#@Hope_Net-join-us-on-Telegram
 vless://cc937996-fdb5-4612-de86-b6089dd43973@62.60.178.101:2053?type=tcp&host=speedtest.net&headerType=http#@Hope_Net-join-us-on-Telegram
 vless://2a02a9a8-c952-401d-bb45-2c12c4c056ac@151.101.3.8:80?security=none&type=ws&host=External_Net.org&path=%3F%3D9090#@Hope_Net-join-us-on-Telegram
-vless://b97e6bba-a42a-4f20-8ccf-c045d7d3bcff@5.75.148.3:8443?security=none&type=tcp#🇩🇪[openproxylist.com] vless-DE```
-vless://67caf0a6-2cab-4f2e-81f5-1664e4813709@104.22.36.243:2096?security=tls&sni=server18.aibox.tv&type=ws&host=server18.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome#🇩🇰[openproxylist.com] vless-DK```
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ISyIsImFkZCI6IjEwMy4xMzYuMTUwLjI0NiIsInBvcnQiOiIzNzY3NiIsInR5cGUiOiJub25lIiwiaWQiOiJkMDE5YWEzNy04NGYwLTQ0NjEtYmM2Yy01ZWFmYTcwMDZmOGYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=```
