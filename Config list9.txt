@@ -1,3 +1,6 @@
+trojan://NISHIKUITAN111@141.193.213.141:443?#🔒 TR-TCP-NA 🇺🇸 US-141.193.213.141:443
+trojan://NISHIKUITAN111@181.214.1.7:443?#🔒 TR-TCP-NA 🇦🇪 AE-181.214.1.7:443
+trojan://d2e8f692-c67b-4cce-ea46-bcefbb725fdc@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔒 TR-WS-NONE 🇺🇸 US-151.101.2.219:80
 trojan://telegram-id-privatevpns@35.181.123.5:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.123.5:22222
 trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.88:2053
 trojan://blue2024@104.26.6.89:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.6.89:443
@@ -495,6 +498,3 @@ trojan://bpb-trojan@45.8.211.242:443?security=tls&sni=bpb.my79801.com&type=ws&ho
 trojan://blue2024@104.17.68.85:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-104.17.68.85:443
 trojan://NISHIKUITAN111@45.159.218.249:443?#🔒 TR-TCP-NA 🇺🇸 US-45.159.218.249:443
 trojan://NISHIKUITAN111@198.41.208.50:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.208.50:443
-trojan://NISHIKUITAN111@190.93.245.75:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.75:443
-trojan://auto@162.159.44.202:443?security=tls&sni=trojanmz.pages.dev&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.202:443
-trojan://bpb-trojan@86.38.214.132:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🇱🇹 LT-86.38.214.132:443
