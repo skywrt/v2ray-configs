@@ -1,3 +1,5 @@
+trojan://NISHIKUITAN111@154.92.9.71:443?#🔒 TR-TCP-NA 🇨🇾 CY-154.92.9.71:443
+trojan://NISHIKUITAN111@104.24.180.165:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.180.165:443
 trojan://blue2024@45.85.118.20:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇷🇴 RO-45.85.118.20:443
 trojan://NISHIKUITAN111@141.101.121.30:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.30:443
 trojan://TGCitizenScyu@162.159.152.29:443?sni=maikeaxiang.me&type=ws&host=maikeaxiang.me#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.152.29:443
@@ -496,5 +498,3 @@ trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443?security=tls&sni=
 trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=visa.cn&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.152.2:443
 trojan://NISHIKUITAN111@104.22.56.158:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.22.56.158:443
 trojan://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443?security=tls&sni=MoSiv2.PaGES.DeV&type=ws&host=channel-mosiv2.pages.dev&path=%2FTelegram%40V2ray_Alpha%3Fed%3D2048&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.169:443
-trojan://tg-fq521free@198.62.62.67:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.67:443
-trojan://blue2024@104.16.107.194:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.107.194:443

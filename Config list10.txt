@@ -1,3 +1,5 @@
+trojan://tg-fq521free@198.62.62.67:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-198.62.62.67:443
+trojan://blue2024@104.16.107.194:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.107.194:443
 trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.21.83.62:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.83.62:2096
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
 trojan://blue2024@162.159.44.217:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.217:443
@@ -496,5 +498,3 @@ vless://40d11375-f419-4617-91b8-e97edf972632@172.67.158.205:443?security=tls&sni
 vless://62357561-a129-4b9e-9614-ce2578020866@43.153.151.240:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-43.153.151.240:443
 vless://df84ceb1-8f46-4c14-b6a5-214c05aa5489@95.38.210.142:35021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.210.142:35021
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.251.82.187:2096?security=tls&sni=JoiNV2ngfAsT.PAgeS.dev&type=ws&host=joiNv2ngfasT.PAgeS.DEV&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:2096
-vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.155:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.155:443
-vless://4ee50f98-d646-4491-b5a5-339fd79153a4@104.17.147.22:8080?security=none&type=httpupgrade&host=h17.Xn--gmq282ekfhyys3gs.Com.&path=%2Fspeedtest.net%3Fed%3D512#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.147.22:8080

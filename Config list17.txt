@@ -1,3 +1,5 @@
+vless://ea040230-e7f4-4a54-8eed-7b02956b66b9@104.18.202.232:2053?security=tls&sni=irn-vpn-irn-vpn.veboril990.workers.Dev&type=ws&host=irn-vpn-irn-vpn.veboril990.workers.Dev&path=%2F@IRN_VPN#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:2053
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.168:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.168:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.25.138:443?security=tls&sni=Ppal03.EMAnUEL-KUhN.WoRKerS.deV&type=ws&host=ppAL03.emANuEl-KUhN.WORkERS.dEV&path=%2FizvdrDpYHr8zWWra%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.138:443
 vless://aceffb65-8bd3-4978-9cf8-afcf72edb374@162.159.192.168:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.168:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@172.67.71.187:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:8443
@@ -496,5 +498,3 @@ trojan://NISHIKUITAN111@45.131.211.23:443?#%E6%9C%AA%E7%9F%A516
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN05Eb1Z6M01lcGtXZVp6NGVzNlQxWHN1SEJ5akIybTRDVUJZZVdpZzZ3anhxejVBeVpaVUF0SDd4UEtEY2I4QVllSzNnYzlBUzRCTjRwTWJQRTZGTGVISDdTaWRCVjE=@185.5.38.111:55988#%E6%9C%AA%E7%9F%A517
 trojan://blue2024@185.148.104.78:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#US6
 trojan://blue2024@104.18.127.92:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A518
-trojan://bpb-trojan@185.238.228.210:443?sni=bpb.my79801.com#%E6%9C%AA%E7%9F%A519
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#US7%201.9MB%2Fs
