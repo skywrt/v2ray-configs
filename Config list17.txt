@@ -1,3 +1,7 @@
+vless://ac51ad36-5052-460a-842a-e13455d30cb8@104.16.4.103:443?security=tls&sni=Mahsa1.PagES.DEV&type=ws&host=mahsa1.pages.dev&path=%2Fassets%2Fimages&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.103:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.19:443
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.154:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.154:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.220:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.220:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.0.62:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.0.62:443
 vless://a2691bdd-7989-4e7e-9c44-302e360c021f@185.208.77.113:14040?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.208.77.113:14040
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.24.12.21:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.12.21:443
@@ -494,7 +498,3 @@ trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&type=ws&sni=za.ylks.xyz&
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.26:8009#US7%201.9MB%2Fs
 trojan://NISHIKUITAN111@104.17.120.144:443?#%E6%9C%AA%E7%9F%A522
 trojan://bpb-trojan@190.93.244.202:443?security=tls&type=ws&sni=fcspring.ggff.net&path=/tr?ed&host=fcspring.ggff.net#%E6%9C%AA%E7%9F%A523
-trojan://NISHIKUITAN111@172.64.168.18:443?#%E6%9C%AA%E7%9F%A524
-trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&type=ws&sni=zb.ylks.xyz&path=/&host=zb.ylks.xyz#US8
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.193:5601#US9%201.9MB%2Fs
-trojan://NISHIKUITAN111@104.19.224.216:443?#%E6%9C%AA%E7%9F%A525
