@@ -1,3 +1,10 @@
+trojan://NISHIKUITAN111@104.24.14.219:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.14.219:443
+trojan://NISHIKUITAN111@69.48.218.10:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-69.48.218.10:443
+trojan://blue2024@104.16.110.37:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.110.37:443
+trojan://NISHIKUITAN111@104.25.101.27:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.101.27:443
+trojan://blue2024@104.19.251.164:443?security=tls&sni=hb.lii2010.us.kg&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.251.164:443
+trojan://blue2024@190.93.246.151:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.246.151:443
+trojan://NISHIKUITAN111@173.245.59.91:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.59.91:443
 trojan://NISHIKUITAN111@172.66.45.25:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.45.25:443
 trojan://NISHIKUITAN111@198.41.223.8:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.223.8:443
 trojan://NISHIKUITAN111@46.254.92.27:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇷🇺 RU-46.254.92.27:443
@@ -491,10 +498,3 @@ trojan://blue2024@104.17.236.240:443?security=tls&sni=ha.lii2010.us.kg&type=ws&h
 trojan://NISHIKUITAN111@190.93.246.45:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.246.45:443
 trojan://NISHIKUITAN111@198.41.217.62:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.217.62:443
 trojan://blue2024@104.18.102.177:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.102.177:443
-trojan://NISHIKUITAN111@104.25.65.158:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.65.158:443
-trojan://NISHIKUITAN111@104.20.116.38:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.116.38:443
-trojan://blue2024@104.27.98.104:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.98.104:443
-trojan://blue2024@108.165.216.212:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇺🇸 US-108.165.216.212:443
-trojan://NISHIKUITAN111@185.170.166.26:443?#🔒 TR-TCP-NA 🇬🇧 GB-185.170.166.26:443
-trojan://NISHIKUITAN111@198.41.205.148:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.205.148:443
-trojan://TGCitizenScyu@104.18.21.69:2087?sni=maikeaxiang.me&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.21.69:2087
