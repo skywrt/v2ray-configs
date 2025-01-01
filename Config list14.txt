@@ -1,6 +1,3 @@
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.146.173.9:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.9:443
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.109:443?security=tls&sni=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&type=ws&host=mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran-mehr14-iran.gowow31220.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.109:443
-vless://028caef1-1852-4074-884b-993e8baf4fd7@156.146.53.35:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-156.146.53.35:80
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@94.140.0.65:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.65:443
 vless://62357561-a129-4b9e-9614-ce2578020866@162.159.38.105:2083?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.38.105:2083
 vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.110.92:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.110.92:443
@@ -498,3 +495,6 @@ vless://77b3cbba-e6ac-405a-9481-976a0462eab9@104.21.90.60:443?security=tls&sni=E
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.189.130:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-TLS 🇩🇪 DE-159.69.189.130:8080
 vless://31dfe29f-8ae1-4284-aa84-b1869b812e28@92.242.220.21:58021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-92.242.220.21:58021
 vless://2ffe29ef-258c-43f5-b63d-5017048950c2@104.21.78.204:443?security=tls&sni=papl03.JamaNI-KInsLEr.WORKErS.dEV&type=ws&host=pAPL03.JaMANI-kinsLEr.wORKErS.dev&path=%2FEmnMzJgeEcbarabP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.204:443
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@104.21.46.162:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.162:8443
+vless://de44b044-8f90-4e18-b742-16591667ff96@158.23.81.224:2053?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇲🇽 MX-158.23.81.224:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.65:443?security=tls&sni=lw.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.65:443
