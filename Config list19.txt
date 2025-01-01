@@ -1,3 +1,6 @@
+ss://18a8deb7-430f-46d0-b814-0231a433dc3b@www.speedtest.net:443?path=%2Fhajmi&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.ttgju.org&type=ws&sni=ttgju.org#MCI--%40V2ray_Alpha--08
+ss://ef212c2d-86a9-42b3-88af-26c73849008e@hajlab.ucdavis.edu:80?security=none&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.drlimit.net&type=ws#MCI--%40V2ray_Alpha--09
+ss://0e626bc4-44a4-4e24-baa9-604f5387db80@84.47.233.102:20014?security=none&encryption=none&headerType=none&type=tcp#MCI--%40V2ray_Alpha--10
 ss://0bf64a11-649e-49e8-8caa-6feb8e13773d@64.225.94.56:5959?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#MCI--%40V2ray_Alpha--11
 ss://1aae9657-c653-495d-e8ad-8ca52916cea8@de.bolagskontaktstockholm.se:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws#MCI--%40V2ray_Alpha--12♾نامحدود
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@173.244.56.6:443#ir--%40V2ray_Alpha--1
@@ -495,6 +498,3 @@ vless://39f57930-9789-4a00-922e-7343a2e32929@151.101.66.228:80?security=none&typ
 vless://734ae593-2b89-4461-8336-7551552ff926@151.101.128.155:80?security=none&type=ws&host=mmd.ir&path=%2FTELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---PROXY_MTM%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 vless://0b5fbb0c-fbc8-5260-a6dc-d536ba9f0e5d@151.101.130.228:443?security=tls&sni=faculty.ucdavis.edu&type=ws&host=PABLOO-MOSTAFA.COM&fp=qq#@Hope_Net-join-us-on-Telegram
 vless://f91718f2-8480-459e-e917-de5a79675157@151.101.194.165:80?security=none&sni=fishlab.ucdavis.edu&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#@Hope_Net-join-us-on-Telegram
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.195.193.173:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮`
-vless://49a7a7b7-655d-4034-9037-da4cb67dd698@HighPerformanceCyberDefenseTools.tp264.com:2052?mode=gun&security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&fp=chrome&type=grpc&serviceName=xyz&sni=wordpress.org#@meli_proxyy
-vless://49a7a7b7-655d-4034-9037-da4cb67dd698@UltraFastNetworkSecurityService.tp264.com:2052?mode=gun&security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&fp=chrome&type=grpc&serviceName=xyz&sni=wordpress.org#@meli_proxyy
