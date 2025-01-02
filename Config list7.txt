@@ -1,3 +1,8 @@
+vless://e4638cbb-c39f-4ef0-d626-e2e104557ca2@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=fonmelo.com&amp;fp=chrome&amp;type=ws&amp;sni=zmaoz.faculty.ucdavis.edu.#%40nofiltering2
+vless://14653802-4435-41ef-9210-64e4293f28b9@172.232.149.72:17123?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2ray1_Ng
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&amp;sni=ARCane-ROYAL.Pages.DEV&amp;alpn=http/1.1&amp;type=ws&amp;path=/&amp;host=ARCane-ROYAL.Pages.DEV&amp;encryption=none#Awlix_ir
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&amp;security=none&amp;encryption=none&amp;host=6.fidsxss10x.iR&amp;type=ws#%40nofiltering2
+vless://dc7b6c02-707f-4beb-99bd-7be9526aa502@speedtest.net:80?type=ws&amp;host=foffmelo.com&amp;path=/olem/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&amp;security=none#[
 vless://77540057-4504-43f7-b229-765f9b7bf35d@situnes.wlftest.xyz:443?type=tcp&amp;security=reality&amp;pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&amp;fp=ios&amp;sni=search.itunes.apple.com&amp;sid=ce&amp;spx=%2FWebObjects%2FMZSearchHints.woa%2Fwa%2Fhints%3Fmedia%3Dmusic%26term%3Dgmail&amp;flow=xtls-rprx-vision#%40WomanLifeFreedomVPN
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@us-3.lhxt.xyz:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vps.lhxt.us.kg&amp;fp=random&amp;type=ws&amp;sni=vps.lhxt.us.kg#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@iTV2RAY&amp;sni=tm.iTV2RAY.fun#%40iTV2RAY+%2F+MCI
@@ -467,34 +472,29 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTEzNjc0Ni1kZTc5LTQ2ZDAtYjNiZS1kMTVkOTk5MmZ
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIxODUuMTY4LjE5NS4yMTEiLCAicG9ydCI6IDgwODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwMjc4OGI0Ny1kOTUyLTU1ZTAtOThkZS1kNzQzZDAxYmQwMDcifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2YzVmXHU5NWU4XHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTIwLjIzNC4xMDIuMjI5IiwgInBvcnQiOiAiNTI5MDgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFx1NWRmNFx1OWVjZUFtYXpvblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJhZGQiOiAiMzUuMTgxLjc3LjY3IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2MGMwYmJmYS1jNTRmLTQ5YTktODFiYS03NzliMDIwNmE5ZmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3lsa3MiLCAiaG9zdCI6ICJubC56aHVrLnVzLmtnIiwgInRscyI6ICJ0bHMifQ==
-trojan://bcacaab-aacb-caab-cdab-cbccaabaabbc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-13-DEY-1403 🕑 07:22
-trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@48.210.193.223:443?sni=vn.mjt000.com#🔒 TR-TCP-NA 🇯🇵 JP-48.210.193.223:443
-trojan://NISHIKUITAN111@190.93.246.217:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.246.217:443
-trojan://blue2024@172.67.41.12:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.41.12:443
-trojan://NISHIKUITAN111@172.66.42.99:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.66.42.99:443
-trojan://blue2024@104.16.81.105:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.81.105:443
-trojan://NISHIKUITAN111@104.27.17.134:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.17.134:443
-trojan://NISHIKUITAN111@185.148.104.114:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-185.148.104.114:443
-trojan://blue2024@104.21.197.136:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.197.136:443
-trojan://98f0c223-cb75-4faa-859e-47110b1f052b@172.67.204.84:2096?security=tls&sni=iNTeRnET4EVERIeONe7.PaGes.DeV&type=ws&host=internet4everieone7.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2096
-trojan://blue2024@104.19.120.87:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.120.87:443
-trojan://NISHIKUITAN111@185.176.24.134:443?#🔒 TR-TCP-NA 🇷🇺 RU-185.176.24.134:443
-trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?security=tls&sni=jobsfortheworldtoday.com#🔒 TR-TCP-TLS 🇺🇸 US-38.99.82.225:443
-trojan://5e454ad1-f158-4608-a51f-5f8700964e2e@62.60.155.47:39357?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 TR-TCP-NONE 🇮🇷 IR-62.60.155.47:39357
-trojan://2add6241-8fe8-3922-8347-da25e8ced601@125.88.149.205:50079?sni=tai.doubledou.icu#🔒 TR-TCP-NA 🇨🇳 CN-125.88.149.205:50079
-trojan://WOeXShhJpL@104.21.19.243:443?security=tls&sni=06jzus.zdzdzd.xyz&type=ws&host=06jzus.zdzdzd.xyz&path=/juzigongyi#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.19.243:443
-trojan://blue2024@185.251.83.221:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇪🇸 ES-185.251.83.221:443
-trojan://bpb-trojan@104.17.152.243:443?security=tls&sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.152.243:443
-trojan://telegram-id-directvpn@34.254.140.84:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.254.140.84:22222
-trojan://blue2024@162.159.14.2:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.14.2:443
-trojan://NISHIKUITAN111@192.65.217.110:443?allowInsecure=1#🔒 TR-TCP-NA 🇦🇺 AU-192.65.217.110:443
-trojan://NISHIKUITAN111@173.245.49.55:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.55:443
-trojan://NISHIKUITAN111@193.227.99.60:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=%2F%2F#🔒 TR-WS-TLS 🇲🇹 MT-193.227.99.60:443
-trojan://blue2024@104.16.144.251:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.144.251:443
-trojan://blue2024@108.162.195.203:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.203:443
-trojan://blue2024@104.23.137.108:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.23.137.108:443
-trojan://blue2024@108.162.195.168:443?security=tls&sni=tc.promote.icu&type=ws&host=tc.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.168:443
-trojan://blue2024@104.17.31.182:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.31.182:443
-trojan://NISHIKUITAN111@45.149.12.23:443?#🔒 TR-TCP-NA 🇳🇱 NL-45.149.12.23:443
-trojan://4732adfa16c6450bbef87264e41332db@104.17.147.22:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:443
-trojan://blue2024@173.245.58.233:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.58.233:443
+trojan://bbacaca-bcaa-baca-abdc-cbaacbbaccab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-13-DEY-1403 🕑 08:19
+trojan://blue2024@173.245.49.131:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.49.131:443
+trojan://NISHIKUITAN111@5.10.244.100:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇳🇱 NL-5.10.244.100:443
+trojan://NISHIKUITAN111@141.193.213.141:443?#🔒 TR-TCP-NA 🇺🇸 US-141.193.213.141:443
+trojan://blue2024@162.159.22.138:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.22.138:443
+trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443?security=tls&sni=is2.trojanvpn.xyz&type=ws&host=is2.trojanvpn.xyz&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-190.93.247.155:443
+trojan://NISHIKUITAN111@190.93.245.80:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.80:443
+trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?security=tls&sni=yournextcareerstep.online&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-108.61.177.251:443
+trojan://blue2024@46.254.93.66:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.66:443
+trojan://NISHIKUITAN111@92.53.191.173:443?#🔒 TR-TCP-NA 🇸🇮 SI-92.53.191.173:443
+trojan://blue2024@172.67.130.85:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.130.85:443
+trojan://NISHIKUITAN111@104.25.99.96:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.99.96:443
+trojan://blue2024@104.18.211.40:443?security=tls&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=%2F%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.211.40:443
+trojan://blue2024@172.67.179.208:443?security=tls&sni=tb.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.179.208:443
+trojan://bpb-trojan@188.114.97.123:443?sni=adagio.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.123:443
+trojan://blue2024@172.67.75.172:443?sni=tc.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.75.172:443
+trojan://blue2024@198.41.212.250:443?sni=ta.promote.icu&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.212.250:443
+trojan://bpb-trojan@104.18.181.179:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.181.179:443
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@167.234.218.40:443?security=tls&sni=us01.ssr.ee&type=tcp&host=speedtest.net&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-167.234.218.40:443
+trojan://bpb-trojan@198.41.211.21:443?security=tls&sni=bpb.my79801.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-198.41.211.21:443
+trojan://NISHIKUITAN111@45.159.218.63:443?#🔒 TR-TCP-NA 🇺🇸 US-45.159.218.63:443
+trojan://NISHIKUITAN111@198.41.207.166:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.207.166:443
+trojan://blue2024@104.19.162.122:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.162.122:443
+trojan://blue2024@104.17.250.47:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.250.47:443
+trojan://NISHIKUITAN111@45.159.216.191:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-45.159.216.191:443
+trojan://29e0206a-2cef-4c8d-aa4b-dd7a43748167@151.101.194.133:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3F%40V2ray_Alpha-d%3D4096&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.133:443
