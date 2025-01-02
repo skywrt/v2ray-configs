@@ -1,3 +1,6 @@
+trojan://blue2024@188.114.99.181:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.99.181:443
+trojan://blue2024@190.93.244.208:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg#🔒 TR-WS-NA 🏴‍☠️ NA-190.93.244.208:443
+trojan://NISHIKUITAN111@104.18.113.114:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.113.114:443
 trojan://blue2024@104.18.41.190:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.41.190:443
 trojan://NISHIKUITAN222@104.17.58.219:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.17.58.219:443
 trojan://NISHIKUITAN111@172.64.38.107:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.38.107:443
@@ -495,6 +498,3 @@ vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@108.162.193.56:443?security=tls&sni
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.201:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.201:443
 vless://03d7d72c-4364-4a9a-a5c5-e4ab74fcb35d@162.159.134.233:443?security=tls&sni=hellostone6996.pages.dev&type=ws&host=hellostone6996.pages.dev&path=/?ed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.233:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@172.67.162.95:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.95:443
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@108.162.193.59:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.59:443
-vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@185.231.181.176:9393?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.231.181.176:9393
-vless://b221040b-2736-46e6-2123-eeb1ad1bb52d@188.245.107.120:8247?security=none&sni=cphy-926.f-sub.com&type=tcp&host=iran.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.107.120:8247

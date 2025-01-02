@@ -1,3 +1,6 @@
+vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:2095?type=ws&host=wz1226.9si685h0.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.14.19:2095
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.245:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.245:443
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@160.153.0.131:2082?security=none&type=ws&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-160.153.0.131:2082
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.34.155:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.34.155:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.79.20:443?security=tls&sni=ppAl03.FihoKaC288.WoRKErS.DeV&type=ws&host=pPAl03.FIhOkaC288.wOrkerS.Dev&path=%2F7yCBIFjRSCHHVWBS%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.20:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.115:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.115:443
@@ -495,6 +498,3 @@ vless://49a7a7b7-655d-4034-9037-da4cb67dd698@104.17.147.22:2087?security=tls&sni
 vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@104.21.84.3:443?security=tls&sni=wwwd7e1909f3a7e4477.jostar-data.nl&type=httpupgrade&host=d7e1909f3a7e4477.jostar-data.nl&path=%2Fquran%2Fdeam_net301.67+GB%2F%3Fed%3D2560&fp=firefox&alpn=h3#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.84.3:443
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@104.16.250.188:443?security=tls&sni=lhxt.xiaomi.win&type=ws&host=lhxt.xiaomi.win&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.250.188:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.34.142:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.34.142:443
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.186:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-171.22.125.186:2198
-vless://61bd51fc-06d2-42d8-854a-2aff6458bacd@95.38.106.175:46284?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.106.175:46284
-vless://af8b1b26-38c4-4b38-89d9-afcb551c806c@172.64.155.209:443?security=tls&sni=webp.yandeximage.ru&type=ws&host=webp.yandeximage.ru&path=%2F%40ConnectStixUrewsdlfB8Yu6ADoNQS2Cq&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.155.209:443
