@@ -1,3 +1,6 @@
+vless://648d41d2-ae83-4ee0-961a-a6c0acbece13@104.21.90.112:443?security=tls&sni=hashemjavid1367.hashemjavid1988.workers.dev&type=ws&host=hashemjavid1367.hashemjavid1988.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.112:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.239:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.239:443
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?security=none&type=ws&host=fraud.chase&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.67.1:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.55:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.55:443
 vless://4c3dd5be-d0bc-4bc5-a4f1-c00b95533556@45.131.6.6:8443?security=tls&sni=akilelaxub.eessgrgrgrgr.cloudns.nz&type=ws&host=akilelaxub.eessgrgrgrgr.cloudns.nz&path=%2Fuhfuiheuifhefeeeeeeee&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.6:8443
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@185.148.106.24:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.24:443
@@ -495,6 +498,3 @@ vless://5164ba71-f145-42f7-b618-b3a7659544ef@104.21.25.209:443?security=tls&sni=
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.0:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.0:443
 vless://3f344bc8-01b4-4b08-82ab-c906525ce8b3@198.41.209.2:8443?security=tls&sni=com.barandldl.ir&type=grpc&serviceName=%40metavpnn&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.209.2:8443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.80.110.115:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.115:443
-vless://0069b36c-ba6c-4c70-ae39-71be514b9820@79.127.70.103:443?security=none&type=tcp&host=archlinux.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.103:443
-vless://0fb53a60-2372-412a-a693-5157b58ecc94@104.21.39.212:80?security=none&sni=v2raylandd-85.upftsx.workers.Dev&type=ws&host=v2raylandd-85.upftsx.workers.Dev&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.39.212:80
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.237.99:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.237.99:443

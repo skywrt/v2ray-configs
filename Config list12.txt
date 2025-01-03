@@ -1,3 +1,6 @@
+vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.246.185:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.185:443
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.23:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.23:443
+vless://e9ff847b-e8ff-4690-bd68-d024c63c381e@172.67.111.53:443?security=tls&sni=r-uHMYL7d2INfl3Pf4.sm-node.com&type=ws&host=cdn-ca.sm-node.com&path=%2Fvless_ws%2Fsmjc%2Findex%3Fed%3D8192&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.53:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.120:443
 vless://247ed917-18a3-4d34-860e-51e4808c2511@104.21.93.138:2087?security=tls&sni=x2.49azvoldkabadc.fun&type=grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.93.138:2087
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.18.14.133:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.133:443
@@ -495,6 +498,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.39.67:443?security=tls&sni=a
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@103.106.2.239:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-103.106.2.239:2198
 vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@104.21.94.168:80?security=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.168:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.174.46.251:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-54.174.46.251:22222
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.192:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc#🔒 VL-GRPC-TLS 🇬🇧 GB-185.170.166.192:443
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@172.66.44.53:8443?security=tls&sni=societshaia7rysv.aminho3ien.ir&type=grpc&serviceName=@iMrV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.53:8443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.202:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.202:443
