@@ -1,6 +1,3 @@
-vless://365de7de-77b2-4a62-aec3-66a6bd41813e@104.26.12.31:8080?sni=feng5.ogazo8c3.workers.dev&type=ws&host=feng5.ogazo8c3.workers.dev&path=/&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.12.31:8080
-vless://bf3faac7-1f9e-4dcb-8a71-853e209e050a@199.232.124.59:443?security=tls&sni=TEHRANARGO.tr&type=ws&host=TEHRANARGO.tr&path=/@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO-|-@TEHRANARGO%3Fed%3D256&fp=randomized&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-199.232.124.59:443
-vless://c5ef3997-da1c-4ed3-91e3-f3253c1aeb48@104.21.80.1:2082?path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082Telegram#🔒 VL-TCP-NA 🏴‍☠️ NA-104.21.80.1:2082
 vless://86e90833-7f6c-48b5-b273-9b4a55568e4e@151.101.129.111:80?security=none&type=ws&host=isna.ir&path=%2Fnews#🔒 VL-WS-NONE 🇺🇸 US-151.101.129.111:80
 vless://f647c9dd-e84c-44c2-85a4-1e3e47848fcc@104.16.212.130:8443?security=tls&sni=Tsest2.varzesh3.ru&type=xhttp&host=Tsest2.varzesh3.ru&path=%2Fwe.cd.2096&fp=chrome&alpn=h2#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.16.212.130:8443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.246.185:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.185:443
@@ -498,3 +495,6 @@ vless://790abba4-0be7-4dcc-b061-94fa4582bd40@104.19.36.44:443?security=tls&sni=o
 vless://13fa0037-5480-446b-8885-714e424677fb@104.16.145.82:80?security=none&type=ws&host=black-wind-7f73lb.jewefe6869.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.145.82:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.190:443?security=tls&sni=V2nGFast-d4W.PaGes.dev&type=ws&host=V2nGFaST-d4w.PagES.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.190:443
 vless://47db2974-4a09-49c0-b111-ec24537f2d3b@104.21.96.1:8443?security=tls&sni=peg1.pages.dev&type=ws&host=peg1.pages.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:8443
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR&type=grpc&fp=firefox&alpn=null#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.137.11:443
+vless://e5dd37d6-4fd0-4027-90b2-c445333f63d6@188.114.97.3:80?security=none&type=ws&host=1.www.speedtest.net.zula.ir.zemestanil.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:80
+vless://f6a036f7-9437-4c90-8320-80200afe84b8@199.232.0.1:80?security=none&type=ws&host=game.baziha0098.ir&path=%2F%3Fed%3D80#🔒 VL-WS-NONE 🇺🇸 US-199.232.0.1:80
