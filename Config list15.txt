@@ -1,3 +1,5 @@
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.48:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.48:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.104.117:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.117:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.12:443?security=tls&sni=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&type=ws&host=telegraM-VirginiaVpn.noleCa2676.WorkerS.DEV&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
 vless://f8d843dc-46db-49a7-a4d3-3f87e968f4e2@104.26.13.101:2087?security=tls&sni=VlP.varzesh3.ru&type=ws&host=VlP.varzesh3.ru&path=%2Fwe.dc.2096&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.101:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.85.105:443?security=tls&sni=v2.yunCHUn.toP&type=ws&host=v2.yunCHUn.toP&path=%2Ff0taij0njqobq4qi%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.105:443
@@ -496,5 +498,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.121.183:443?security=tls&sn
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.238.47:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.238.47:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.6.6:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.6.6:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.19.34.155:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.34.155:443
-vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@104.21.43.124:80?security=none&type=ws&host=SwMeHrV2ray.naziitness.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.124:80
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@66.235.200.146:2096?security=tls&sni=Bpb005.pageS.dev&type=ws&path=%2Fhzhfpw9gkziupyad%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.146:2096

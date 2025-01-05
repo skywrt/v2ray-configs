@@ -1,3 +1,5 @@
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@193.123.81.105:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇪 AE-193.123.81.105:443
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:80
 vless://365de7de-77b2-4a62-aec3-66a6bd41813e@104.26.12.31:8080?sni=feng5.ogazo8c3.workers.dev&type=ws&host=feng5.ogazo8c3.workers.dev&path=/&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.26.12.31:8080
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.133:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.133:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.135.186:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.186:443
@@ -496,5 +498,3 @@ trojan://NISHIKUITAN111@104.22.50.122:443?#%E6%9C%AA%E7%9F%A52
 trojan://blue2024@104.16.110.37:443?security=tls&type=tcp&sni=hb.lii2010.us.kg#%E6%9C%AA%E7%9F%A53
 trojan://blue2024@104.17.146.191:443?security=tls&type=ws&sni=ha.lii2010.us.kg&path=/?ed&host=ha.lii2010.us.kg#%E6%9C%AA%E7%9F%A54
 trojan://dns68@135.84.79.80:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#US
-trojan://yaml777@104.21.61.73:443?security=tls&type=ws&sni=yaml7.ggff.net&path=/&host=yaml7.ggff.net#%E6%9C%AA%E7%9F%A55
-trojan://blue2024@172.64.106.205:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A56
