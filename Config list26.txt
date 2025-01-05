@@ -1,3 +1,4 @@
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.152:2053?security=tls&amp;sni=cvl.esslh.filegear-sg.me&amp;type=ws&amp;host=cvl.esslh.filegear-sg.me&amp;path=%2F%3Fed%3D2560#@Hope_Net-join-us-on-Telegram
 vless://10108025-9c35-4ae3-ae7c-c6b6db5297aa@hajlab.ucdavis.edu:443?security=tls&amp;encryption=none&amp;host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v08.drlimit.net&amp;fp=chrome&amp;type=ws&amp;sni=hajlab.ucdavis.edu#telegram
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@3.234.142.248:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
 vless://60985471-8040-bc44-213e-780f6a853aa9@151.101.2.216:80?security=none&amp;type=ws&amp;host=marzneshinnetherland.com.au#@Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://telegram-id-directvpn@3.10.136.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@13.43.18.60:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://telegram-id-privatevpns@63.176.0.62:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S114)
-trojan://telegram-id-privatevpns@52.59.79.198:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
