@@ -1,5 +1,3 @@
-vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@104.21.88.129:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.129:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@213.241.198.167:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇷🇺 RU-213.241.198.167:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.71:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.71:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.67.79.211:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.211:443
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@172.67.214.246:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.246:2096
@@ -498,3 +496,5 @@ vless://c142dd91-b36b-430b-b0d7-8c9c2a073a1e@104.17.147.22:2086?security=none&ty
 vless://219d848d-60f2-4321-8275-72b9b575b37e@173.245.59.19:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.19:443
 vless://d2ec9ee3-d875-4735-9176-e6252c08a178@217.18.90.81:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-217.18.90.81:443
 vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.115:2083
+vless://96d3c79f-83bd-4888-93c4-3da9c4fd3d69@104.19.222.79:8443?security=tls&sni=old.baghdad-first.info&type=ws&host=old.baghdad-first.info&path=%2Fblack&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.222.79:8443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.167:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.167:443
