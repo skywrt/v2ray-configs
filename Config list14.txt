@@ -1,4 +1,3 @@
-vless://18758238-2625-2730-3689-f157ae275ad4@104.17.213.228:443?security=tls&sni=cag.qwapples.com&type=grpc&serviceName=grpc&fp=random&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.213.228:443
 vless://66726565-7670-4e2e-b573-2d68736a6273@104.20.5.134:80?security=none&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.5.134:80
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.67.5.78:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.5.78:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.100.62:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.75.100.62:22222
@@ -498,3 +497,4 @@ vless://62357561-a129-4b9e-9614-ce2578020866@52.141.25.42:443?security=tls&sni=e
 vless://df77b09e-a079-4a2d-a382-c1e0dae18107@132.226.225.37:443?security=tls&flow=xtls-rprx-vision&sni=dj-downloadkr1.xn--4gq62f52gopi49k.com&type=tcp&fp=firefox#🔒 VL-TCP-TLS 🇰🇷 KR-132.226.225.37:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.203.125:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.203.125:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.4:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.4:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@176.124.223.171:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇷🇺 RU-176.124.223.171:443

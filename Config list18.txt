@@ -1,4 +1,3 @@
-vless://219d848d-60f2-4321-8275-72b9b575b37e@104.17.137.39:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.137.39:443
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:8443?security=tls&sni=esetsecuritylicense.ujlqwtae.wORkErS.dev&type=ws&host=esetsecuritylicense.ujlqwtae.wORkErS.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.106:443?security=tls&sni=lw.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.106:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.16.118.241:2096?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.118.241:2096
@@ -498,3 +497,4 @@ trojan://9b09534c-4bb1-4943-b2e7-b4c97ccae541@151.101.0.155:80?security=none&typ
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:8888#US34%201.8MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%E6%9C%AA%E7%9F%A599
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#US35%201.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndXk1YUFyMTlhbUsxN3pqNzRTSGtV@89.185.84.185:443#%E6%9C%AA%E7%9F%A5100%2010.1MB%2Fs
