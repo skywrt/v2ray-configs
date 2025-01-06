@@ -1,4 +1,3 @@
-trojan://blue2024@172.64.35.110:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.110:443
 trojan://NISHIKUITAN111@167.68.11.173:443?security=tls&sni=zb.ylks.xyz&type=ws&host=zb.ylks.xyz&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-167.68.11.173:443
 trojan://3723507166611775488@109.61.16.83:443?security=tls&sni=profound-elk.boa152.lol&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-109.61.16.83:443
 trojan://blue2024@172.64.167.160:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.167.160:443
@@ -498,3 +497,4 @@ trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.work
 trojan://blue2024@173.245.49.143:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.49.143:443
 trojan://CMLiussss@162.159.134.233:443?security=tls&sni=xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg&type=ws&host=xn--ihqr6fry8avpdn79betc.xn--cm-nk7c025a9uua2635cesu.us.kg&path=%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.134.233:443
 trojan://blue2024@104.16.113.194:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.113.194:443
+trojan://r8CTEc4F7K@172.67.196.170:2083?security=tls&sni=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff.net&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.196.170:2083

@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.56:5600
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.64.164.15:6697#🔒 SS-TCP-NA 🇺🇸 US-139.64.164.15:6697
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.204:8090#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.204:8090
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.247:2376
@@ -498,3 +497,4 @@ trojan://NISHIKUITAN111@141.101.121.18:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.
 trojan://blue2024@104.16.160.4:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.160.4:443
 trojan://3723507166611775488@80.240.112.167:443?security=tls&sni=ample-cockatoo.boa152.lol&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-80.240.112.167:443
 trojan://blue2024@190.93.245.62:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-190.93.245.62:443
+trojan://blue2024@172.64.35.110:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.35.110:443
