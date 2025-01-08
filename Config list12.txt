@@ -1,7 +1,3 @@
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.5:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.5:443
-vless://e1a5d8a9-ff86-4092-aab7-407251c19802@104.21.28.188:8880?security=none&type=ws&host=www.speedtest.net.i.xn--110-qze36dsg.cdn.kiava.live.&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8880
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-188.119.112.3:2198
-vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@154.92.9.46:8880?security=none&type=ws&host=csgo.mozilla.5.0.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.127.0.0.1.offlinespeedtest.netdown.user.xn--2b5baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.0.2.1.xn--j9h1028mqmaoytii00aha21hfjrd.xn--m39h.tor.rubika.cloudns.ch.&path=%2F%40%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒 VL-WS-NONE 🇨🇾 CY-154.92.9.46:8880
 vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@190.93.247.130:8443?security=tls&sni=eyd.Saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.130:8443
 vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.219:2083?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.219:2083
 vless://43aa184c-531f-6c57-cc83-88c3f1921a76@199.232.212.3:80?security=none&type=ws&host=connectiran.ir#🔒 VL-WS-NONE 🇺🇸 US-199.232.212.3:80
@@ -498,3 +494,7 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.120:443?security=tls&sn
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.251.83.50:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇪🇸 ES-185.251.83.50:8443
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@104.21.26.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.58:443
 vless://89b90001-4206-4871-a99d-1744d48f215b@104.21.21.31:443?security=tls&sni=gbr.cishanjichang.me&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.21.31:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.154:443?security=tls&sni=ka.lii2010.us.kg&type=ws&host=ka.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.154:443
+vless://219d848d-60f2-4321-8275-72b9b575b37e@188.114.97.254:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.254:443
+vless://1dc4ebf3-7c30-4e99-9f67-c755801b0aaa@104.20.195.223:8443?security=tls&sni=mn.aftabe12.ir&type=ws&host=mn.aftabe12.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.195.223:8443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@194.76.18.10:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇰🇿 KZ-194.76.18.10:443
