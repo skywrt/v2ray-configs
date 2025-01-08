@@ -1,4 +1,3 @@
-trojan://telegram-id-directvpn@3.125.0.167:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://b264982e-e333-4085-ac04-406afef23455@naiu-jp.05vr9nyqg5.download:13012?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E5%85%B3%E6%B3%A8%E7%94%B5%E6%8A%A5https%3A%2F%2Ft.me%2Fmftizi
 trojan://telegram-id-privatevpns@13.38.171.109:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S116)
 trojan://SSorg@104.19.60.104:2096?allowInsecure=1&amp;sni=ssjj.esslh.filegear-sg.me#@Hope_Net-join-us-on-Telegram

@@ -1,4 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://44912129-199f-5742-897a-442d8960dd15@185.146.173.38:80?path=%2Fvless&amp;security=none&amp;encryption=none&amp;host=Pl1.vless.site.&amp;type=ws#%40hopev2ray%F0%9F%A7%A1
 ss://79548d0f-6d07-4370-bc64-eef441bb0395@23.88.125.0:1234?security=reality&amp;encryption=none&amp;pbk=appEoaCMnarRhUZDRn8zy40eQqy87IohvyWeFSPFjjE&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=a172f284#%40V2ray1_kingofilter
 ss://adc29165-bdfc-495a-8cc3-e117bd0231fb@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;fp=safari&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=dm.XsV2ray.cfd#%40
@@ -498,3 +497,4 @@ ss://08c951be-8425-42fa-98e9-154a20eb61f9@fishlab.ucdavis.edu:443?path=%2Ftelegr
 ss://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@151.101.2.133:443?security=tls&amp;sni=live.989bull.com&amp;type=ws&amp;host=aft.fi&amp;path=%2FTorCippyy%3Fed%3D2048&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.87.124:22222?security=tls&amp;sni=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;path=%2Ftelegram-channel-vlessconfig-ws&amp;fp=chrome#@Hope_Net-join-us-on-Telegram
 ss://Parsashonam-145@[2a01:4f8:1c1b:26eb::1]:8888?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@Parsashonam
+ss://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:36137?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%203
