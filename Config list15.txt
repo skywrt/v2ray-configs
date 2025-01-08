@@ -1,3 +1,5 @@
+vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@172.64.33.201:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.201:443
+vless://0792bb58-36ac-451e-a629-e363e53da93b@172.67.180.67:443?security=tls&sni=kafka.eula.cloudns.org&type=ws&host=kafka.eula.cloudns.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.67:443
 vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.6.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.149:2053
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.251.82.226:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇪🇸 ES-185.251.82.226:8443
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&sni=ARCane-ROYAL.Pages.DEV&type=ws&host=ARCane-ROYAL.Pages.DEV&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.14.99:443
@@ -496,5 +498,3 @@ vless://48b94941-d602-11ee-aaa8-00505603e70d@104.21.82.17:443?security=tls&sni=s
 vless://3a0b4b0a-0c0f-4378-9275-725f1a9d454a@172.67.75.178:443?security=tls&sni=Sauron.Melkore.ir&type=ws&host=Sauron.Melkore.ir&path=%2FUngoliant3%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.178:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@173.245.58.162:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.162:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@198.41.217.94:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.217.94:443
-vless://23b3cbba-e6ac-485a-9481-342a0415eab9@104.21.81.174:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.81.174:80
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.16.96.3:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.96.3:443
