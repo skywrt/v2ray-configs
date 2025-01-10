@@ -1,3 +1,9 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0397
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0395
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-0393
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0392
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0396
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0386
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-1278
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-165.22.74.230-0447
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.77-0405
@@ -492,9 +498,3 @@ vless://7c95e3b5-9c45-4795-f954-b0ca84e648a9@104.21.16.1:443?security=tls&sni=ta
 vless://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.14.19:8080?security=none&type=ws&host=0105.f5s8fbc2.workers.dev#@Hope_Net-join-us-on-Telegram
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInMxLmRiLWxpbmswMi50b3AiLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIxLjE1MS4yMDIiLCAiaG9zdCI6ICIxMDAtMjEzLTYxLTEwMi5zMS5kYi1saW5rMDIudG9wIiwgInRscyI6ICIifQ==`
 vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BAtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
-vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:40286?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BAtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri`
-vless://1917caae-f3d3-47d6-bfaa-d863a9ee941e@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D888&security=none&encryption=none&host=Germany2-nufilter.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws3`
-vless://2bd6bc19-efce-4a9c-8484-fa2b448c24f2@uciranir.xn--4oq36ed28d.online:443?security=tls&type=tcp&headerType=&path=&host=&sni=&fp=&allowInsecure=1#@meli_proxyy`
-vless://MTM_SMART_BOT@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=fexsGRPipbnUu24A_jgRBd9R6x5HX6Yo4dqqJkv2THI&fp=randomized&spx=%2F&type=grpc&alpn=/@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran,--@mehrosaboran&serviceName=MTM_SMART_BOT&sni=refersion.com&sid=80df7a7d0c717ffa#%40mehrosaboran`
-vmess://eyJhZGQiOiJ5eDIuY2hhbmd5b3VWUE4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZGx5LmNoYW5neW91VlBOLnRvcCIsImlkIjoiY2Q4MmViZWItZjlkZi00ZTFhLWE1NjMtYWM4YzYzMjc4MTM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoi8J+qmTU0QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://tg-fq521free@216.24.57.30:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org#%F0%9F%AA%9946%40oneclickvpnkeys
