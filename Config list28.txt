@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.195.192.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://542f66d8-6b06-4340-a829-76d23db7ca80@185.146.173.42:443?path=%2F&amp;security=tls&amp;host=fr1.trojanvpn.xyz&amp;type=ws&amp;sni=fr1.trojanvpn.xyz#%40hopev2ray%E2%9D%A4%EF%B8%8F
 trojan://47268f30-ceb9-11ef-9f66-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%E2%AD%90
 trojan://7f2b54d0-c85d-11ef-9e18-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=zula.ir#%40V2ray1_kingofilter
