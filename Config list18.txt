@@ -1,3 +1,4 @@
+vless://07bb719d-a300-4e08-acc3-fdebec273425@104.18.6.55:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960012.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.6.55:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.33:443?security=tls&sni=dd.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.33:443
 vless://2ffe29ef-258c-43f5-b63d-5017048950c2@104.21.78.204:443?security=tls&sni=papl03.JamaNI-KInsLEr.WORKErS.dEV&type=ws&host=pAPL03.JaMANI-kinsLEr.wORKErS.dev&path=%2FEmnMzJgeEcbarabP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.204:443
 vless://7c01cd45-7b64-46fd-afb5-4da8cfe9e21c@135.181.147.178:2082?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇫🇮 FI-135.181.147.178:2082
@@ -497,4 +498,3 @@ vless://1ffc2033-a289-4bb2-96a1-04b707b19255@104.21.13.125:8880?security=none&ty
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@103.116.7.67:2083?security=tls&sni=nvl.esslh.filegear-sg.me&type=ws&host=nvl.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-103.116.7.67:2083
 vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?security=none&type=ws&host=crimson-cell-5828-ppal03.febox45376.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.129:80
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@108.162.195.146:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.146:443
-vless://c4ccdba8-dfae-4354-a78c-3d5f113f15d7@104.19.40.30:443?security=tls&sni=violation-em-pulling-referenced.trycloudflare.com&type=ws&host=violation-em-pulling-referenced.trycloudflare.com&path=%2Fc4ccdba8-dfae-4354-a78c-3d5f113f15d7-vless%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.40.30:443

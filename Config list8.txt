@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@141.101.121.18:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-141.101.121.18:443
 trojan://f8bb4ae1-2358-4a76-ab75-2a6bc94272d6@151.101.194.228:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&type=ws&host=hgc6rct87gy.com&path=ws%2F%3Fed%3D2048#🔒 TR-WS-TLS 🇺🇸 US-151.101.194.228:443
 trojan://NISHIKUITAN111@104.18.144.43:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.18.144.43:443
 trojan://blue2024@162.159.250.15:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.250.15:443
@@ -497,4 +498,3 @@ trojan://3723507166611775488@35.176.215.178:443?security=tls&sni=leading-shrew.b
 trojan://blue2024@195.85.59.95:443?security=tls&sni=hb.lii2010.us.kg&type=ws#🔒 TR-WS-TLS 🇨🇾 CY-195.85.59.95:443
 trojan://blue2024@104.20.198.59:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-104.20.198.59:443
 trojan://NISHIKUITAN111@104.27.198.65:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.27.198.65:443
-trojan://0bfa2050-b165-4156-859c-70f36d300dce@18.182.12.198:20230?security=tls&sni=421421.xyz#🔒 TR-TCP-TLS 🇯🇵 JP-18.182.12.198:20230

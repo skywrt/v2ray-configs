@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.161.106:443?security=tls&sni=FAlLING-moUNTaIn-feDa.0aFcB2f493.woRkeRs.DEV&type=ws&host=fALlING-MOUntAiN-FEDA.0AfCB2F493.WORkeRS.dEv&path=%2FN39iaguwplzJWORX%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.106:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.16:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.215.16:443
 vless://ad8aa9eb-7120-4953-a877-e7206f5a7c3c@188.114.99.99:2096?security=tls&sni=tarasvalete.parhamtraberthos.IR.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2096
 vless://160cbd39-9585-47f0-8a6a-0e0ede807a8d@104.21.13.125:8080?security=none&type=httpupgrade&host=101.www.speedtest.net.Mact.iR.&path=%2FTELEGRAM-PROXY_MTM%3Fed%3D2048#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.13.125:8080
@@ -497,4 +498,3 @@ vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.16.51.224:443?security=tls&sni=
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.74.228.55:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇧🇦 BA-77.74.228.55:443
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:80
 vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@104.21.43.124:80?security=none&type=ws&host=SwMeHrV2ray.naziitness.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.124:80
-vless://6bda23c7-7fb6-494e-aa9f-7114940c0475@104.25.57.133:2052?security=none&type=httpupgrade&host=gOrde.www.speedtest.net.6.2.4.1.8.9.cloudflare.co.ZearOMod.iR&path=%2FG%2Fb4t6hy5n%2F%3Fed%3D2052#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.25.57.133:2052

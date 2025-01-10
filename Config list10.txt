@@ -1,3 +1,4 @@
+trojan://blue2024@31.12.75.68:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇷🇺 RU-31.12.75.68:443
 trojan://blue2024@104.21.70.175:443?security=tls&sni=ha.lii2010.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.70.175:443
 trojan://SSorg@188.164.159.25:2053?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇦🇲 AM-188.164.159.25:2053
 trojan://bpb-trojan@45.131.209.114:443?sni=bpb.my79801.com#🔒 TR-TCP-NA 🇳🇱 NL-45.131.209.114:443
@@ -497,4 +498,3 @@ vless://257883ae-ceb5-495b-9997-f8807b300a6c@137.184.171.113:1615?security=reali
 vless://46ce658d-c433-430a-84aa-5980026badac@46.4.65.250:443?security=reality&flow=xtls-rprx-vision&sni=website.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇩🇪 DE-46.4.65.250:443
 vless://6376e674-ceba-4ae7-91a1-42a9fb87cb43@103.167.234.97:443?security=reality&flow=xtls-rprx-vision&sni=spirako.com&type=tcp&fp=chrome&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo#🔒 VL-TCP-RLT 🇵🇱 PL-103.167.234.97:443
 vless://499527a2-fe8c-43df-8885-37cd5f8d729e@146.190.27.90:2060?security=reality&sni=www.stackoverflow.com&type=grpc&serviceName=t.me/entryNET&fp=firefox&pbk=h64jDxauUagF90N59BEKz5NzinfuHieilx0XuXOkAwQ&sid=0ede823b93853771#🔒 VL-GRPC-RLT 🇳🇱 NL-146.190.27.90:2060
-vless://a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff@89.221.225.159:2053?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI&sid=e8ebda2f23f6#🔒 VL-TCP-RLT 🇲🇩 MD-89.221.225.159:2053
