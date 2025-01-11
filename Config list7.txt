@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.46:6379
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#🔒 SS-TCP-NA 🇺🇸 US-23.150.152.16:6379
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.27:8881#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.27:8881
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.138:5004#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.138:5004
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.142:9101#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:9101
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.3:5601#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.3:5601
@@ -495,6 +498,3 @@ trojan://NISHIKUITAN111@190.93.246.217:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-190.
 trojan://SSorg@154.197.64.219:2083?sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.219:2083
 trojan://blue2024@172.64.38.133:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.38.133:443
 trojan://3723507166611775488@91.206.179.179:443?security=tls&sni=holy-seahorse.boa152.lol&type=tcp#🔒 TR-TCP-TLS 🇵🇱 PL-91.206.179.179:443
-trojan://3723507166611775488@5.189.203.50:443?security=tls&sni=devoted-starfish.boa152.lol&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-5.189.203.50:443
-trojan://blue2024@104.18.123.217:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.123.217:443
-trojan://blue2024@104.17.168.184:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.168.184:443

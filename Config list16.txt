@@ -1,3 +1,6 @@
+vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@167.68.42.213:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-167.68.42.213:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.35.145:443?security=tls&sni=lu.ylks.us.kg&type=ws&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.35.145:443
+vless://8b269721-714f-4bb8-a18e-76038fbec1ec@199.232.112.11:443?security=tls&sni=Elena.io&type=ws&host=jOin-E.L.i.V.2.R.A.Y.stOre&path=%2FVLESS%3Fed%3D2560&allowInsecure=1#🔒 VL-WS-TLS 🇧🇷 BR-199.232.112.11:443
 vless://a2056696-90fc-4e0a-b7c8-e85ce9f96d18@172.64.40.169:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.40.169:80
 vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.245.82:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.245.82:443
 vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.97.73:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.97.73:443
@@ -495,6 +498,3 @@ vless://6f026cbd-5d4a-4d49-b653-9e02f3c1124d@217.18.90.57:443?security=none&sni=
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.85:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.85:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443?security=tls&sni=da.ylks.xyz&type=ws&host=da.ylks.xyz&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.186:443
 vless://f558f4db-96e5-4e79-8b57-34e39ba4899b@104.21.48.1:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws79.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.48.1:8880
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@92.53.190.214:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇮 SI-92.53.190.214:8443
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.18.28.173:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.28.173:443
-vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.15.212:8080

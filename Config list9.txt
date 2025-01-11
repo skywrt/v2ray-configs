@@ -1,3 +1,6 @@
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:2083
+trojan://NISHIKUITAN111@185.148.104.251:443?#🔒 TR-TCP-NA 🇺🇸 US-185.148.104.251:443
+trojan://blue2024@104.20.73.186:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.20.73.186:443
 trojan://SSorg@199.34.228.143:2096?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.143:2096
 trojan://blue2024@173.245.49.94:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.94:443
 trojan://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&flow=xtls-rprx-vision&sni=google.com&type=tcp&fp=firefox&pbk=ra4OxEIGMgGc84ujeHHHuks4AKE_PXakoKFvL89b71E&sid=680a8928#🔒 TR-TCP-REALITY 🇩🇪 DE-95.164.117.128:8880
@@ -495,6 +498,3 @@ trojan://blue2024@160.153.0.167:443?security=tls&sni=b.promote.icu&type=tcp#🔒
 trojan://bpb-trojan@141.101.113.119:443?security=tls&sni=fcspring.ggff.net&type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed#🔒 TR-WS-TLS 🏴‍☠️ NA-141.101.113.119:443
 trojan://SSorg@160.79.105.80:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-160.79.105.80:2087
 trojan://blue2024@108.162.195.207:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-108.162.195.207:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
-trojan://blue2024@104.21.96.1:443?sni=ta.promote.icu&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.96.1:443
-trojan://d2e8f692-c67b-4cce-ea46-bcefbb725fdc@151.101.194.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#🔒 TR-WS-NONE 🇺🇸 US-151.101.194.219:80
