@@ -1,4 +1,3 @@
-ss://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#IR-%40V2ray_Alpha-04
 ss://25a0ffa0-725c-4d6f-b0d5-c74579753075@103.173.66.155:443?security=tls&headerType=none&type=tcp#IR-%40V2ray_Alpha-05
 ss://71b60539-19bf-4282-b09f-7596ffc3cc8b@108.181.154.229:443?security=reality&encryption=none&pbk=OPE-zPWEJovJzhxKqSRYw4p09xfk1H9aitvnyhPncRA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=Aa04cAc3#IR-%40V2ray_Alpha-06
 ss://527c25e5-6b7c-464f-8930-230b5955d582@85.9.120.200:8888?security=none&encryption=none&headerType=none&type=tcp#IR-%40V2ray_Alpha-07
@@ -498,3 +497,4 @@ vless://162ef4ea-da9b-434f-af78-8a58008b9914@hajlab.ucdavis.edu:443?path=%2F%40S
 vless://7349a573-3f77-4206-b4b3-64629af219df@104.21.64.1:443?security=tls&sni=api.einetwork.news&type=ws&host=api.einetwork.news&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 vless://786ce4fe-2b1f-4589-8165-1a76d7065680@151.101.194.165:80?security=none&type=ws&host=Sew.service.fivertrok.com&path=%2Fspdnet%3Fed%3D1024#@Hope_Net-join-us-on-Telegram`
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@100.25.124.30:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸`
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.72.39:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦`
