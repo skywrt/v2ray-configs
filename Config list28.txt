@@ -1,3 +1,6 @@
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://3169fbd0-c85d-11ef-807b-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=zula.ir#%40hopev2ray%F0%9F%92%96
+trojan://telegram-id-directvpn@13.42.129.136:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://telegram-id-privatevpns@13.50.218.233:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://ec171c50-ceb7-11ef-8483-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%94%A5
 trojan://5495ebe2-dc52-4cb4-8f25-2a13877183e6@185.146.173.32:443?path=%2F&amp;security=tls&amp;host=de1.trojanvpn.xyz&amp;type=ws&amp;sni=de1.trojanvpn.xyz#%40hopev2ray%F0%9F%96%A4
