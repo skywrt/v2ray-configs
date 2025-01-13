@@ -1,4 +1,3 @@
-vless://c548e8b9-ac16-ee24-1e65-54485ee05746@172.67.204.84:2086?security=none&type=splithttp&host=xhttp.fr1.inservices.ir&path=/Devil?ed%3D2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-SPLITHTTP-NONE 🏴‍☠️ NA-172.67.204.84:2086
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.21.32.1:2083?security=tls&sni=gErmaNHP.Pages.dEv&type=ws&host=germanhp.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2083
 vless://514371c3-8434-4704-b154-477436fa6fb2@199.232.245.58:443?security=tls&sni=ELENAv2RAY.NET&type=ws&host=ElenaV2ray.net&path=%2F&fp=safari#🔒 VL-WS-TLS 🇺🇸 US-199.232.245.58:443
 vless://2c79b667-b103-4d22-86d0-5ef23f303c06@154.198.173.99:80?type=ws#🔒 VL-WS-NA 🇮🇳 IN-154.198.173.99:80
@@ -498,3 +497,4 @@ trojan://NISHIKUITAN111@188.114.96.86:443?#%E6%9C%AA%E7%9F%A525
 ss://YWVzLTI1Ni1nY206WTBVVDhLWFgyUjlNNVhZQQ==@154.196.244.16:16006#%E6%9C%AA%E7%9F%A526
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#%E6%9C%AA%E7%9F%A527%201.6MB%2Fs
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7002#%E6%9C%AA%E7%9F%A528%201.9MB%2Fs
+trojan://SSorg@161.145.150.14:443?sni=ssjj.esslh.filegear-sg.me#US10
