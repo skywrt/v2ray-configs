@@ -1,12 +1,3 @@
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?security=none&type=ws&host=edge.validbv3528.ir&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-167.82.1.103:80
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.180:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.180:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.75.58:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇨 SC-154.197.75.58:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.232.140.230:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-77.232.140.230:8443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.79.105.51:443?security=tls&sni=dsb.ylks.us.kg&type=ws&host=dsb.ylks.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.51:443
-vless://b4c97223-8d5d-4ffd-af6f-d5a59b575ffc@172.67.196.100:443?security=tls&sni=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&type=ws&host=join-midas-x-x----join-midas-x-x.join-midas-x-x-ab13.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.100:443
-vless://14cde25f-e50e-4599-8d4b-441cf5fad72c@104.18.41.138:8443?security=tls&sni=ta.ylkszy.eu.org&type=ws&host=ta.ylkszy.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.138:8443
-vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@185.146.173.252:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.252:443
-vless://62357561-a129-4b9e-9614-ce2578020866@206.238.236.16:443?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.16:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.166:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.199.166:443
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.18.240.246:8443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.240.246:8443
 vless://33e40275-fcaf-4d97-a4e6-095fb97c0968@104.24.196.20:8880?security=none&type=httpupgrade&host=www.speedtest.net.farshegermez.ir.&path=%2FbLididkd%F0%9F%A7%94%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.24.196.20:8880
@@ -498,3 +489,12 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.95:9090#MCI-%40V2ray_Alpha
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#MCI-%40V2ray_Alpha-2
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.95:5000#MCI-%40V2ray_Alpha-3
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.157.40.95:8008#MCI-%40V2ray_Alpha-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.89.209:443#MCI-%40V2ray_Alpha-5hysteria2://1c0b8d7b-5617-4a07-acd2-315da2340ec9@209.141.42.49:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com#MCI-%40V2ray_Alpha-6
+ss://5c4f6ca8-b824-48de-8f33-ec3c9eda1c5e@2na9noed62ec.dopraxrocks.com:80?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#MCI-%40V2ray_Alpha-7
+ss://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#MCI-%40V2ray_Alpha-8
+ss://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#MCI-%40V2ray_Alpha-9
+ss://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#MCI-%40V2ray_Alpha-10
+ss://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#MCI-%40V2ray_Alpha-11
+ss://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encryption=none&headerType=none&type=tcp#MCI-%40V2ray_Alpha-12
+ss://928c7c5b-5928-4b7c-98d7-dcfca65d02f3@3.79.61.93:20733?security=none&encryption=none&headerType=none&type=tcp#MCI-%40V2ray_Alpha-13
+ss://671caed8-14ca-4526-8e64-1c7bde072039@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#MCI-%40V2ray_Alpha-14
