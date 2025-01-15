@@ -1,3 +1,5 @@
+vless://9874e2c7-910c-42d0-9068-819c3aaa9cc3@151.101.74.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=div.delbar.dev&path=%2F%3Fed%3D80#🔒 VL-WS-TLS 🇺🇸 US-151.101.74.228:443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@188.164.158.121:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.121:443
 vless://54b3cbba-e6ac-485a-9481-976a0873eab9@172.67.190.221:2082?security=none&type=ws&host=bLaCk-trutH-63Bc.DoviF72324.WoRKeRs.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.221:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.2.73.137:7000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇳🇱 NL-5.2.73.137:7000
 vless://968f8967-1361-41d5-9769-f6624ef58694@104.24.185.182:443?security=tls&sni=tvmez.pages.dev&type=ws&host=tvmez.pages.dev&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.185.182:443
@@ -496,5 +498,3 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.85:443?security=tls&sni
 vless://a2a881b7-9f5f-499e-a166-55bb22df05c5@185.161.251.211:1633?flow=xtls-rprx-vision&sni=stackoverflow.com&type=tcp&fp=chrome&pbk=ANlgAsYC8HmKfJnc5SFvru822urkxG1PzW1Zw4Vbm0Q&sid=9bc0a55a5379c0ed#🔒 VL-TCP-NA 🇩🇪 DE-185.161.251.211:1633
 vless://c3c20db7-d32b-454a-9843-ec22d064a842@172.67.147.94:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR-%40UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.94:443
 vless://33b0ef57-9743-402e-b1ee-7badd8d0f2fc@185.16.110.144:443?security=tls&sni=rov.cloudsafario.online&type=xhttp&host=rov.cloudsafario.online&fp=chrome&alpn=h3#🔒 VL-XHTTP-TLS 🇫🇷 FR-185.16.110.144:443
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@206.238.236.187:2096?security=tls&sni=v.aivpn.filegear-sg.me&type=ws&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&fp=random&alpn=h3#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.187:2096
-vless://9984c558-6a70-4423-afba-b341f82152c6@178.239.146.212:7785?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.146.212:7785
