@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.105:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.105-5963
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9102#%F0%9F%87%BA%F0%9F%87%B8US-23.154.136.176-6021
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@45.89.52.66:9003#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-5742
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#%F0%9F%87%AA%F0%9F%87%AAEE-147.45.60.33-0503
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5600#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.113-1232
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.5:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.5-6177
@@ -495,6 +498,3 @@ vless://7f5a3239-e02b-404e-b533-77a96191be34@151.101.3.8:80?path=%2F%40Shh_Proxy
 vless://telegram-id-ArV2ray@live.skornorth.com:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cdiuw118.net&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔@v2ray_configs_pool`
 vless://4ac90e67-aecc-421f-8486-316436d1e731@151.101.3.8:80?path=%2F%40VpnWedbaz-----%40VpnWedbaz%3Fed%3D2560&security=none&encryption=none&host=VpnWedbaz-VpnWedbaz.SS&type=ws#👉🆔@v2ray_configs_pool`
 vless://d424ae34-8aff-4093-b1c9-715de61aa144@tgju.org:2082?type=httpupgrade&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&security=none#👉🆔@v2ray_configs_pool`
-vless://2fabc3ce-7f6d-4b5e-a7f8-dacdd8d30fff@142.93.66.199:443?security=reality&encryption=none&pbk=8CB1BkQTP2cLEwW5RjwQ9UAY7cZY6n4Q1seWvyyQVCo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=6c6bed66#[🇺🇸]t.me/ConfigsHub`
-vless://a120e02f-3dcc-483e-8b01-0fb70b9bafab@[::ffff:bc72:6002]:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de2.v4vless.xyz&fp=chrome&type=ws&sni=de2.v4vless.xyz#👉🆔@v2ray_configs_pool`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.20.53:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@v2ray_configs_pool`
