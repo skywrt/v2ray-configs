@@ -1,3 +1,4 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0523
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-0554
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.133.132.253-0401
 vmess://ewogICAgImFkZCI6ICIxMDQuMTkuMzIuMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInhtaXZpZGVvLmNmZCIsCiAgICAiaWQiOiAiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE5LjMyLjAtODQ0OSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInhtaXZpZGVvLmNmZCIKfQ==
@@ -497,4 +498,3 @@ vless://6b970ff3-ebb2-4a32-96c2-cb3cbbd75e05@138.199.154.143:8880?mode=gun&secur
 vless://8a3e58dd-4883-44b9-91d9-37fec3c87a25@5.75.204.6:443?security=reality&encryption=none&alpn=http/1.1&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=khanacademy.org&sid=6acf3ba5790e4324#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.193:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8`
 vless://18758238-2625-2730-3689-f157ae275ad4@89.168.51.135:25212?mode=gun&security=tls&encryption=none&alpn=h2&fp=random&type=grpc&serviceName=grpc&sni=ibgsy.ynjkxpgo.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7`
-vless://37113ba2-f7ff-4db7-903c-8ccd5bb7ec49@104.21.53.230:443?path=%2FxJX3PGDyJyGsiqL6ucwNYDzbekF5&security=tls&encryption=none&alpn=http/1.1&host=honeybun.parsifast78.ir&fp=chrome&type=ws&sni=honeybun.parsifast78.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6`
