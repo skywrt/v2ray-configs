@@ -1,3 +1,11 @@
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-0482
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.111-0425
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-5808
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0477
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.82-0467
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0500
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0457
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0418
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP-149.22.87.240-0434
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0483
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#%F0%9F%87%BA%F0%9F%87%B8US-194.116.173.21-0504
@@ -490,11 +498,3 @@ vless://d4853b78-6ab5-4da0-a434-bcb475a0e54c@65.109.208.13:443?security=reality&
 vless://013c5107-2e75-4374-b91e-57cd7c38031f@speedtest.net:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&security=&encryption=none&host=IPSERVIS2.ORG&type=ws#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20%28XPNTEAM%20-%20FAST%29-tzp54lrdb```
 vless://013c5107-2e75-4374-b91e-57cd7c38031f@151.101.2.165:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20%28XPNTEAM%20-%20FAST%29-tzp54lrdb```
 vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@91.107.180.183:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd6.asalemaraghe.ir&fp=chrome&type=ws&sni=dd6.asalemaraghe.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
-vless://22c7cdd0-5205-4f91-a98e-5fcf6cb0e9ed@108.162.195.157:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=kjq0yl.p1vpn.com&type=ws&sni=kjq0yl.p1vpn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
-trojan://telegram-id-directvpn@13.50.125.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN`
-trojan://telegram-id-directvpn@13.50.125.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden`
-trojan://telegram-id-directvpn@13.50.125.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub`
-vless://TELEGRAM-NUFiLTER-4@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Doogh-nufilter.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://TELEGRAM-NUFiLTER-8@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Germany2-1nufilter.coM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://ID-TELEGRAM-PROXY_MTM@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=CWXxQcl33vnJNew9-YGs21-uKGs5oWdLn_R705IVoiE&fp=randomized&spx=/&type=grpc&serviceName=Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel&sni=refersion.com&sid=e946a4502f73d6f2#🇩🇪[openproxylist.com] vless-DE```
-vless://ID-TELEGRAM-PROXY_MTM@mehdi.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=CWXxQcl33vnJNew9-YGs21-uKGs5oWdLn_R705IVoiE&fp=randomized&spx=/&type=grpc&serviceName=Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel-Proxy_mtm-Channel&sni=refersion.com&sid=e946a4502f73d6f2#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
