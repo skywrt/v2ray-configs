@@ -1,5 +1,3 @@
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@108.162.195.199:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ftelegram-proxy_mtm%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.199:443
-vless://834ceabf-2853-4059-a167-5ffda883115d@104.18.11.143:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.11.143:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.197.231:80?security=none&type=ws&host=aliii.ir&path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560#🔒 VL-WS-NONE 🇺🇸 US-199.232.197.231:80
 vless://74066387-e74c-4510-bbdf-6eb2bb206138@104.18.37.228:8080?security=none&type=ws&host=de.过滤器.store.&path=/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.228:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@207.174.31.150:443?security=tls&sni=cx.ylks.xyz&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-207.174.31.150:443
@@ -498,3 +496,5 @@ vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@172.67.154.6:2053?security=tls&sni=
 vless://9d9a8f86-cde6-5545-97a9-be6d1763fe8f@5.181.23.58:2052?security=none&type=ws&path=%2Fvless%23%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi#🔒 VL-WS-NONE 🇬🇧 GB-5.181.23.58:2052
 vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.211.8.12:443?security=tls&sni=nicorobin.eula.cloudns.org&type=ws&host=nicorobin.eula.cloudns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2087#🔒 VL-WS-TLS 🇺🇸 US-154.211.8.12:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@92.243.74.112:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-92.243.74.112:8443
+vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@104.21.74.191:2096?security=tls&sni=xcsz.ylks2024.us.kg&type=ws&host=xcsz.ylks2024.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.191:2096
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.172:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.172:80

@@ -1,5 +1,3 @@
-vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@104.21.74.191:2096?security=tls&sni=xcsz.ylks2024.us.kg&type=ws&host=xcsz.ylks2024.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.191:2096
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.234.172:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.172:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.83.2.192:443?security=tls&sni=vbbc.ylks2024.us.kg&type=ws&host=vbbc.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇵🇭 PH-154.83.2.192:443
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@76.223.54.146:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇺🇸 US-76.223.54.146:443
 vless://8ab3562d-c86d-551b-b4c7-f252c6e706ef@151.101.1.6:80?security=none&type=ws&host=MOSIV2.CC#🔒 VL-WS-NONE 🇺🇸 US-151.101.1.6:80
@@ -498,3 +496,5 @@ vless://338c7415-edfb-4d96-c0d7-74efd7ced808@190.93.244.61:443?security=tls&sni=
 vless://219d848d-60f2-4321-8275-72b9b575b37e@104.27.119.136:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.119.136:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@[::ffff:3207:55dd]:443?security=tls&sni=tEstBp.fIBiDOB9775921.woRkeRS.DEV&type=ws&host=testbp.fibidob9775921.workers.dev&path=%2FxUnw05Z6MV3NG29U%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-[::ffff:3207:55dd]:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.174:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.174:443
+vless://576a1db6-81cc-458e-97aa-b4f55f1dbdaf@104.156.85.184:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-104.156.85.184:80
+vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.38:8443?security=tls&sni=vv.cscfwoker.fun&type=ws&host=vv.cscfwoker.fun&alpn=http/1.1&allowInsecure=0#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.38:8443
