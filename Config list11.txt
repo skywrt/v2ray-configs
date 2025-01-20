@@ -1,3 +1,7 @@
+trojan://NISHIKUITAN111@173.245.49.43:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-173.245.49.43:443
+trojan://blue2024@104.16.144.63:443?security=tls&sni=hb.lii2010.us.kg&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.144.63:443
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@138.2.227.52:443?security=tls&sni=us08.ssr.ee&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-138.2.227.52:443
+trojan://NISHIKUITAN111@104.26.9.14:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.26.9.14:443
 trojan://auto@104.20.22.92:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.92:443
 trojan://NISHIKUITAN111@104.19.188.107:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.188.107:443
 trojan://telegram-id-privatevpns@3.9.221.48:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.9.221.48:22222
@@ -494,7 +498,3 @@ vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.9.55:443?security=tls&sni=s
 vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.208.191:80?type=ws#🔒 VL-WS-NA 🇳🇱 NL-45.131.208.191:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.148.107.210:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.210:443
 vless://b531d21b-bbb0-48f2-b294-d09b21368324@104.25.5.144:443?security=tls&sni=VipCloudGodnl.nikoo-kala.Ir.&type=ws&host=VipCloudGodnl.nikoo-kala.Ir.&path=%2F%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.5.144:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.11:443?security=tls&sni=kb.lii2010.us.kg&type=ws&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.11:443
-vless://683efd82-00f9-45f9-a43d-c1ba3f902e90@45.63.117.50:2053?security=tls&sni=cpanel3.sassanidempire.com&type=ws&host=cpanel3.sassanidempire.com&path=%2Fws&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-45.63.117.50:2053
-vless://028caef1-1852-4074-884b-993e8baf4fd7@89.187.180.101:80?security=none&type=splithttp&path=%2Fadmin#🔒 VL-SPLITHTTP-NONE 🇺🇸 US-89.187.180.101:80
-vless://c7953896-7bb2-4ce2-c7ca-117b2678b47f@151.101.128.204:80?security=none&type=ws&host=www.meloammn.ir#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.204:80

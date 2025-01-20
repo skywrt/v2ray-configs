@@ -1,3 +1,7 @@
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&sni=jobscareertoday.com&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-198.41.220.5:443
+trojan://WOeXShhJpL@104.21.37.37:443?security=tls&sni=104.21.37.37&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.37.37:443
+trojan://SSorg@104.21.19.236:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.19.236:2087
+trojan://NISHIKUITAN111@104.25.235.46:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.25.235.46:443
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.130.219:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3F#🔒 TR-WS-NONE 🇺🇸 US-151.101.130.219:80
 trojan://NISHIKUITAN111@104.19.179.218:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.179.218:443
 trojan://blue2024@104.19.162.122:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.162.122:443
@@ -494,7 +498,3 @@ trojan://NISHIKUITAN111@185.148.104.114:443?security=tls&sni=za.ylks.xyz&type=ws
 trojan://NISHIKUITAN111@188.114.97.198:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.198:443
 trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.81:443
 trojan://SSorg@160.79.105.80:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-160.79.105.80:2087
-trojan://blue2024@104.17.128.1:2096?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.17.128.1:2096
-trojan://blue2024@104.18.183.150:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.183.150:443
-trojan://SSorg@199.34.228.143:2096?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-199.34.228.143:2096
-trojan://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&type=tcp#🔒 TR-TCP-NONE 🇲🇩 MD-94.232.244.5:2198

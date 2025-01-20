@@ -1,3 +1,7 @@
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.229.241:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.111.42:80?security=none&type=ws&host=us1.rtacg.com&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.171:8880/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+trojan://3723507166611775488@3.78.184.1:443?security=tls&sni=golden-krill.treefrog761.one&type=tcp#[🇩🇪]t.me/ConfigsHub`
 vless://8e3cc3fc-7d9c-44d3-85fe-09bda9f02ac6@151.101.128.155:80?type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#[🇺🇸]t.me/ConfigsHub`
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=sg02.trojanyyds.xyz&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇯🇵Japan`
 vless://61d27db4-7011-5cf4-b84e-abb721420ecb@94.131.104.66:8880/?type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia`
@@ -494,7 +498,3 @@ vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&securit
 vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands`
 vless://3302c92f-f1b6-41cf-a0d4-384867e5541f@77.90.11.193:443?security=reality&encryption=none&pbk=Gk6rNjpZlOLoi9t1dNroi_0ZW29odBJ21QhWQd0uqhE&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=4d32acc962b47968#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
 trojan://3723507166611775488@166.1.227.30:443?security=tls&sni=eternal-tadpole.boa152.lol&type=tcp#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.142.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom`
-vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands`
-vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=&encryption=none&host=hormozvpn.com&type=ws#[🇳🇱]t.me/ConfigsHub`
-vless://442e6d88-2bf7-4cd7-99e0-9aa51761daf8@10cricindia.com:80?path=%2F&security=&encryption=none&host=hormozvpn.com&type=ws#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands`

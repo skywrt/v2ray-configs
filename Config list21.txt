@@ -1,3 +1,7 @@
+vless://e9c8addc-cb2f-41ae-9ec3-e2f20ddb6b4f@188.212.96.114:45524?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.96.114:45524
+vless://8b5f3273-2ae6-43a7-b59a-948e39becefc@128.140.84.240:7642?type=tcp#🔒 VL-TCP-NA 🇩🇪 DE-128.140.84.240:7642
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.75.242:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.75.242:80
+vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.24.254.125:80?security=tls&sni=sweet-glade-2430-ppal03.xasev15708.workers.dev&type=ws&host=sweet-glade-2430-ppal03.xasev15708.workers.dev&path=/proxyip%3Dproxyip.us.fxxk.dedyn.io#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.254.125:80
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.22.11:2052?type=ws&host=0118.kznyoum2.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.22.11:2052
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.203.249:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.203.249:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.55.65:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.55.65:80
@@ -494,7 +498,3 @@ vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.216:443?security=tls&sni
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@77.75.199.68:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇬🇧 GB-77.75.199.68:443
 vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@104.21.51.20:80?security=none&type=ws&host=scp-only.ws.com&path=%2Fws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.51.20:80
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.15.212:8080
-vless://466346a8-84ec-4f9b-8fc9-f1ccb079dd67@23.227.39.179:2083?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2083
-vless://62357561-a129-4b9e-9614-ce2578020866@162.159.44.228:2053?security=tls&sni=edg.comorg.us.kg&type=ws&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.228:2053
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80?security=tls&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws/@azarbayjab1@azarbayjab1@azarbayjab1@azarbayjab1@azarbayja1/?ed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-167.82.72.38:80
-vless://e1f8f779-bd78-46a0-b196-707d169f4061@104.20.19.168:8080?security=none&sni=v2raylandd-90.vmjisexa.workers.dev&type=ws&host=v2raylandd-90.vmjisexa.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:8080
