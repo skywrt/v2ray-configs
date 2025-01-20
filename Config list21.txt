@@ -1,3 +1,4 @@
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.202:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.202:443
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.16.11.61:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.11.61:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?type=grpc#🔒 VL-GRPC-NA 🇸🇪 SE-88.216.214.55:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.216.85:443?security=tls&sni=pPAl03.daLE-tirSo.WoRKErS.dEV&type=ws&host=PPaL03.Dale-TIRsO.WOrKers.dev&path=%2FzNBRN1mKjVJtJTuY%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.85:443
@@ -497,4 +498,3 @@ vless://19d13bed-b8c5-4443-920e-12f833fed576@104.18.165.30:80?security=none&type
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.239.229:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.239.229:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.55.205:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.55.205:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@188.42.88.219:443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.219:443
-vless://8334979f-2f04-4f49-8ead-bbceed373ecb@45.131.208.16:80?security=tls&sni=esetsecuritylicense.roobdi.workers.dev&type=ws&host=esetsecuritylicense.roobdi.workers.dev&path=telegram@wangcai2/?ed%3D2048#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.16:80

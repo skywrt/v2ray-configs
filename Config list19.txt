@@ -1,3 +1,4 @@
+vless://219d848d-60f2-4321-8275-72b9b575b37e@104.16.53.41:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.53.41:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.16.248.153:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.248.153:80
 vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@185.113.10.129:443?type=tcp&host=neshan.org&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-185.113.10.129:443
 vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.47.188:2095?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.47.188:2095
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.226.162:80?security=none&typ
 vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?security=tls&sni=tr-s.xor-vpn.ru&type=tcp#🔒 VL-TCP-TLS 🇲🇩 MD-185.235.243.133:443
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.67.128:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.67.128:8080
 vless://8a7e02f7-d621-11ee-aaa8-00505603e70d@104.26.10.137:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.10.137:443
-vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.124.53:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.124.53:2052

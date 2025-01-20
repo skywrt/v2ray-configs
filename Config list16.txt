@@ -1,3 +1,4 @@
+vless://70186b61-319d-42f2-9807-7df9594aa385@161.145.150.26:2087?security=tls&sni=amedo.esslh.filegear-sg.me&type=ws&host=amedo.esslh.filegear-sg.me&path=/?ed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.26:2087
 vless://f915817a-8b39-49da-85de-63d99fca3db0@104.26.14.16:443?security=tls&sni=redzone.miracleheartbit.icu&type=ws&host=redzone.miracleheartbit.icu&path=/2087/v2rayyngvpn&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.116.108:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.116.108:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.146:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.146:443
@@ -497,4 +498,3 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.107.76:2052?type=ws&host=011
 vless://531bf100-1477-487c-a979-6adebf8f105f@144.24.73.232:443?security=tls&sni=vdb.bgm2024.us.kg&type=ws&host=vdb.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-144.24.73.232:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.18.6:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.18.6:80
 vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.44.231:443?security=tls&sni=GrOupYOUNeS.PAGes.DEV&type=ws&host=groupyounes.pages.dev&path=%2FQKSAoBjr7TCbZcjm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.231:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@140.238.212.95:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F#🔒 VL-WS-TLS 🇨🇭 CH-140.238.212.95:443

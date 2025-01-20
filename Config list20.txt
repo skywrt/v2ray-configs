@@ -1,3 +1,4 @@
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.124.53:2052?type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.124.53:2052
 vless://0954c6d7-f4a7-44ff-9a78-1939f9ba43d4@172.67.179.98:443?security=tls&sni=server20.aibox.tv&type=ws&host=server20.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.98:443
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.48.253:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.48.253:80
 vless://11cf1fa6-a471-4025-8b60-ada97098eea8@199.212.90.87:443?security=tls&sni=6177.aespa.dynv6.net&type=ws&host=6177.aespa.dynv6.net&path=%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.87:443
@@ -497,4 +498,3 @@ vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.48.128:2052?type=ws&host=011
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.254.140.117:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2Fylks#🔒 VL-WS-TLS 🇺🇸 US-104.254.140.117:443
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.44.244:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.244:443
 vless://9c2f729f-d211-4eec-8587-7167a5888d02@104.19.11.26:8443?security=tls&sni=mg1.haibucuo.xyz&type=ws&host=mg1.haibucuo.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.11.26:8443
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.202:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.200.160.202:443

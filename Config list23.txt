@@ -1,3 +1,4 @@
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.165.13:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.165.13:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@5.182.85.132:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-5.182.85.132:8443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.56.205:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.56.205:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.243.84:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.243.84:80
@@ -497,4 +498,3 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#US30%201.8MB%2Fs
 trojan://blue2024@172.67.135.57:443?security=tls&type=tcp&sni=ta.promote.icu#%E6%9C%AA%E7%9F%A583
 trojan://NISHIKUITAN111@162.159.16.224:443?#%E6%9C%AA%E7%9F%A584
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.100:8090#US31%201.8MB%2Fs
-trojan://blue2024@104.18.123.217:443?security=tls&type=ws&sni=ta.promote.icu&path=/?ed=2560&host=ta.promote.icu#%E6%9C%AA%E7%9F%A585

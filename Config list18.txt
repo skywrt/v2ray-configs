@@ -1,3 +1,4 @@
+vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-162.251.82.187:443
 vless://834ceabf-2853-4059-a167-5ffda883115d@104.16.239.254:443?security=tls&sni=server22.aibox.tv&type=ws&host=server22.aibox.tv&path=%2FTG-AiLuMao%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.239.254:443
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.119:3237?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇾 CY-185.153.183.119:3237
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.199.140:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.199.140:80
@@ -497,4 +498,3 @@ vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.130.234:443?security=tls&sn
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.153.12:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.12:2053
 vless://eb19e160-51f8-40d3-966b-9fa5de336924@104.24.177.129:80?security=none&type=ws&host=crimson-cell-5828-ppal03.febox45376.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.129:80
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.23.12:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.23.12:80
-vless://219d848d-60f2-4321-8275-72b9b575b37e@104.16.53.41:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.53.41:443

@@ -1,4 +1,3 @@
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#%F0%9F%87%AC%F0%9F%87%A7GB-169.150.210.233-0482
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.110.1.111-0425
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-5808
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0477
@@ -498,3 +497,4 @@ vless://d4853b78-6ab5-4da0-a434-bcb475a0e54c@65.109.208.13:443?security=reality&
 vless://013c5107-2e75-4374-b91e-57cd7c38031f@speedtest.net:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&security=&encryption=none&host=IPSERVIS2.ORG&type=ws#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20%28XPNTEAM%20-%20FAST%29-tzp54lrdb```
 vless://013c5107-2e75-4374-b91e-57cd7c38031f@151.101.2.165:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20%28XPNTEAM%20-%20FAST%29-tzp54lrdb```
 vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@91.107.180.183:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd6.asalemaraghe.ir&fp=chrome&type=ws&sni=dd6.asalemaraghe.ir#👉🆔 @v2ray_configs_pool📡🇩🇪Germany`
+vless://22c7cdd0-5205-4f91-a98e-5fcf6cb0e9ed@108.162.195.157:443?path=%2Fwss&security=tls&encryption=none&alpn=http/1.1&host=kjq0yl.p1vpn.com&type=ws&sni=kjq0yl.p1vpn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada`
