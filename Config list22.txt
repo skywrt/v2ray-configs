@@ -1,3 +1,5 @@
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.22.72.111:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.72.111:443
+vless://f4a1448a-31bb-d5c7-f564-6ca460acca1d@190.93.245.85:80?security=none&type=ws&host=speedtest.net.xn--ehq00h70aba107urp2d7witlr.kellekcollection.com&path=%2Flive%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.85:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.21:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.21:443
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?security=tls&sni=ARCane-ROYAL.Pages.DEV&type=ws&host=ARCane-ROYAL.Pages.DEV&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.14.99:443
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.239.72.78:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#🔒 VL-WS-TLS 🇬🇧 GB-104.239.72.78:8443
@@ -496,5 +498,3 @@ vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.26.228:443?security=tls&sni
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@192.0.63.170:443?security=tls&sni=vb.zhuk.us.kg&type=ws&host=vb.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-192.0.63.170:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.247.20:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.247.20:80
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.152.161:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.161:443
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@154.197.75.205:443?security=tls&sni=vbbd.ylks2024.us.kg&type=ws&host=vbbd.ylks2024.us.kg&path=%2Fvbba.ylks2024.us.kg#🔒 VL-WS-TLS 🇸🇨 SC-154.197.75.205:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.24.45:2053?security=tls&sni=ax78345V2ray.pages.dev&type=ws&host=78345.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.24.45:2053

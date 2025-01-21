@@ -1,3 +1,5 @@
+trojan://SSorg@108.165.152.40:2096?sni=ssjj.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.40:2096
+trojan://auto@104.16.21.118:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed...#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.21.118:443
 trojan://Aimer@161.145.150.29:2083?security=tls&sni=amepo.ambercc.filegear-sg.me&type=ws&host=amepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇺🇸 US-161.145.150.29:2083
 trojan://blue2024@198.41.215.83:443?sni=hb.lii2010.us.kg&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-198.41.215.83:443
 trojan://blue2024@104.16.214.5:443?security=tls&sni=td.promote.icu&type=ws&host=td.promote.icu&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.214.5:443
@@ -496,5 +498,3 @@ trojan://Aimer@206.238.236.90:2087?security=tls&sni=ameqo.esslh.filegear-sg.me&t
 trojan://auto@104.20.21.92:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.21.92:443
 trojan://blue2024@46.254.93.66:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.66:443
 trojan://auto@172.66.44.106:8443?security=tls&sni=e9464...&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.106:8443
-trojan://auto@104.20.19.218:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.218:443
-trojan://auto@162.159.44.202:443?security=tls&sni=trojanmz.pages.dev&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.202:443
