@@ -1,4 +1,3 @@
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.17.237.99:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.237.99:443
 vless://dc580147-c87c-4527-bf90-192eb1cf62d1@104.21.34.188:80?security=none&type=ws&host=sTArt.SiTEg52770.wORkeRs.DeV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.34.188:80
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.18:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.18:443
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.30.250:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.30.250:80
@@ -498,3 +497,4 @@ vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.123.175:8880?security=none&t
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.153:443?security=tls&sni=aaa.zhuk.us.kg&type=ws&host=aaa.zhuk.us.kg&path=%2Fyoulingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.153:443
 vless://5d8bc42a-d345-4bd3-a844-4b90afc44670@104.24.138.64:80?security=none&type=ws&host=patient-shadow-baf1-ppal03.hohel98085.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.138.64:80
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@167.68.42.213:443?security=tls&sni=vbbc.ylks01.eu.org&type=ws&host=vbbc.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-167.68.42.213:443
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.79.219:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-8.222.79.219:443

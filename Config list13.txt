@@ -1,4 +1,3 @@
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@8.222.79.219:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-8.222.79.219:443
 vless://7f8766f1-3ec3-44a0-aa0e-2508fb82a6fe@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed%3D1024@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.219:80
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.170:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.170:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.112.1:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=V2nGfaSt-JCr.PAgEs.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:443
@@ -498,3 +497,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@198.62.62.180:443?security=tls&sni=
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.18.237.18:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.237.18:80
 vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.166:80?security=none&type=ws&host=dk1.vlessx.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.138.166:80
 vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@108.162.192.100:443?security=tls&sni=server19.aibox.tv&type=ws&host=server19.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.100:443
+vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.22.50.86:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.86:80

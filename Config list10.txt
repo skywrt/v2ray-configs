@@ -1,4 +1,3 @@
-trojan://blue2024@108.162.195.135:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.135:443
 trojan://Aimer@77.232.140.101:2053?security=tls&sni=amepo.ambercc.filegear-sg.me&type=ws&host=amepo.ambercc.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇷🇺 RU-77.232.140.101:2053
 trojan://blue2024@154.197.64.77:443?sni=ta.promote.icu#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.77:443
 trojan://auto@172.64.35.202:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.35.202:443
@@ -498,3 +497,4 @@ trojan://blue2024@104.25.226.234:443?sni=hb.lii2010.us.kg&type=ws&host=hb.lii201
 trojan://blue2024@168.100.6.237:443?security=tls&sni=b.promote.icu&type=ws&host=tb.promote.icu&path=%2F%3Fed#🔒 TR-WS-TLS 🇺🇸 US-168.100.6.237:443
 trojan://bpb-trojan@162.159.153.161:443?security=tls&sni=cf.090227.xyz&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.153.161:443
 trojan://SSorg@92.243.74.115:443?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp%2F1.1&path=%2F%3Fed#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.115:443
+trojan://blue2024@188.114.97.99:443?sni=td.promote.icu#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.99:443
