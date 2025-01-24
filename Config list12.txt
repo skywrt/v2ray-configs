@@ -1,3 +1,6 @@
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@46.151.194.89:8443?allowInsecure=1&sni=sao-br.fromblancwithlove.com&alpn=h2&security=tls#👉🆔 @v2ray_configs_pool📡🇧🇷Brazil`
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.100:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chromefp=chrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
+trojan://bc5cf4d1-2efb-49f5-98c3-c350f08c1f51@in1.p9999.space:443?allowInsecure=1&sni=bilibili.com#👉🆔 @v2ray_configs_pool📡🇮🇳India`
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@cdg-1.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#👉🆔 @v2ray_configs_pool📡🇫🇷France`
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443?allowInsecure=1&sni=pl1.fromblancwithlove.com&alpn=h2&security=tls#👉🆔 @v2ray_configs_pool📡🇵🇱Poland`
 vless://874f0d1e-02d4-40bc-950d-6623b78aca4a@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE…#👉🆔 @v2ray_configs_pool📡🇺🇸United States`
@@ -495,6 +498,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#%40Vpn_Tehran+%F0%9
 ss://157448af-8ecf-4075-a9e9-b23a6a94899b@ua1.fromblancwithlove.com:8443?security=tls&amp;encryption=none&amp;alpn=h2&amp;headerType=none&amp;type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%A6
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344750579.amsterdam-blk-dra.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram
 ss://Chanell-hopev2ray@[::ffff:5b6b:bc06]:4916?security=none&amp;encryption=none&amp;host=Zara.com&amp;headerType=http&amp;type=tcp#%40hopev2ray%F0%9F%92%99
-ss://80055aeb-f441-5fac-9f73-9b25a416e450@95.164.46.154:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&amp;security=none&amp;encryption=none&amp;type=ws#%40Vpn_Tehran+%F0%9F%94%A5+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://YWVzLTI1Ni1nY206QXhaUEtIYTc4THZoUEF0YQ==@62.106.66.133:8388#%40daredevill_404
-ss://fd83e828-b5e7-4ba9-ad79-a49fabf30449@64.176.162.77:8080?type=ws&amp;security=none&amp;path=%2F#telegram
