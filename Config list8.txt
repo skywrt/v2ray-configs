@@ -1,6 +1,3 @@
-trojan://ypDt8RkT7J@89.187.181.172:43118?sni=egcmi.phooeyunfold.com&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-89.187.181.172:43118
-trojan://Aimer@45.67.214.41:2083?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇨🇾 CY-45.67.214.41:2083
-trojan://Aimer@108.165.152.29:2096?sni=acepo.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-108.165.152.29:2096
 trojan://tg-fq521free@194.76.18.129:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#🔒 TR-WS-TLS 🇰🇿 KZ-194.76.18.129:443
 trojan://blue2024@172.64.35.83:443?security=tls&sni=ta.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.35.83:443
 trojan://Aimer@206.238.236.221:2083?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-206.238.236.221:2083
@@ -498,3 +495,6 @@ vless://028e3bfe-bec5-44aa-ad20-0c37e4935f02@89.47.197.231:2020?security=none&ty
 vless://c692a87c-fb69-48d4-bbd1-78d47afd3d1f@188.75.79.82:8080?security=none&type=tcp&host=cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.75.79.82:8080
 vless://be33b827-adb2-4cd8-a01a-e597b6a0a523@2.144.5.24:9622?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.144.5.24:9622
 vless://ed66c352-647e-483b-b1e4-a4cbebfaed1c@185.146.173.93:2095?security=none&type=ws&host=WwW.vaRzesh3.Com.Ftp.debian.Org.Content.tabnak.org.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.93:2095
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443?security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇫🇷 FR-138.199.27.206:8443
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.7:443?security=tls&sni=vbbb.ylks2024.us.kg&type=ws&host=vbbb.ylks2024.us.kg&path=/youlingkaishi#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.7:443
+vless://4f9f7668-8e79-59c8-b4a5-bdefe9c234f7@5.181.23.38:2052?security=none&type=ws&path=%2Fvless%23%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG%2C%40FREEV2RNG#🔒 VL-WS-NONE 🇬🇧 GB-5.181.23.38:2052
