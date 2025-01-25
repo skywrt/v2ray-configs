@@ -1,4 +1,3 @@
-vless://9b09d228-4519-46a2-861e-a91d4c5ac2a2@108.162.195.250:443?security=tls&sni=jgxic6.alligator27.com&type=ws&host=jgxic6.alligator27.com&path=/wss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.250:443
 vless://f3562b04-2f2b-433a-80b4-45f60d659004@104.21.7.193:8880?security=none&type=ws&host=925tg.3gnc3sjz.workers.dev&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.193:8880
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.32.1:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.32.1:8080
 vless://e98e99ae-6f24-476c-9920-29b8c3358967@172.67.172.56:443?security=tls&sni=RasPy-DaRKNesS-6ab6.FaRANFreLSJINEJXj.WOrkERS.DEv&type=ws&host=raspy-darkness-6ab6.faranfrelsjinejxj.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.56:443
@@ -498,3 +497,4 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.141:80?type=ws#🔒 VL-WS-
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@172.64.35.227:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.227:443
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.17.105:2198?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-95.164.17.105:2198
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.249:443?security=tls&sni=V2NgfAst-2Zn.pageS.dEv&type=ws&host=V2NgFast-2zn.pAgES.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.249:443
+vless://665b6586-00af-4615-afc3-6310590489c1@147.45.79.96:2053?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-147.45.79.96:2053
