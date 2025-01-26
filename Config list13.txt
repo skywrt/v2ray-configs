@@ -1,8 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.51.79:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧`
-vless://4f3aafc8-68d2-4d03-a5e5-e571484c16ab@s1mci.roshoping.ir:43802?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
-vless://b93d7dac-1430-4eef-ad55-967592b68e02@45.12.145.67:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub`
-vless://68bf637d-f323-4d9e-b8dc-80cd799a250d@5.180.30.31:8880?mode=gun&security=none&encryption=none&type=grpc#[🇬🇧]t.me/ConfigsHub`
-vless://819e9374-8e2e-5d5d-91bd-1afd4fe2c78c@91.207.183.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#[🇷🇺]t.me/ConfigsHub`
 vless://3f0fe596-2a98-4724-bee1-72ba87403cd0@2.56.126.163:8880?mode=gun&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc#[🇫🇷]t.me/ConfigsHub`
 vless://c2fd1d14-23f6-4688-9482-6a39d38d366a@173.245.59.81:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=dksuwx.billionaire33.com&type=ws&sni=dksuwx.billionaire33.com#[🇨🇦]t.me/ConfigsHub`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.57:8880?mode=gun&security=none&encryption=none&type=grpc#[🇸🇪]t.me/ConfigsHub`
@@ -498,3 +493,8 @@ vless://597ad5e6-2fc4-4c36-ea46-150bbd599a5f@tify-binex-join.espikernajafi.ir:20
 vless://8f447b27-d904-401c-b099-7b4bdece33bb@speedtest.net:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&security=&encryption=none&host=IPSERVIS2.ORG&type=ws#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20%28XPNTEAM%20-%20FAST%29-gcoml2lq5
 vless://8f447b27-d904-401c-b099-7b4bdece33bb@151.101.2.165:80?path=@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam&security=none&encryption=none&host=IPSERVIS2.ORG&type=ws#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%94%A5%20%28XPNTEAM%20-%20FAST%29-gcoml2lq5```
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=bru-be-01.fromblancwithlove.com#[🇧🇪]t.me/ConfigsHub`
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=osl-no-01.fromblancwithlove.com#[🏁]t.me/ConfigsHub`
+vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.130.133:80?path=%2Fws%2F%3Fed%3D2048&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws#[🇺🇸]t.me/ConfigsHub`
+vless://5289833f-cb56-4722-b451-44a0d975e052@172.64.32.85:443?security=tls&sni=w1ksi7.fivegravity.com&type=ws&host=w1ksi7.fivegravity.com&path=/wss&alpn=http/1.1#🇺🇸[openproxylist.com] vless-US```
+vless://0af03b20-981a-4e9a-8c35-f9014f81e84c@TLS.zeoaeriedo-saioesrio.ir:2000/?type=grpc&serviceName=/@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray-------@TLS_v2ray&authority=&security=none#[🇩🇪]t.me/ConfigsHub`
+vless://72996cf0-59da-4c97-8acd-4fdaf0c49407@95.142.37.48:23393?security=none&encryption=none&headerType=none&type=tcp#[🇷🇺]t.me/ConfigsHub`
