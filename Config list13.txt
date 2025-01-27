@@ -1,3 +1,4 @@
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8US-107.151.182.253-0341
 vmess://ewogICAgImFkZCI6ICIzOC4zMy41NS43OSIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE3MzQxNzAyOTE0ODkiLAogICAgInBvcnQiOiAzNzAwMiwKICAgICJwcyI6ICLwn4e68J+HuFVTLTM4LjMzLjU1Ljc5LTU2NDciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.136-0392
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0414
@@ -497,4 +498,3 @@ vless://3146eb6f-8422-4b3f-810b-c0fc251c8e08@62.60.233.176:443/?type=tcp&encrypt
 vless://2aa0325b-b3a3-4fff-b798-d9fb4301297f@171.22.120.155:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid=#%F0%9F%8E%B221%40oneclickvpnkeys
 vless://d4a49f13-a77a-4783-ac0f-7fdb9ab4deb0@45.142.214.75:443/?type=tcp&encryption=none&sni=google.com&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid=#%F0%9F%8E%B223%40oneclickvpnkeys
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.90.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=itunes.apple.com&fp=chrome&security=reality&pbk=3tyvN86mGzMnYhAMX06SJMYSWhG02rqzTr7GjS-OaWI&sid=6ba85179e30d4fc2#%F0%9F%8E%B224%40oneclickvpnkeys
-vless://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&sid=7554c6ea#%F0%9F%8E%B220%40oneclickvpnkeys
