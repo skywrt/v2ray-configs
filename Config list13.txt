@@ -1,3 +1,4 @@
+vless://7c403b7a-8acf-442e-98ac-8a8f038df3d5@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#🇩🇪@V2ray_official
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.55:8880?mode=gun&security=none&encryption=none&type=grpc#[🇸🇪]t.me/ConfigsHub`
 vless://819e9374-8e2e-5d5d-91bd-1afd4fe2c78c@91.207.183.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc&sni=ru2.vless.site#[🇷🇺]t.me/ConfigsHub`
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.206.186:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
@@ -497,4 +498,3 @@ vless://57daefc6-a172-4fdc-8f07-016ac0d1a1da@tgju.org:80?path=%2F%3Fed%3D2048&se
 vless://5b16a773-cdcd-40c2-9988-c0cca2753956@134.122.7.55:443?security=reality&encryption=none&pbk=yU6HcWrVmNbHP_gbt_20J5vZwkp8L11VHlQ8LqfRW3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=53#telegram 🍀 DailyV2ry
 vless://7028c224-0316-4b42-adcb-d002c63dea44@161.35.182.20:443?security=reality&encryption=none&pbk=LdicCMMMK3R9C0Pke0Ryns0FboDPrHdKjAnioiFGpH0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=0f11995d0b05#telegram 🌺 DailyV2ry
 vless://74087720-c2c2-45dd-990f-ab11d00b09c0@jermaine.ns.cloudflare.com:443?encryption=none&security=tls&sni=gho3lm.parscodes.com&type=ws&alpn=http/1.1&host=gho3lm.parscodes.com&path=/wss#telegram ☂️ DailyV2ry
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv2.cloudjetm.com:2222?type=tcp&security=none#telegram 🍊 DailyV2ry
