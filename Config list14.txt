@@ -1,5 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.170-0359
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.236-0365
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.244-0364
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy04NTI5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-0387
@@ -498,3 +496,5 @@ vless://cfbc5104-3679-45d1-9fab-c8a9b60152ec@v30.blkrose.ir:2053?security=realit
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.139.78.190:2222?security=&type=tcp&encryption=none#[🇺🇸]t.me/ConfigsHub`
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@82.152.163.123:443?security=reality&sni=itunes.apple.com&fp=chrome&pbk=7FUPFfHmcQGEF1WsK5UV28TAj_cZcBXgm_M9pFHBcEg&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&encryption=none#[🏁]t.me/ConfigsHub`
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv3.cloudjetn.com:4433?security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177&type=tcp&encryption=none#[🇺🇸]t.me/ConfigsHub`
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&path=/?ed%3D2048&host=mmdserver.us.kg&encryption=none#[🏁]t.me/ConfigsHub`
+vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.248:443?security=&type=ws&path=/&host=4h4.ghalikermaniz.info&encryption=none#[🇩🇪]t.me/ConfigsHub`
