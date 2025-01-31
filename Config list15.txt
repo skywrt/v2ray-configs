@@ -1,5 +1,3 @@
-vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F%3Fed%3D2560#🇨🇦[openproxylist.com] vless-CA```
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.82.232:2222?security=none&type=tcp#🇺🇸[openproxylist.com] vless-US```
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.35.231:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇩🇪[openproxylist.com] vless-DE```
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@13.59.48.159:2222?security=none&type=tcp#🇺🇸[openproxylist.com] vless-US```
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.191.160.118:2222?security=none&type=tcp#🇺🇸[openproxylist.com] vless-US```
@@ -498,3 +496,5 @@ ss://cc6b985d-0362-4129-8763-38564174fb3e@167.68.42.208:443?security=tls&amp;sni
 ss://a7e04b44-855e-4fe7-8fa0-31894e928bce@34.214.204.209:1212?flow=xtls-rprx-vision&amp;type=tcp&amp;security=reality&amp;fp=chrome&amp;sni=stackoverflow.com&amp;pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&amp;sid=a4844ba7&amp;spx=#telegram
 ss://ae47c041-ac0e-4e4a-b155-9707f162228e@tgju.org:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=darinG-PeRCeption.oNeEAT.cO.&amp;type=ws#telegram
 ss://b85ef6d3-76e8-4586-8300-f8d1f5e2b559@hajlab.ucdavis.edu:443?path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=joinxvproxybedeeeeee.ir&amp;type=ws&amp;sni=hajlab.ucdavis.edu#Ws%20-%20%40Vpnmasi-ea2bo3ff
+ss://acc07fc2-f37a-4b1a-bece-68f38e17cf67@104.27.107.192:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev#%40kingofilter
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaREF4WkRFMg==@95.164.44.221:8388#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%AA
