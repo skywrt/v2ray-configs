@@ -1,5 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.171:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.171:443
-vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.64.163:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.64.163:443
 vless://23e9f477-e308-4f0a-80ac-3fe2752d2cc8@163.5.94.117:14342?security=tls&sni=h.hosseinmrnull.info&type=grpc&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇫🇷 FR-163.5.94.117:14342
 vless://b6e97b8a-1b43-4fa9-ab1b-d0139df07f59@172.67.187.251:8080?security=none&type=ws&host=11tg.w79kip11.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.251:8080
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@46.151.194.89:8443?security=tls&sni=sao-br.fromblancwithlove.com&type=tcp&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇧🇷 BR-46.151.194.89:8443
@@ -498,3 +496,5 @@ vless://c5d460fb-a7cc-42ed-9091-2e99576a0a6a@78.157.63.12:31119?security=none&ty
 vless://a2ef1a8e-347e-4dc4-a1ff-de9b1ebeaf63@108.61.171.227:443?security=tls&sni=hdfyrplcpnl1.freeairlians.com&type=ws&host=hdfyrplcpnl1.freeairlians.com&path=/PaavgVfC7wqXrfw3l&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-108.61.171.227:443
 vless://2ffe29ef-258c-43f5-b63d-5017048950c2@104.21.78.204:443?security=tls&sni=papl03.JamaNI-KInsLEr.WORKErS.dEV&type=ws&host=pAPL03.JaMANI-kinsLEr.wORKErS.dev&path=%2FEmnMzJgeEcbarabP%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.204:443
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80?type=ws#🔒 VL-WS-NA 🇺🇸 US-167.82.102.107:80
+vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-147.135.1.195:443
+vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.75.231:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.231:443
