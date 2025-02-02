@@ -430,6 +430,34 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#🔒 SS-TCP-NA 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.129.200:443#🔒 SS-TCP-NA 🇧🇭 BH-15.185.129.200:443
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:7306
 ss://bm9uZTphYmFjY2FiLWFiY2EtY2FiYS1jYWRiLWFjYmFjYmNjYWFiYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.135.142:443?allowInsecure=0&sni=bs1.loadingip.com#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vmess://eyJhZGQiOiAiczEuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4MiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTUwLTUxLTk5LnMxLmNuLWRiLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC4yNy43MyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTgwLTc3LTE0MC5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjE5LjEwMy45NiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjI1LjEyNy4yNDAiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICIwOWQ1ODA1Yy03YTIyLTQ3YzEtYjFjMy1mMDkwZGYwYTk4ZWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFjLjY3OTg4OC54eXoiLCAicGF0aCI6ICIvbGZsanZ3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTMzLTEwOC0xOTcuczEuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNC4yNDguNjQiLCAidGxzIjogIiJ9
+trojan://telegram-id-directvpn@3.11.192.133:22222?sni=trojan.burgerip.co.uk#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAiNS43NS4yMDUuMTc5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAic3BlZWR0ZXN0Lm5ldCIsICJpZCI6ICI3NmM2NTEzMC0xYmJiLTQwMDktOTc1MS01MjdlYWMyNzI2MTQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9RVWVNRVd1dFpQWVlWbm5LaiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1NGYwYVx1NjcxNyBWMkNST1NTLkNPTSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic3BlZWR0ZXN0Lm5ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+trojan://telegram-id-privatevpns@13.41.15.178:22222?security=tls&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAibGFtdXNhLmRhb3poYW5nLnNpdGUiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiMWMxY2I3ZmUtYTkyOS00ZTQ3LWIyOTItNDA3M2I2M2QyZDRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxhbXVzYS5kYW96aGFuZy5zaXRlIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE2LjE1NS4xMCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwNTIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEwMi0yNDctOTIuczEuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4xNzUuMTM3IiwgInRscyI6ICIifQ==
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.155:443?sni=cmc3.5gsieuvip.vn#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.191:443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vmess://eyJhZGQiOiAiczIuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC01NS02MC0xNzQuczIuZGItbGluazAxLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42Ny42MC4xNTQiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiZmYua25jYzIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODQ0MywgImlkIjogIjg5YzM0NGYyLTA5NmMtNDQ1Yy1iNjI5LTliMTUxNTJmMzhlNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvODljMzQ0ZjIiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ==@fr1.opensocks.site:8388#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI0NS4xMzEuNy4xMCIsICJwb3J0IjogIjgwODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjJhNGZhNDBmLTk3ZjQtNGVhOS1iOTU5LWIxNDhjNDE5N2QxNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvMmE0ZmE0MGYiLCAiaG9zdCI6ICJsdW9kaS5kYXZlc3Vlbi5zdG9yZSIsICJ0bHMiOiAiIn0=
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc1.5gsieuvip.vn:443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vmess://eyJhZGQiOiAidmlzYS5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICIzNjU1ZmNjMC03NTlmLTQ1NjctODQxMC04OTEyYzFjNGJkNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGFuZ3VvLmRhbHVxdWFuLnRvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDJkNmRmNWQtZTIxYS00ZDRlLTg4NjMtNTBkYTkwNzU0M2NjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhhbGxvd2Vlbi12YWxpZGl0eS10b290aC1oYW1tZXIudHJ5Y2xvdWRmbGFyZS5jb20iLCAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yMDQ4IiwgInRscyI6ICJ0bHMifQ==
+trojan://3763495982449565696@square-walleye.treefrog761.one:443#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAiODkuMTE3LjExMi4yMzUiLCAidiI6ICIyIiwgInBzIjogIlx1N2FjYlx1OTY3Nlx1NWI5YiBWMkNST1NTLkNPTSIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://telegram-id-privatevpns@52.57.204.189:22222?sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-privatevpns@13.41.134.58:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEwMy01OC0zOS5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI1LjI0OS4yMTUiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC02Ni0yMDEtMzUuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMC43Ni42NyIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE0MS4xMDEuMTIyLjEwOSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDlkNTgwNWMtN2EyMi00N2MxLWIxYzMtZjA5MGRmMGE5OGVkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sZmxqdndzIiwgImhvc3QiOiAicmFjLjY3OTg4OC54eXoiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%E9%98%BF%E6%A0%B9%E5%BB%B7+V2CROSS.COM
 trojan://bcbaaac-acba-bcaa-cdab-cbcacbabbcaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-14-BAHMAN-1403 🕑 03:19
 trojan://acbbaac-abca-baac-dbac-abcbbccabcaa@127.0.0.1:2080?security=tls&type=tcp#💻 ART-INTL-TOOLS 🧠 TELEGRAM-CHANNEL NEUROVANCE
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.21.47.176:443
@@ -470,31 +498,3 @@ trojan://blue2024@190.93.245.154:443?sni=hb.lii2010.us.kg#🔒 TR-TCP-NA 🏴‍
 trojan://4db82bff-0889-4320-8944-7b8d8ee66ff5@89.213.40.225:2333?security=tls&sni=www&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-89.213.40.225:2333
 trojan://Aimer@5.182.84.22:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.84.22:2096
 trojan://Aimer@206.238.236.134:443?sni=ameqo.esslh.filegear-sg.me#🔒 TR-TCP-NA 🇸🇬 SG-206.238.236.134:443
-trojan://ypDt8RkT7J@89.187.181.172:43118?security=tls&sni=egcmi.phooeyunfold.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-89.187.181.172:43118
-trojan://NISHIKUITAN111@104.16.218.64:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.218.64:443
-trojan://15c33952@152.67.228.132:443?security=tls&sni=sj.5216818.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-152.67.228.132:443
-trojan://DC%26%26buj17.%23donz*@45.80.108.1:2096?security=tls&sni=suE-sUpPort.PAGES.DeV&type=ws&host=sue-support.pages.dev&path=%2FtrkFvZXtj3AJKzyJr7%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🇪🇪 EE-45.80.108.1:2096
-trojan://Aimer@216.24.57.1:2053?security=tls&sni=ngep.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-216.24.57.1:2053
-trojan://0000000@18.238.109.37:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-18.238.109.37:443
-trojan://SSorg@46.254.93.134:2087?security=tls&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.mehttp/1.1&path=/?ed#🔒 TR-WS-TLS 🇷🇺 RU-46.254.93.134:2087
-trojan://Aimer@129.226.150.167:443?security=tls&sni=ngep.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-129.226.150.167:443
-trojan://b80Iy90Fma@104.26.9.227:443?security=tls&sni=usa03.rtx.al&type=ws&host=usa03.rtx.al&path=/cfyyds#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.9.227:443
-trojan://Aimer@176.53.144.206:8443?sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒 TR-TCP-NA 🇨🇾 CY-176.53.144.206:8443
-trojan://Aimer@108.162.195.127:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-108.162.195.127:443
-trojan://3763495894587285504@89.39.70.207:443?security=tls&sni=pet-bulldog.goat627.mom&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-89.39.70.207:443
-trojan://%26P%24i%5EfJ%402E%5E4lZqy@104.17.147.22:8443?security=tls&sni=JoinmAHDiSERvEr-B3f.PageS.Dev&type=ws&host=joinmahdiserver-b3f.pages.dev&path=%2Ftr5FDg6raO486vJOV5%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.22:8443
-trojan://blue2024@104.16.144.251:443?security=tls&sni=td.promote.icu&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.16.144.251:443
-trojan://auto@104.20.19.25:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.25:443
-trojan://auto@104.20.22.149:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.22.149:443
-trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.97.152:443
-trojan://telegram-id-directvpn@35.181.236.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.181.236.182:22222
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@112.3.28.12:46002?#🔒 TR-TCP-NA 🇨🇳 CN-112.3.28.12:46002
-trojan://NISHIKUITAN111@104.24.60.239:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-104.24.60.239:443
-trojan://blue2024@185.176.26.193:443?sni=b.promote.icu#🔒 TR-TCP-NA 🇰🇿 KZ-185.176.26.193:443
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.67.131.245:443
-trojan://telegram-id-privatevpns@63.34.203.13:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.203.13:22222
-trojan://telegram-id-privatevpns@18.194.164.74:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-18.194.164.74:22222
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
-trojan://Aimer@108.165.152.55:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.55:2096
-trojan://96cad374-7573-4463-8804-4665c2c3d932@42.98.209.41:6001?sni=ho82IA13QmjF5Atv.apple.com&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-42.98.209.41:6001
-trojan://3767107462583558144@95.85.93.45:443?sni=major-ape.goat627.mom&allowInsecure=0#🔒 TR-TCP-NA 🇺🇸 US-95.85.93.45:443
