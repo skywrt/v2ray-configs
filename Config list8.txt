@@ -1,3 +1,5 @@
+vless://d6620e67-a94d-492a-bc94-b6f032c52bf0@185.146.173.185:2053?security=tls&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:2053
+vless://74cf8026-4ffc-4057-91dc-aec6d86c6f5d@135.181.155.147:40240?security=none&type=tcp&host=canva.com&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-135.181.155.147:40240
 vless://a79f88dc-17e0-4438-92e7-f64e50154e0a@188.245.208.177:26745?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.208.177:26745
 vless://e4676a6c-cae2-4dc6-8cf9-a3a91c53ea2a@91.107.180.183:443?security=tls&sni=dd5.atelienaderr.ir&type=ws&host=dd5.atelienaderr.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇩🇪 DE-91.107.180.183:443
 vless://e016b7d6-f779-4bd4-a28b-de599b01be70@104.17.165.16:443?security=tls&sni=z.softmeto.site&type=xhttp#🔒 VL-XHTTP-TLS 🏴‍☠️ NA-104.17.165.16:443
@@ -496,5 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.174.204:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.48.1:443?security=tls&sni=v2nGfaSt-Jcr.pagEs.Dev&type=ws&host=V2nGfaSt-JCr.PAgEs.DeV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.1:443
 vless://8cd1ce5a-a8e4-5bb6-97e9-8d4e6223b619@5.252.23.133:8880?security=none&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-NONE 🇸🇰 SK-5.252.23.133:8880
 vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052?security=none&type=httpupgrade&host=2.v2.www.speedtest.net.blue99shop.ir.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-45.131.4.5:2052
-vless://568ba1ae-3b93-4587-885c-f4185bb2dbac@87.249.49.138:2052?type=grpc&serviceName=8880vless#🔒 VL-GRPC-NA 🇷🇺 RU-87.249.49.138:2052
-vless://78f34fa6-e5bf-4ad4-aa51-2bb50850ca7c@172.66.46.213:443?security=tls&sni=speedtest1.svgspeedtest.net&type=ws&host=speedtest1.svgspeedtest.net&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.213:443
