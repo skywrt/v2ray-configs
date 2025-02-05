@@ -1,5 +1,3 @@
-vless://dba910a2-845a-4e63-8a88-098d6fd79a30@79.127.70.67:8822?security=none&type=tcp&host=archlinux.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.70.67:8822
-vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147.135.125.116:443?security=tls&sni=147135010103.sec19org.com&type=tcp#🔒 VL-TCP-TLS 🇺🇸 US-147.135.125.116:443
 vless://f74762d4-164f-4b48-8694-75dde7087790@151.101.128.223:80?security=none&type=ws&serviceName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=Join.UnlimitedDev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.UnlimitedDev.DDNS1-IP.nEt#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.223:80
 vless://332af47e-3375-4be0-8f2f-8ca98bf640c6@104.26.7.174:8880?security=none&type=ws&host=orangeorange阿斯達十點三十分.boxiaa.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.7.174:8880
 vless://7996d412-0b2a-4533-bba1-f7531861f1ec@85.237.211.219:8443?security=tls&sni=ul-uae2.09vpn.com&type=ws&path=%2Fvless%2F#🔒 VL-WS-TLS 🇦🇪 AE-85.237.211.219:8443
@@ -498,3 +496,5 @@ trojan://372c3834-4166-3ab4-bfbb-ebab353b6e99@gy.58n.net:43337?sni=z102.hongkong
 trojan://bpb-trojan@198.202.211.146:443?sni=bpb.my79801.com#US29
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#US30%201.9MB%2Fs
 trojan://Aimer@121.180.184.145:50000?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A597
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@gnpid1111.ndycom.com:50011?sni=sk05.zygbx.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD4
+trojan://blue2024@104.17.165.253:443?security=tls&type=ws&sni=ta.promote.icu&host=ta.promote.icu#%E6%9C%AA%E7%9F%A598
