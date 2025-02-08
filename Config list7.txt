@@ -1,3 +1,12 @@
+trojan://Aimer@173.245.59.128:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-173.245.59.128:443
+trojan://Aimer@162.159.44.231:2053?security=tls&sni=ngepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.44.231:2053
+trojan://NISHIKUITAN111@185.148.106.44:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#🔒 TR-WS-TLS 🇺🇸 US-185.148.106.44:443
+trojan://65086520307764900@18.141.14.110:443?security=tls&sni=summary-sawfish.shiner427.skin&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-18.141.14.110:443
+trojan://0000000@3.168.86.38:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-3.168.86.38:443
+trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
+trojan://3aec9607-0136-4ca1-90c2-553a0322b25e@91.199.84.112:40383?security=tls&sni=cdn.alibaba.com&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-91.199.84.112:40383
+trojan://Aimer@108.165.152.202:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-108.165.152.202:2083
+trojan://Aimer@82.115.6.219:8443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇳🇱 NL-82.115.6.219:8443
 trojan://Aimer@54.203.85.46:80?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-54.203.85.46:80
 trojan://3774827088566296576@18.139.99.11:443?sni=probable-drum.treefrog761.one#🔒 TR-TCP-NA 🇸🇬 SG-18.139.99.11:443
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@13.112.38.211:20230?security=tls&sni=jp006.421421.xyz&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-13.112.38.211:20230
@@ -489,12 +498,3 @@ trojan://bpb-trojan@104.17.102.149:2053?security=tls&sni=bpb-WorkEr-panel-bcr.Pa
 trojan://telegram-id-privatevpns@52.209.182.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.209.182.8:22222
 trojan://Aimer@5.182.85.28:443?security=tls&sni=acepo.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇷🇺 RU-5.182.85.28:443
 trojan://Aimer@104.19.239.137:2087?sni=ngepy.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.239.137:2087
-trojan://Aimer@121.137.2.55:18245?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇰🇷 KR-121.137.2.55:18245
-trojan://Aimer@14.56.139.220:11112?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-14.56.139.220:11112
-trojan://bpb-trojan@162.159.152.198:443?security=tls&sni=bpbpanel.ac.cn.eu.org&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-162.159.152.198:443
-trojan://blue2024@104.18.79.171:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.79.171:443
-trojan://Aimer@219.76.13.180:443?sni=ngepz.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🇭🇰 HK-219.76.13.180:443
-trojan://RV%3CoAVP5SBk%25Q%40jE@104.21.64.1:2096?security=tls&sni=JoInmaHdiservER-484.pagEs.DeV&type=ws&host=joinmahdiserver-484.pages.dev&path=%2FtrJBYdoA2UbPASexk2%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.64.1:2096
-trojan://V%2B%40iFj2PAdz.%7D_Hq@172.66.47.183:8443?security=tls&sni=jOinmAhdIsERveR-62E.PaGes.dEv&type=ws&host=joinmahdiserver-62e.pages.dev&path=%2FtrKKbFfqnLnKjEyatm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.183:8443
-trojan://telegram-id-privatevpns@52.30.37.86:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.30.37.86:22222
-trojan://0000000@3.168.86.96:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-3.168.86.96:443
