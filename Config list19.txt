@@ -1,14 +1,3 @@
-trojan://542f66d8-6b06-4340-a829-76d23db7ca80@185.146.173.42:443?path=%2F&amp;security=tls&amp;host=fr1.trojanvpn.xyz&amp;type=ws&amp;sni=fr1.trojanvpn.xyz#%40hopev2ray%E2%9D%A4%EF%B8%8F
-trojan://telegram-id-directvpn@15.157.238.153:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://Bw5Mz7QkVp@45.77.219.230:443?security=tls&amp;sni=z-v2-074420.kailib.com&amp;type=tcp&amp;allowInsecure=1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@63.177.133.180:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://accabab-baac-acab-cabd-cbacbbcaabca@127.0.0.1:8080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
-trojan://23d58330-ceb8-11ef-af55-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=zula.ir#%40hopev2ray%E2%99%A5%EF%B8%8F
-trojan://telegram-id-directvpn@13.37.129.243:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
-trojan://bpb-trojan@visa.cn:443?path=%2Ftr%3Fed%3D2560&amp;security=tls&amp;host=zamim340.ggff.net&amp;type=ws&amp;sni=zamim340.ggff.net#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
-trojan://3fbac340-df39-11ef-9c20-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%99
-trojan://Bw5Mz7QkVp@z-v2-074420.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
 trojan://telegram-id-privatevpns@18.130.18.57:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S107)
 trojan://telegram-id-privatevpns@35.179.63.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://c91d1950-dffe-11ef-ad89-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%A7%A1
