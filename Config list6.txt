@@ -1,3 +1,5 @@
+vless://ed8dca4a-b1c0-491d-8557-f32ad12f8dbb@65.109.181.193:29308?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#VIP%20201%20%F0%9F%87%AB%F0%9F%87%AE
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=%2FG9WiaAeAdacfio6X%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=HaSTI.fReeAIrLAINes.COm&amp;fp=randomized&amp;type=ws&amp;sni=hAsTi.frEEairLainEs.Com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://5a7d02b8-aace-4fe3-aa4a-9fa3771d51e5@91.107.139.138:443?mode=packet-up&amp;path=%2Fln2ray%3FJoinBadeChannel&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;host=media.sanaiegh.ir&amp;type=xhttp&amp;sni=media.sanaiegh.ir#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@54.202.153.207:3229?type=tcp&amp;security=none#telegram
 vless://73c732f2-d435-4197-9f33-0d7c1f47d3a9@13.61.196.41:8443?security=reality&amp;type=tcp&amp;headerType=&amp;path=&amp;host=&amp;sni=zula.ir&amp;fp=chrome&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;sid=#telegram
@@ -496,5 +498,3 @@ trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni
 trojan://telegram-id-privatevpns@3.9.58.111:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S117)
 trojan://Bw5Mz7QkVp@z-v2-077786.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
 trojan://b4305190-e617-11ef-839d-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%94%A5
-trojan://Bw5Mz7QkVp@z-v2-076194.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
-trojan://an70aOaIjcCF43gOlSB6eKER53Z38DYDx8l9RCSCpYTwXS3pueyAqyFZx2zDNA@plowman.meijireform.com:443?security=tls&amp;type=tcp&amp;headerType=none#%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9%40mftizi
