@@ -1,3 +1,14 @@
+trojan://telegram-id-directvpn@18.158.160.70:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
+trojan://telegram-id-directvpn@18.170.188.58:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
+trojan://Bw5Mz7QkVp@z-v2-074405.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
+trojan://b4305190-e617-11ef-839d-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%94%A5
+trojan://telegram-id-privatevpns@15.237.207.218:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S106)
+trojan://auto@185.146.173.158:443?security=tls&amp;type=ws&amp;sni=esetsecuritylicense.bwnsmv.workers.dev&amp;path=/Telegram@proxy&#092;_mtm/?ed=2560&amp;host=esetsecuritylicense.bwnsmv.workers.dev#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@99.80.232.202:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S110)
+trojan://Bw5Mz7QkVp@z-v2-074389.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
+trojan://telegram-id-directvpn@18.133.81.136:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://Bw5Mz7QkVp@z-v2-076956.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
+trojan://Bw5Mz7QkVp@z-v2-077984.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
 trojan://4be9a6e0-d294-11ef-b4a1-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%9B
 trojan://Bw5Mz7QkVp@z-v2-075717.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
 trojan://c2c15de0-c85c-11ef-999c-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=zula.ir#%40hopev2ray%F0%9F%A6%8B
