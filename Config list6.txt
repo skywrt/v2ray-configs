@@ -1,3 +1,5 @@
+vless://6dfa0cd0-9cc0-4982-8acd-75e26cd98b1f@cloud2.xmsvx.com:80?path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config&amp;security=none&amp;encryption=none&amp;host=jetservices55.ir&amp;type=ws#%40kingofilter%20ALL
+vless://e4bfe605-c311-4efb-a1fa-3224dbd1cde7@opn.cdnserver.info:443?mode=auto&amp;path=%2F2205ac07&amp;security=none&amp;encryption=none&amp;type=xhttp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 vless://1558eb54-38a1-44e8-b7b5-743eaf9a7399@angelina.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=671vgp.ulavpnx2.work&amp;type=ws&amp;alpn=http/1.1&amp;host=671vgp.ulavpnx2.work&amp;path=/wss#telegram
 vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:30562?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40SERVERNETT%20MCI%202
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.116.68:3229?type=tcp&amp;security=none#telegram
@@ -496,5 +498,3 @@ trojan://ccbaaab-aacb-baca-acdb-aabcbbcaccba@127.0.0.1:2080?security=tls&amp;typ
 trojan://telegram-id-directvpn@13.42.89.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
 trojan://Bw5Mz7QkVp@z-v2-082492.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
 trojan://telegram-id-directvpn@15.156.128.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
-trojan://765657b0-ceb7-11ef-b882-1239d0255272@fr1.test3.net:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%95
-trojan://bpb-trojan@visa.cn:443?path=%2Ftr%3Fed%3D2560&amp;security=tls&amp;host=zamim340.ggff.net&amp;type=ws&amp;sni=zamim340.ggff.net#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
