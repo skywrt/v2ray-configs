@@ -1,3 +1,12 @@
+trojan://Aimer@154.197.64.196:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.196:2087
+trojan://bpb-trojan@198.41.202.175:443?sni=bpb.my79801.com&type=ws&host=bpb.my79801.com&path=/tr#🔒 TR-WS-NA 🏴‍☠️ NA-198.41.202.175:443
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.232:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇻🇳 VN-103.77.246.232:443
+trojan://Aimer@104.19.107.190:2096?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.19.107.190:2096
+trojan://Aimer@51.116.121.75:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇩🇪 DE-51.116.121.75:443
+trojan://Aimer@5.182.84.52:2083?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇷🇺 RU-5.182.84.52:2083
+trojan://Aimer@199.34.228.187:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇺🇸 US-199.34.228.187:443
+trojan://3747000103274291200@85.90.194.160:443?security=tls&sni=awaited-chicken.adder289.quest&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-85.90.194.160:443
+trojan://Aimer@66.81.247.88:2083?security=tls&sni=ameqo.esslh.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-66.81.247.88:2083
 trojan://Aimer@118.35.88.114:50000?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-118.35.88.114:50000
 trojan://Aimer@209.208.227.79:443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-209.208.227.79:443
 trojan://Aimer@108.165.152.25:2087?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.165.152.25:2087
@@ -489,12 +498,3 @@ vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.4.185:80?sni=yuming.kkllllkk
 vless://9e55e24c-8de9-4357-8a37-9cf1212c6491@45.90.96.19:443?security=tls&flow=xtls-rprx-vision&sni=mods.lnmarketplace.net&type=tcp&fp=randomized&alpn=h2#🔒 VL-TCP-TLS 🇩🇪 DE-45.90.96.19:443
 vless://2e0a3077-b25c-4cca-8710-c005a7d191fc@104.21.80.1:2053?security=tls&sni=mAhDIseRVeR-Ev4.pAGEs.dev&type=ws&host=mahdiserver-ev4.pages.dev&path=%2FaSwDV2wnxd8D2yQu%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.1:2053
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.246.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.246.203:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.195:443?security=tls&sni=23sPT.pAGEs.dEV&type=ws&host=23spt.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.195:443
-vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?security=tls&sni=wear.net&type=ws&host=aw035.ir&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-199.232.210.133:443
-vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.223.202.90:80?security=none&type=ws&host=arvancloud.com#🔒 VL-WS-NONE 🇺🇸 US-159.223.202.90:80
-vless://d863b0b5-bbc2-4364-a0f4-36da9e28d457@104.17.147.22:80?security=none&type=ws&host=Naser.bKliNk.IR#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
-vless://55520747-311e-4015-83ce-be46e2060ce3@192.0.54.104:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-192.0.54.104:443
-vless://dcff408c-a6ac-4b6d-adae-3bb92b0bea9c@104.21.112.1:8443?security=tls&sni=mahDIserVer-B97.Pages.DeV&type=ws&host=mahdiserver-b97.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.112.1:8443
-vless://6bee5e20-4fa9-427d-b148-767420bb5f72@162.159.24.142:8443?security=tls&sni=pro-b.ponyo.lat&type=ws&host=pro-b.ponyo.lat&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.142:8443
-vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.32.1:443?security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:443
-vless://6b2e9804-70ae-4404-906f-458a1db459e6@104.17.148.22:2086?security=none&type=httpupgrade&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2086#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.17.148.22:2086
