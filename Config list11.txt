@@ -1,3 +1,4 @@
+vless://fdb667db-7ba5-4f9c-aa1f-705504706257@104.21.96.1:2095?security=none&type=httpupgrade#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-104.21.96.1:2095
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2FTelegram%2BChannel%2B%3A%2B@freeiranweb#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:2052
 vless://55520747-311e-4015-83ce-be46e2060ce3@212.183.88.200:443?security=tls&sni=re.vs2024.us.kg&type=ws&path=%2Fuxs.vs2024.us.kg&fp=chrome#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.200:443
 vless://259d07bc-ae4a-4fb7-8421-2296c6c4e487@103.184.44.104:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-103.184.44.104:8880
@@ -497,4 +498,3 @@ trojan://Aimer@199.34.228.143:2096?security=tls&type=tcp&sni=ngepy.ambercc.fileg
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.121.248:5001#US16%201.7MB%2Fs
 trojan://Aimer@104.26.15.138:2053?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A543
 trojan://bpb-trojan@188.114.97.88:2053?security=tls&type=ws&sni=G1-21N.paGEs.dev&host=g1-21n.pages.dev#%E6%9C%AA%E7%9F%A544
-trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#%E6%9C%AA%E7%9F%A545

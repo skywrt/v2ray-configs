@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@162.159.16.224:443?#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.16.224:443
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50020?sni=jp03.6kk.org&allowInsecure=0#🔒 TR-TCP-NA 🇬🇧 GB-5.83.221.31:50020
 trojan://auto@104.26.3.36:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.3.36:443
 trojan://Aimer@92.243.74.2:8443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇸🇬 SG-92.243.74.2:8443
@@ -497,4 +498,3 @@ vless://adc70f61-666e-8188-1418-e86fba6bdc50@146.190.179.238:443?security=realit
 vless://944ef446-ecc1-4535-9eaa-055b2fe802b0@54.37.7.3:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#🔒 VL-GRPC-RLT 🇫🇷 FR-54.37.7.3:2053
 vless://7562048f-6694-43da-a9ba-c80e92808fff@64.226.74.182:2042?security=reality&sni=ftp.debian.org&type=http&host=zula.ir&path=/&fp=chrome&pbk=0UC5UUU0EMYg1v2rv-clwdnpRYl2b-bfOvEJMXed2nI&sid=ee3caeb997f6#🔒 VL-HTTP-RLT 🇩🇪 DE-64.226.74.182:2042
 vless://2ccb5212-7516-4cd6-9409-21bc46a57b44@138.199.146.162:8443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=xyz&fp=chrome&pbk=EjNC5AgOtOl4nZ_w-6XybYz-uOkyflyPXbyjs-rTj14#🔒 VL-GRPC-RLT 🇩🇪 DE-138.199.146.162:8443
-vless://8d052411-1bff-42da-81cc-3f1d81550dbd@165.1.64.133:20303?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=SF-MPoMzBbv3p6dlm_hUgg5yxpB0P93droF86CrnPws&sid=be5acf81#🔒 VL-TCP-RLT 🇺🇸 US-165.1.64.133:20303

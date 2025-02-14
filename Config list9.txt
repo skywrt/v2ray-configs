@@ -1,3 +1,4 @@
+vless://8d052411-1bff-42da-81cc-3f1d81550dbd@165.1.64.133:20303?security=reality&flow=xtls-rprx-vision&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=SF-MPoMzBbv3p6dlm_hUgg5yxpB0P93droF86CrnPws&sid=be5acf81#🔒 VL-TCP-RLT 🇺🇸 US-165.1.64.133:20303
 vless://d42be605-1c74-45ca-8e84-01ea44c30454@95.217.184.253:1617?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=bHveONOdOTHWEOps4kG5unmxFZEcEjNinDfSyE98VlI&sid=63c379e093a46867#🔒 VL-TCP-RLT 🇫🇮 FI-95.217.184.253:1617
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@159.54.160.222:443?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp&fp=chrome&pbk=AeJ40fWPYK3WSDtY_AGv3ewG_kwQvAoDtf3KIgk1DRU&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇺🇸 US-159.54.160.222:443
 vless://f5399f86-de05-04d2-9908-ea9a384a5a35@159.223.246.124:2093?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM#🔒 VL-TCP-RLT 🇬🇧 GB-159.223.246.124:2093
@@ -497,4 +498,3 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?security=tls&sni=
 vless://edadc2f8-50b1-4049-9625-6fd5b4cb130a@162.159.44.168:443?security=tls&sni=agedw.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.168:443
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.66.43.162:2052?sni=workerr.hashdiler.workers.dev&type=ws&path=%2Ft.me%2FConfig_Station#🔒 VL-WS-NA 🏴‍☠️ NA-172.66.43.162:2052
 vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.40.145:80
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.62:443
