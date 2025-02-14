@@ -1,3 +1,12 @@
+trojan://70d2b170-c85d-11ef-917e-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=zula.ir#%40hopev2ray%E2%AD%90
+trojan://803200a0-ceb8-11ef-9955-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%A4%8D
+trojan://telegram-id-directvpn@3.65.157.55:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@3.77.77.100:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S113)
+trojan://c4b3ca10-d294-11ef-adce-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%96%A4
+trojan://Bw5Mz7QkVp@z-v2-082492.kailib.com:443?security=tls&amp;headerType=none&amp;type=tcp#telegram
+trojan://ec171c50-ceb7-11ef-8483-1239d0255272@fr1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%94%A5
+trojan://telegram-id-directvpn@54.246.8.106:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#Our
+trojan://67380160-ceb8-11ef-9941-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%96
 trojan://765657b0-ceb7-11ef-b882-1239d0255272@fr1.test3.net:443?path=%2Fhowdy&amp;security=tls&amp;host=fr1.test3.net&amp;type=ws&amp;sni=fr1.test3.net#%40hopev2ray%F0%9F%92%95
 trojan://f1649b00-dffe-11ef-9842-1239d0255272@usa.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%99
 trojan://f06ad4c0-e786-11ef-bd28-1239d0255272@uk1.test3.net:443?security=tls&amp;headerType=none&amp;type=tcp#%40hopev2ray%F0%9F%92%99
